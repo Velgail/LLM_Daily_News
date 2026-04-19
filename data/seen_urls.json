@@ -1,4 +1,11 @@
 {
   "_comment": "記事化済みURLの台帳。key=URL, value=初出日(YYYY-MM-DD)。重複検知に使用。",
-  "urls": {}
+  "urls": {
+    "https://red.anthropic.com/2026/mythos-preview/": "2026-04-19",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/": "2026-04-19",
+    "https://mistral.ai/news/mistral-small-4": "2026-04-19",
+    "https://current.ndl.go.jp/car/277042": "2026-04-19",
+    "https://www.kucoin.com/news/flash/openrouter-launches-video-generation-api-integrating-sora-2-veo-3-1-seedance": "2026-04-19",
+    "https://www.japantimes.co.jp/business/2026/04/07/tech/openai-anthropic-google-china-copy/": "2026-04-19"
+  }
 }
