@@ -1,0 +1,4 @@
+{
+  "_comment": "記事化済みURLの台帳。key=URL, value=初出日(YYYY-MM-DD)。重複検知に使用。",
+  "urls": {}
+}
