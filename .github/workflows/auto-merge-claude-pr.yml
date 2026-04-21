@@ -1,0 +1,59 @@
+name: Auto Merge Claude PRs
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    branches:
+      - main
+
+jobs:
+  auto-merge:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - name: Check branch name
+        id: check_branch
+        run: |
+          HEAD_REF="${{ github.head_ref }}"
+          if [[ "$HEAD_REF" == claude/* ]]; then
+            echo "is_claude_branch=true" >> $GITHUB_OUTPUT
+          else
+            echo "is_claude_branch=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Check all commits are by claude
+        id: check_commits
+        if: steps.check_branch.outputs.is_claude_branch == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          PR_NUMBER="${{ github.event.pull_request.number }}"
+          REPO="${{ github.repository }}"
+
+          # Get all commits in the PR
+          COMMITS=$(gh api repos/$REPO/pulls/$PR_NUMBER/commits --paginate)
+
+          # Check if all commit authors are 'claude'
+          NON_CLAUDE=$(echo "$COMMITS" | jq -r '.[].author.login // .[].commit.author.name' | grep -v -i '^claude$' || true)
+
+          if [ -z "$NON_CLAUDE" ]; then
+            echo "all_claude=true" >> $GITHUB_OUTPUT
+          else
+            echo "all_claude=false" >> $GITHUB_OUTPUT
+            echo "Non-claude commits found:"
+            echo "$NON_CLAUDE"
+          fi
+
+      - name: Merge PR
+        if: |
+          steps.check_branch.outputs.is_claude_branch == 'true' &&
+          steps.check_commits.outputs.all_claude == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          PR_NUMBER="${{ github.event.pull_request.number }}"
+          REPO="${{ github.repository }}"
+          gh pr merge $PR_NUMBER --repo $REPO --merge --auto
