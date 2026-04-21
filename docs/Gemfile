@@ -1,0 +1,12 @@
+source "https://rubygems.org"
+
+# GitHub Pages 推奨の依存セット。ローカルプレビュー用。
+# 本番ビルドは GitHub Pages のサーバー側で行われます。
+gem "github-pages", group: :jekyll_plugins
+
+group :jekyll_plugins do
+  gem "jekyll-feed"
+  gem "jekyll-seo-tag"
+  gem "jekyll-sitemap"
+  gem "jekyll-paginate"
+end

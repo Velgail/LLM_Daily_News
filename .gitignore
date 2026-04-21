@@ -2,3 +2,11 @@
 __pycache__/
 *.py[cod]
 .DS_Store
+
+# Jekyll
+docs/_site/
+docs/.jekyll-cache/
+docs/.jekyll-metadata
+docs/Gemfile.lock
+docs/vendor/
+.bundle/
