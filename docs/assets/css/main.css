@@ -588,20 +588,149 @@ a:hover { color: var(--accent-strong); text-decoration: underline; text-underlin
 
 /* ---------- Responsive ---------- */
 @media (max-width: 720px) {
-  .site-main { padding: 32px 18px 64px; }
-  .masthead-inner { padding: 12px 18px; gap: 12px; }
-  .masthead-title-main { font-size: 19px; }
+  .site-main {
+    padding: 24px 16px 56px;
+    /* iOS のノッチ／ホームインジケーター対応 */
+    padding-left: max(16px, env(safe-area-inset-left));
+    padding-right: max(16px, env(safe-area-inset-right));
+    padding-bottom: max(56px, env(safe-area-inset-bottom));
+  }
+  .masthead-inner {
+    padding: 10px 16px;
+    padding-left: max(16px, env(safe-area-inset-left));
+    padding-right: max(16px, env(safe-area-inset-right));
+    gap: 10px;
+  }
+  .masthead-title { gap: 8px; }
+  .masthead-title-main { font-size: 17px; }
   .masthead-title-sub { display: none; }
   .masthead-meta { font-size: 11px; gap: 8px; }
-  .site-nav ul { padding: 0 10px; }
-  .site-nav a { padding: 10px 10px; font-size: 12px; }
-  .home-hero { margin-bottom: 32px; padding-bottom: 24px; }
-  .issue-list { grid-template-columns: 1fr; gap: 16px; }
-  .post-content { font-size: 16px; }
-  .post-content h2 { font-size: 21px; margin-top: 36px; }
-  .post-content h3 { font-size: 17px; }
+  .masthead-badge { padding: 3px 8px; font-size: 10px; }
+
+  /* ナビは横スクロール（折り返さず一行に収める） */
+  .site-nav { -webkit-overflow-scrolling: touch; }
+  .site-nav ul {
+    padding: 0 12px;
+    padding-left: max(12px, env(safe-area-inset-left));
+    padding-right: max(12px, env(safe-area-inset-right));
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    scroll-snap-type: x proximity;
+  }
+  .site-nav ul::-webkit-scrollbar { display: none; }
+  .site-nav li { flex: 0 0 auto; scroll-snap-align: start; }
+  .site-nav a {
+    /* 44px 以上のタップ領域確保（Apple HIG / Material 推奨） */
+    padding: 12px 12px;
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
+    font-size: 13px;
+    white-space: nowrap;
+  }
+
+  .home-hero { margin-bottom: 28px; padding-bottom: 20px; }
+  .home-hero h1 { margin-bottom: 10px; }
+  .home-hero .lead { font-size: 15px; line-height: 1.7; }
+
+  .issue-list { grid-template-columns: 1fr; gap: 14px; }
+  .issue-card { padding: 18px 18px 16px; border-radius: 12px; }
+  .issue-card h2 { font-size: 17px; line-height: 1.5; }
+  .issue-card .issue-excerpt { font-size: 13.5px; -webkit-line-clamp: 3; }
+
+  .home-more { margin-top: 36px; }
+  .home-more a { padding: 12px 22px; min-height: 44px; display: inline-flex; align-items: center; }
+
+  /* 記事本文 */
+  .post-header { margin-bottom: 28px; padding-bottom: 18px; }
+  .post-content { font-size: 16px; line-height: 1.85; }
+  .post-content h2 { font-size: 21px; margin-top: 36px; padding-top: 10px; }
+  .post-content h3 { font-size: 17px; margin-top: 28px; }
+  .post-content h4 { font-size: 15px; margin-top: 22px; }
+  .post-content blockquote {
+    margin: 18px -4px;
+    padding: 14px 16px;
+    font-size: 14.5px;
+  }
+  .post-content pre {
+    /* コードブロックを画面端まで広げて読みやすく */
+    margin-left: -16px;
+    margin-right: -16px;
+    border-radius: 0;
+    padding: 14px 16px;
+    font-size: 12.5px;
+  }
+
+  /* "元記事を読む →" ボタンをモバイルでは全幅化して押しやすく */
+  .post-content p > strong:only-child > a {
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 14px 18px;
+    font-size: 15px;
+  }
+
+  .post-disclaimer {
+    margin-top: 40px;
+    padding: 16px 18px;
+    font-size: 12.5px;
+  }
+
+  .post-nav { margin-top: 32px; padding-top: 18px; gap: 8px; font-size: 13px; }
+  .post-nav a { padding: 12px 12px; min-height: 44px; display: inline-flex; align-items: center; }
+
+  /* アーカイブ */
+  .archive-year h2 { font-size: 22px; }
+  .archive-month li {
+    flex-wrap: wrap;
+    gap: 4px 12px;
+    padding: 12px 0;
+  }
+  .archive-month li time { flex: 0 0 auto; font-size: 11.5px; }
+  .archive-month li a { flex: 1 1 100%; font-size: 14.5px; line-height: 1.5; }
+
+  /* ページャ */
+  .pagination { margin-top: 40px; gap: 8px; }
+  .pagination a, .pagination span { padding: 10px 12px; min-height: 44px; display: inline-flex; align-items: center; }
+
+  /* 汎用ページ（about / disclaimer） */
+  .page-title { margin-bottom: 24px; padding-bottom: 12px; }
+  .page-content { font-size: 15.5px; line-height: 1.8; }
+  .page-content h2 { font-size: 18px; margin-top: 28px; }
+  .page-content h3 { font-size: 15px; margin-top: 20px; }
+
+  /* テーブルは横スクロール可能に */
+  .page-content table,
+  .post-content table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    max-width: 100%;
+  }
+
+  /* フッター */
+  .site-footer { margin-top: 56px; }
+  .footer-inner {
+    padding: 24px 16px 32px;
+    padding-left: max(16px, env(safe-area-inset-left));
+    padding-right: max(16px, env(safe-area-inset-right));
+    padding-bottom: max(32px, env(safe-area-inset-bottom));
+    font-size: 12.5px;
+  }
 }
 
 @media (max-width: 480px) {
+  .site-main { padding-top: 20px; }
   .masthead-meta .masthead-tagline { display: none; }
+  .home-hero h1 { font-size: clamp(26px, 7vw, 32px); }
+  .post-title { font-size: clamp(24px, 6.5vw, 30px); }
+  .issue-card .issue-edition { font-size: 10px; }
+}
+
+/* タップ可能要素のハイライト色を抑える */
+@media (hover: none) and (pointer: coarse) {
+  a, button { -webkit-tap-highlight-color: rgba(194, 65, 12, 0.22); }
+  .issue-card:hover { transform: none; }
 }
