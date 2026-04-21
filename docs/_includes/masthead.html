@@ -1,19 +1,17 @@
 <header class="masthead">
   <div class="masthead-inner">
-    <div class="masthead-meta-left">
-      <span class="masthead-date">
-        {% assign latest = site.posts.first %}
-        {% if latest %}{{ latest.date | date: "%Y年%-m月%-d日" }} 発行{% else %}創刊準備中{% endif %}
-      </span>
-      <span class="masthead-vol">第 {{ site.posts.size }} 号</span>
-    </div>
     <a class="masthead-title" href="{{ '/' | relative_url }}">
       <span class="masthead-title-main">こたつLLM速報</span>
-      <span class="masthead-title-sub">KOTATSU LLM TIMES</span>
+      <span class="masthead-title-sub">Kotatsu LLM Times</span>
     </a>
-    <div class="masthead-meta-right">
-      <span class="masthead-tagline">{{ site.tagline }}</span>
-      <span class="masthead-price">無料 / 非営利</span>
+    <div class="masthead-meta">
+      {% assign latest = site.posts.first %}
+      {% if latest %}
+        <span class="masthead-tagline">{{ latest.date | date: "%Y.%-m.%-d" }} 更新 ・ 全 {{ site.posts.size }} 号</span>
+      {% else %}
+        <span class="masthead-tagline">創刊準備中</span>
+      {% endif %}
+      <span class="masthead-badge">LIVE</span>
     </div>
   </div>
 </header>
