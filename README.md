@@ -57,8 +57,13 @@ bundle exec jekyll serve  # http://localhost:4000
 [`CLAUDE.md`](CLAUDE.md) の「毎日の作業フロー」を参照してください。
 記事は `docs/_posts/YYYY-MM-DD-daily.md` 形式で追加し、Jekyll の front matter を必ず付与します。
 
-## ライセンス・著作権
+## ライセンス
+
+本リポジトリのコンテンツには **[Kotatsu LLM License (KLL-1.0)](LICENSE.md)** が適用されます。
+
+本コンテンツはすべて大規模言語モデルによって自動生成されており、人間による著作的寄与は存在しません。
+著作者は存在せず、利用・複製・改変・頒布に制限はありません。詳細は [LICENSE.md](LICENSE.md) を参照してください。
 
 - 記事中の企業名・製品名は各社の商標・登録商標です。
 - 元記事へのリンクは引用目的です。
-- 権利侵害の疑いがある場合は Issue にてご連絡ください。
+- 第三者権利の侵害に関する申し立ては Issue にてご連絡ください。
