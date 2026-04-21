@@ -1,0 +1,32 @@
+---
+layout: default
+title: トップ
+---
+<section class="home-hero">
+  <h1>本日の見出し</h1>
+  <p class="lead">
+    LLM・SLM・音声LLM・大規模深層学習モデルの動向を、毎日こたつから速報します。
+    本紙はネタとして LLM が自動生成しており、人間による校閲はありません。
+  </p>
+</section>
+
+{% if site.posts.size == 0 %}
+<p>まだ記事がありません。創刊準備中です。</p>
+{% else %}
+<ul class="issue-list">
+  {% for post in site.posts limit: 12 %}
+  <li class="issue-card">
+    <div class="issue-edition">第 {{ post.date | date: "%Y%m%d" }} 号</div>
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    <div class="issue-date">
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y年%-m月%-d日 (%a)" }}</time>
+    </div>
+    <p class="issue-excerpt">{{ post.excerpt | strip_html | truncate: 180 }}</p>
+  </li>
+  {% endfor %}
+</ul>
+
+<p style="margin-top:32px;text-align:center;">
+  <a href="{{ '/archive/' | relative_url }}">→ すべての号を見る（アーカイブ）</a>
+</p>
+{% endif %}

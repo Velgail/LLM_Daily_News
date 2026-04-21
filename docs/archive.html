@@ -1,0 +1,30 @@
+---
+layout: page
+title: アーカイブ
+permalink: /archive/
+---
+
+<p>これまでに発行されたすべての号を、年・月別に一覧表示します。<br>
+合計 <strong>{{ site.posts.size }}</strong> 号 を発行しました。</p>
+
+{% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+{% for year_group in posts_by_year %}
+  <section class="archive-year">
+    <h2>{{ year_group.name }}年</h2>
+    {% assign posts_by_month = year_group.items | group_by_exp: "post", "post.date | date: '%Y-%m'" %}
+    {% for month_group in posts_by_month %}
+      {% assign month_label = month_group.items[0].date | date: "%-m月" %}
+      <div class="archive-month">
+        <h3>{{ month_label }}（{{ month_group.items.size }} 号）</h3>
+        <ul>
+          {% for post in month_group.items %}
+            <li>
+              <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
+              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    {% endfor %}
+  </section>
+{% endfor %}
