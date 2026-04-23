@@ -21,7 +21,20 @@ title: トップ
     <div class="issue-date">
       <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y年%-m月%-d日 (%a)" }}</time>
     </div>
-    <p class="issue-excerpt">{{ post.excerpt | strip_html | truncate: 180 }}</p>
+    {% comment %}
+      post.excerpt はデフォルトでは本文先頭の「## 📰 今日のニュース」見出しになってしまい、
+      どの号のカードにも同じ「今日のニュース」が並んで見えるため、
+      本文全体から見出し類を除去した上で先頭付近を抜粋する。
+    {% endcomment %}
+    {% assign excerpt_source = post.content
+      | strip_html
+      | replace: "📰 今日のニュース", ""
+      | replace: "📰 本号のニュース", ""
+      | replace: "🔍 独自考察", ""
+      | replace: "今日のトレンド深掘り", ""
+      | normalize_whitespace
+      | strip %}
+    <p class="issue-excerpt">{{ excerpt_source | truncate: 180 }}</p>
   </li>
   {% endfor %}
 </ul>
