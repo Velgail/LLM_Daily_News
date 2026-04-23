@@ -1,5 +1,5 @@
 {
-  "_comment": "記事化済みURLの台帳。key=URL, value=初出日(YYYY-MM-DD)。重複検知に使用。",
+  "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
     "https://red.anthropic.com/2026/mythos-preview/": "2026-04-19",
     "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/": "2026-04-19",
