@@ -50,6 +50,26 @@
       "date": "2026-04-23",
       "title": "Grok Speech to Text and Text to Speech APIs",
       "topic_key": "xai-grok-stt-tts-api-launch"
+    },
+    "https://api-docs.deepseek.com/news/news260424": {
+      "date": "2026-04-24",
+      "title": "DeepSeek-V4 Preview Release (V4-Pro / V4-Flash, 1M context, Huawei Ascend support)",
+      "topic_key": "deepseek-v4-preview-release"
+    },
+    "https://openai.com/index/introducing-gpt-5-5": {
+      "date": "2026-04-24",
+      "title": "Introducing GPT-5.5 (ChatGPT/Codex update, API GA, Codex SDK GA)",
+      "topic_key": "gpt-5.5-release"
+    },
+    "https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple": {
+      "date": "2026-04-24",
+      "title": "Joint statement from Google and Apple (Apple Foundation Models on Gemini, Siri partnership)",
+      "topic_key": "apple-google-gemini-foundation-models-partnership"
+    },
+    "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-agent-platform": {
+      "date": "2026-04-24",
+      "title": "Introducing Gemini Enterprise Agent Platform (Vertex AI rebrand, Agent Studio, ADK, A2A)",
+      "topic_key": "gemini-enterprise-agent-platform-launch"
     }
   }
 }
