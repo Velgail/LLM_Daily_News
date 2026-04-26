@@ -70,6 +70,26 @@
       "date": "2026-04-24",
       "title": "Introducing Gemini Enterprise Agent Platform (Vertex AI rebrand, Agent Studio, ADK, A2A)",
       "topic_key": "gemini-enterprise-agent-platform-launch"
+    },
+    "https://cnbc.com/2026/04/24/google-to-invest-up-to-40-billion-in-anthropic-as-search-giant-spreads-its-ai-bets.html": {
+      "date": "2026-04-26",
+      "title": "Google to invest up to $40 billion in Anthropic as search giant spreads its AI bets",
+      "topic_key": "google-anthropic-40b-investment-2026"
+    },
+    "https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation": {
+      "date": "2026-04-26",
+      "title": "What to know about the Sora discontinuation (Sora app/web shutdown 2026-04-26)",
+      "topic_key": "openai-sora-app-shutdown-april-2026"
+    },
+    "https://huggingface.co/moonshotai/Kimi-K2.6": {
+      "date": "2026-04-26",
+      "title": "Moonshot AI Kimi K2.6 GA release (1T MoE, 262k ctx, 300 sub-agent swarm)",
+      "topic_key": "moonshot-kimi-k2.6-release"
+    },
+    "https://marktechpost.com/2026/04/21/hugging-face-releases-ml-intern-an-open-source-ai-agent-that-automates-the-llm-post-training-workflow": {
+      "date": "2026-04-26",
+      "title": "Hugging Face Releases ml-intern: Open-Source AI Agent for LLM Post-Training Automation",
+      "topic_key": "huggingface-ml-intern-release"
     }
   }
 }
