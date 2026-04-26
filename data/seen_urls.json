@@ -90,6 +90,21 @@
       "date": "2026-04-26",
       "title": "Hugging Face Releases ml-intern: Open-Source AI Agent for LLM Post-Training Automation",
       "topic_key": "huggingface-ml-intern-release"
+    },
+    "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims": {
+      "date": "2026-04-26",
+      "title": "Unauthorized group has gained access to Anthropic's exclusive cyber tool Mythos",
+      "topic_key": "anthropic-mythos-unauthorized-access-incident"
+    },
+    "https://openai.com/index/making-chatgpt-better-for-clinicians": {
+      "date": "2026-04-26",
+      "title": "Making ChatGPT better for clinicians (ChatGPT for Clinicians launch + HealthBench Professional)",
+      "topic_key": "openai-chatgpt-for-clinicians-launch"
+    },
+    "https://testingcatalog.net/grok-build-and-grok-computer-xais-big-coding-push-is-finally-here": {
+      "date": "2026-04-26",
+      "title": "Grok Build and Grok Computer: xAI's big coding push is finally here",
+      "topic_key": "xai-grok-build-computer-coding-agent-launch"
     }
   }
 }
