@@ -125,6 +125,31 @@
       "date": "2026-04-29",
       "title": "Meta Muse Spark has promise; Wall Street wants Zuckerberg's AI strategy",
       "topic_key": "meta-muse-spark-q1-earnings-strategy-2026"
+    },
+    "https://www.axios.com/2026/04/29/trump-anthropic-pentagon-ai-executive-order-gov": {
+      "date": "2026-04-30",
+      "title": "White House drafts plans to permit federal Anthropic use (Mythos cybersecurity limited clearance)",
+      "topic_key": "white-house-anthropic-federal-access-2026"
+    },
+    "https://www.bloomberg.com/news/articles/2026-04-29/goldman-staff-in-hong-kong-lose-access-to-anthropic-s-claude": {
+      "date": "2026-04-30",
+      "title": "Goldman Staff in Hong Kong Lose Access to Anthropic's Claude",
+      "topic_key": "goldman-sachs-claude-hong-kong-ban"
+    },
+    "https://www.euronews.com/next/2026/04/24/elon-musks-xai-discussed-partnership-with-mistral-to-try-and-rival-openai-and-anthropic-re": {
+      "date": "2026-04-30",
+      "title": "Elon Musk's xAI discussed three-way partnership with Mistral and Cursor",
+      "topic_key": "xai-mistral-cursor-three-way-partnership"
+    },
+    "https://fortune.com/2026/04/24/anthropic-engineering-missteps-claude-code-performance-decline-user-backlash/": {
+      "date": "2026-04-30",
+      "title": "Anthropic explains Claude Code's recent performance decline after weeks of user backlash",
+      "topic_key": "anthropic-claude-code-performance-decline"
+    },
+    "https://www.prnewswire.com/news-releases/rogo-raises-160m-series-d-to-scale-the-agentic-platform-for-finance-302756546.html": {
+      "date": "2026-04-30",
+      "title": "Rogo Raises $160M Series D to Scale the Agentic Platform for Finance",
+      "topic_key": "rogo-series-d-finance-ai-agent-2026"
     }
   }
 }
