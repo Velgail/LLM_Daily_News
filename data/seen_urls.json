@@ -165,6 +165,31 @@
       "date": "2026-05-01",
       "title": "Training language models to be warm can reduce accuracy and increase sycophancy (Nature)",
       "topic_key": "llm-warmth-accuracy-sycophancy-nature-2026"
+    },
+    "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b": {
+      "date": "2026-05-02",
+      "title": "Anthropic could raise a new $50B round at a valuation of $900B",
+      "topic_key": "anthropic-900b-valuation-funding-2026"
+    },
+    "https://www.washingtonpost.com/technology/2026/05/01/pentagon-ai-deals-microsoft-amazon-google-classified-military": {
+      "date": "2026-05-02",
+      "title": "Pentagon strikes AI deals for classified military use with 7 tech companies",
+      "topic_key": "pentagon-7-bigtech-ai-classified-deal-may-2026"
+    },
+    "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too": {
+      "date": "2026-05-02",
+      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+      "topic_key": "gpt-5.5-cyber-rollout"
+    },
+    "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week": {
+      "date": "2026-05-02",
+      "title": "Meta says its business AI now facilitates 10 million conversations a week",
+      "topic_key": "meta-business-ai-10m-weekly-conversations"
+    },
+    "https://fortune.com/2026/04/30/google-amazon-ai-profits-anthropic-stake-bubble-earnings-2026": {
+      "date": "2026-05-02",
+      "title": "Half of Google's and Amazon's 'blowout AI profits' came from a stake in Anthropic",
+      "topic_key": "google-amazon-q1-profits-anthropic-stake"
     }
   }
 }
