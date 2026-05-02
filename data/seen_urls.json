@@ -190,6 +190,31 @@
       "date": "2026-05-02",
       "title": "Half of Google's and Amazon's 'blowout AI profits' came from a stake in Anthropic",
       "topic_key": "google-amazon-q1-profits-anthropic-stake"
+    },
+    "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5": {
+      "date": "2026-05-03",
+      "title": "Mistral Medium 3.5 & Vibe Remote Agents (128B Dense, SWE-Bench 77.6%, cloud async agents)",
+      "topic_key": "mistral-medium-3-5-release"
+    },
+    "https://anthropic.com/news/claude-for-creative-work": {
+      "date": "2026-05-03",
+      "title": "Anthropic Claude for Creative Work — 9 connectors for Adobe, Blender, Ableton, Autodesk",
+      "topic_key": "anthropic-claude-creative-connectors-adobe-blender"
+    },
+    "https://venturebeat.com/technology/xai-launches-grok-4-3-at-an-aggressively-low-price-and-a-new-fast-powerful-voice-cloning-suite": {
+      "date": "2026-05-03",
+      "title": "Grok 4.3 API full release — 40% price cut, 1M context, native video input, voice cloning suite",
+      "topic_key": "grok-4-3-api-general-release"
+    },
+    "https://openai.com/index/advanced-account-security": {
+      "date": "2026-05-03",
+      "title": "OpenAI Advanced Account Security — passkeys, Yubico partnership, training data exclusion",
+      "topic_key": "openai-advanced-account-security-yubico"
+    },
+    "https://blog.cloudflare.com/agents-stripe-projects": {
+      "date": "2026-05-03",
+      "title": "Cloudflare + Stripe AI agent autonomous deploy protocol — accounts, domains, payments",
+      "topic_key": "cloudflare-stripe-ai-agent-deploy-protocol"
     }
   }
 }
