@@ -215,6 +215,31 @@
       "date": "2026-05-03",
       "title": "Cloudflare + Stripe AI agent autonomous deploy protocol — accounts, domains, payments",
       "topic_key": "cloudflare-stripe-ai-agent-deploy-protocol"
+    },
+    "https://www.marktechpost.com/2026/05/03/sakana-ai-introduces-kame-a-tandem-speech-to-speech-architecture-that-injects-llm-knowledge-in-real-time/": {
+      "date": "2026-05-04",
+      "title": "Sakana AI Introduces KAME: A Tandem Speech-to-Speech Architecture That Injects LLM Knowledge in Real-Time",
+      "topic_key": "sakana-ai-kame-s2s-architecture"
+    },
+    "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/": {
+      "date": "2026-05-04",
+      "title": "Google's Gemini AI assistant is hitting the road in millions of vehicles",
+      "topic_key": "gemini-android-automotive-rollout"
+    },
+    "https://www.nist.gov/news-events/news/2026/05/caisi-evaluation-deepseek-v4-pro": {
+      "date": "2026-05-04",
+      "title": "CAISI Evaluation of DeepSeek V4 Pro",
+      "topic_key": "nist-deepseek-v4-pro-evaluation"
+    },
+    "https://aimagazine.com/news/why-uber-has-already-burned-through-its-ai-budget": {
+      "date": "2026-05-04",
+      "title": "Why Uber has Already Burned Through its AI Budget",
+      "topic_key": "uber-ai-budget-claude-code-2026"
+    },
+    "https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/": {
+      "date": "2026-05-04",
+      "title": "Microsoft Agent 365, now generally available, expands capabilities and integrations",
+      "topic_key": "microsoft-agent-365-ga"
     }
   }
 }
