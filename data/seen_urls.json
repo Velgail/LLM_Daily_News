@@ -240,6 +240,31 @@
       "date": "2026-05-04",
       "title": "Microsoft Agent 365, now generally available, expands capabilities and integrations",
       "topic_key": "microsoft-agent-365-ga"
+    },
+    "https://research.ibm.com/blog/granite-4-1-ai-foundation-models": {
+      "date": "2026-05-05",
+      "title": "Introducing the IBM Granite 4.1 family of models",
+      "topic_key": "ibm-granite-4.1-release"
+    },
+    "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age": {
+      "date": "2026-05-05",
+      "title": "Building the compute infrastructure for the Intelligence Age (Stargate 10GW milestone)",
+      "topic_key": "openai-stargate-10gw-milestone"
+    },
+    "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room": {
+      "date": "2026-05-05",
+      "title": "Week one of the Musk v. Altman trial: distillation admission, settlement attempt, Brockman testimony",
+      "topic_key": "musk-altman-trial-week1-distillation-settlement"
+    },
+    "https://blog.cloudflare.com/high-performance-llms": {
+      "date": "2026-05-05",
+      "title": "Building the foundation for running extra-large language models (Cloudflare Infire LLM inference)",
+      "topic_key": "cloudflare-infire-llm-inference"
+    },
+    "https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html": {
+      "date": "2026-05-05",
+      "title": "2026: The Year of AI-Assisted Attacks",
+      "topic_key": "ai-cyber-attacks-frontier-model-2026"
     }
   }
 }
