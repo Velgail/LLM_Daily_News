@@ -265,6 +265,31 @@
       "date": "2026-05-05",
       "title": "2026: The Year of AI-Assisted Attacks",
       "topic_key": "ai-cyber-attacks-frontier-model-2026"
+    },
+    "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services": {
+      "date": "2026-05-06",
+      "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
+      "topic_key": "openai-anthropic-enterprise-jv-may2026"
+    },
+    "https://anthropic.com/news/finance-agents": {
+      "date": "2026-05-06",
+      "title": "Agents for financial services and insurance — Anthropic launches 10 pre-built finance agents",
+      "topic_key": "anthropic-finance-agents-ten-may2026"
+    },
+    "https://openai.com/index/openai-pwc-finance-collaboration": {
+      "date": "2026-05-06",
+      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+      "topic_key": "openai-pwc-cfo-finance-collaboration"
+    },
+    "https://businesswire.com/news/home/20260504126906/en/fis-brings-agentic-ai-to-banking-with-anthropic-starting-with-financial-crimes": {
+      "date": "2026-05-06",
+      "title": "FIS Brings Agentic AI to Banking with Anthropic, Starting with Financial Crimes",
+      "topic_key": "fis-anthropic-financial-crimes-agent"
+    },
+    "https://claude.com/code-with-claude/san-francisco": {
+      "date": "2026-05-06",
+      "title": "Code with Claude San Francisco — May 6, 2026 developer conference",
+      "topic_key": "code-with-claude-sf-may2026"
     }
   }
 }
