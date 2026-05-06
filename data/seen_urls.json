@@ -290,6 +290,31 @@
       "date": "2026-05-06",
       "title": "Code with Claude San Francisco — May 6, 2026 developer conference",
       "topic_key": "code-with-claude-sf-may2026"
+    },
+    "https://news.sap.com/2026/05/sap-to-acquire-prior-labs-establish-frontier-ai-lab-europe": {
+      "date": "2026-05-07",
+      "title": "SAP to Acquire Prior Labs to Establish a Globally Leading Frontier AI Lab in Europe",
+      "topic_key": "sap-prior-labs-acquisition-2026"
+    },
+    "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums": {
+      "date": "2026-05-07",
+      "title": "Google updates AI search to include quotes from Reddit and other sources",
+      "topic_key": "google-ai-search-reddit-expert-advice-2026"
+    },
+    "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors": {
+      "date": "2026-05-07",
+      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "topic_key": "harvard-ai-emergency-room-study-2026"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-04/white-house-eyes-vetting-ai-models-before-release-ny-times-says": {
+      "date": "2026-05-07",
+      "title": "White House Eyes Vetting AI Models Before Release",
+      "topic_key": "white-house-ai-model-vetting-2026"
+    },
+    "https://www.ghacks.net/2026/05/06/google-home-spring-2026-update-adds-gemini-3-1-web-interface-and-improved-camera-navigation": {
+      "date": "2026-05-07",
+      "title": "Google Home Spring 2026 Update Adds Gemini 3.1, Web Interface, and Improved Camera Navigation",
+      "topic_key": "google-home-gemini-3.1-spring-update-2026"
     }
   }
 }
