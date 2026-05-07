@@ -315,6 +315,31 @@
       "date": "2026-05-07",
       "title": "Google Home Spring 2026 Update Adds Gemini 3.1, Web Interface, and Improved Camera Navigation",
       "topic_key": "google-home-gemini-3.1-spring-update-2026"
+    },
+    "https://9to5mac.com/2026/05/07/anthropic-updates-claude-managed-agents-with-three-new-features": {
+      "date": "2026-05-08",
+      "title": "Anthropic updates Claude Managed Agents with Dreaming, Outcomes, and Multi-agent Orchestration",
+      "topic_key": "claude-managed-agents-dreaming"
+    },
+    "https://9to5google.com/2026/05/06/gemini-agent-planner-upgrade": {
+      "date": "2026-05-08",
+      "title": "Google preps 'Remy' Gemini Agent as 24/7 digital partner with purchase and web action capabilities",
+      "topic_key": "google-gemini-remy-24-7-agent"
+    },
+    "https://openai.com/index/gpt-5-5-instant": {
+      "date": "2026-05-08",
+      "title": "GPT-5.5 Instant: ChatGPT new default model — 52% fewer hallucinations, 30% shorter responses, Gmail personalization",
+      "topic_key": "gpt-5.5-instant-chatgpt-default"
+    },
+    "https://openai.com/index/testing-ads-in-chatgpt": {
+      "date": "2026-05-08",
+      "title": "OpenAI opens self-serve ChatGPT Ads Manager beta — CPC bidding, Conversions API, no minimum spend",
+      "topic_key": "openai-chatgpt-ads-self-serve-platform"
+    },
+    "https://cnbc.com/2026/05/07/open-ai-trial-shivon-zilis-musk-altman-tesla-board.html": {
+      "date": "2026-05-08",
+      "title": "Musk v. Altman trial week 2: Zilis testifies Musk offered Altman Tesla board seat; Brockman reveals secret Tesla work",
+      "topic_key": "musk-altman-trial-week2-zilis-brockman"
     }
   }
 }
