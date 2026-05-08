@@ -340,6 +340,26 @@
       "date": "2026-05-08",
       "title": "Musk v. Altman trial week 2: Zilis testifies Musk offered Altman Tesla board seat; Brockman reveals secret Tesla work",
       "topic_key": "musk-altman-trial-week2-zilis-brockman"
+    },
+    "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api": {
+      "date": "2026-05-09",
+      "title": "OpenAI launches GPT-Realtime-2, GPT-Realtime-Translate, GPT-Realtime-Whisper — three new voice AI models",
+      "topic_key": "openai-gpt-realtime-2-voice-models"
+    },
+    "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-1-flash-lite-is-now-generally-available": {
+      "date": "2026-05-09",
+      "title": "Gemini 3.1 Flash-Lite is now generally available — $0.25/$1.50 per 1M tokens, 2.5x faster TTFT",
+      "topic_key": "gemini-3.1-flash-lite-ga"
+    },
+    "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models": {
+      "date": "2026-05-09",
+      "title": "Apple plans iOS 27 AI Extensions — users can choose Gemini, Claude, and other third-party models for Siri",
+      "topic_key": "apple-ios27-ai-extensions-third-party"
+    },
+    "https://venturebeat.com/technology/miami-startup-subquadratic-claims-1-000x-ai-efficiency-gain-with-subq-model-researchers-demand-independent-proof": {
+      "date": "2026-05-09",
+      "title": "Subquadratic launches SubQ LLM with 12M token context, claims 1,000x efficiency vs Transformer; researchers skeptical",
+      "topic_key": "subquadratic-subq-llm-launch"
     }
   }
 }
