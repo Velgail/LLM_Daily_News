@@ -360,6 +360,31 @@
       "date": "2026-05-09",
       "title": "Subquadratic launches SubQ LLM with 12M token context, claims 1,000x efficiency vs Transformer; researchers skeptical",
       "topic_key": "subquadratic-subq-llm-launch"
+    },
+    "https://anthropic.com/news/higher-limits-spacex": {
+      "date": "2026-05-10",
+      "title": "Anthropic + SpaceX Colossus 1 compute deal — Claude Code rate limits doubled for Pro/Max/Team/Enterprise",
+      "topic_key": "anthropic-spacex-colossus-claude-code-limits-doubled"
+    },
+    "https://marktechpost.com/2026/05/08/openai-adds-chrome-extension-to-codex-letting-its-ai-agent-access-linkedin-salesforce-gmail-and-internal-tools-via-signed-in-sessions": {
+      "date": "2026-05-10",
+      "title": "OpenAI Codex Chrome Extension — browser-based agent access to LinkedIn, Gmail, Salesforce via signed-in sessions",
+      "topic_key": "openai-codex-chrome-extension"
+    },
+    "https://the-decoder.com/claude-now-works-across-all-three-major-office-apps": {
+      "date": "2026-05-10",
+      "title": "Claude for Microsoft 365 — Word/Excel/PowerPoint GA, Outlook beta, cross-app context",
+      "topic_key": "claude-microsoft-365-integration"
+    },
+    "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors": {
+      "date": "2026-05-10",
+      "title": "ElevenLabs surpasses $500M ARR, Series D tops $550M with BlackRock, NVIDIA, celebrity investors",
+      "topic_key": "elevenlabs-500m-arr-series-d"
+    },
+    "https://9to5mac.com/2026/05/05/openais-new-phone-being-fast-tracked-to-launch-next-year-per-report": {
+      "date": "2026-05-10",
+      "title": "OpenAI AI phone fast-tracked to 2027 H1 — custom MediaTek Dimensity 9600, 30M unit target (Kuo)",
+      "topic_key": "openai-ai-phone-2027-mediatek"
     }
   }
 }
