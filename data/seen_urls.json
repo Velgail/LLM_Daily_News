@@ -385,6 +385,31 @@
       "date": "2026-05-10",
       "title": "OpenAI AI phone fast-tracked to 2027 H1 — custom MediaTek Dimensity 9600, 30M unit target (Kuo)",
       "topic_key": "openai-ai-phone-2027-mediatek"
+    },
+    "https://www.theregister.com/ai-and-ml/2026/05/07/chrome-silently-installs-a-4-gb-local-llm-on-your-computer/5230893": {
+      "date": "2026-05-11",
+      "title": "Chrome silently installs a 4 GB local LLM (Gemini Nano) on your computer without consent",
+      "topic_key": "google-chrome-gemini-nano-4gb-silent-install"
+    },
+    "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets": {
+      "date": "2026-05-11",
+      "title": "China's Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
+      "topic_key": "moonshot-ai-kimi-2b-funding-20b-valuation"
+    },
+    "https://www.cnbc.com/2026/05/08/akamai-stock-ai-cloud-infrastructure-deal.html": {
+      "date": "2026-05-11",
+      "title": "Akamai wins $1.8B LLM hosting contract with Anthropic — stock surges 26%, Cloudflare cuts 20% staff same day",
+      "topic_key": "akamai-anthropic-1.8b-llm-hosting-deal"
+    },
+    "https://dev.to/flarecanary/dalle-shuts-down-may-12-the-gpt-image-1-migration-isnt-the-drop-in-swap-it-looks-like-3p02": {
+      "date": "2026-05-11",
+      "title": "DALL-E shuts down May 12 — the gpt-image-1 migration isn't the drop-in swap it looks like",
+      "topic_key": "dall-e-2-3-api-shutdown-may12-2026"
+    },
+    "https://www.cnbc.com/2026/05/09/nvidia-embraces-ai-investor-topping-40-billion-in-equity-bets-2026.html": {
+      "date": "2026-05-11",
+      "title": "Nvidia embraces AI investor role, topping $40 billion in equity bets 2026",
+      "topic_key": "nvidia-ai-equity-investments-40b-2026"
     }
   }
 }
