@@ -410,6 +410,26 @@
       "date": "2026-05-11",
       "title": "Nvidia embraces AI investor role, topping $40 billion in equity bets 2026",
       "topic_key": "nvidia-ai-equity-investments-40b-2026"
+    },
+    "https://www.cnbc.com/2026/05/11/openai-eu-cyber-model-anthropic-mythos-gpt.html": {
+      "date": "2026-05-12",
+      "title": "OpenAI to give EU access to GPT-5.5-Cyber while Anthropic holds out on Mythos",
+      "topic_key": "openai-gpt-5-5-cyber-eu-access"
+    },
+    "https://www.digit.in/news/general/google-android-show-2026-set-for-may-12-how-to-watch-and-what-to-expect.html": {
+      "date": "2026-05-12",
+      "title": "Google Android Show I/O Edition 2026 — May 12, Android 17, Gemini 4 preview",
+      "topic_key": "google-android-show-io-2026-may12"
+    },
+    "https://www.cnbc.com/2026/05/11/microsoft-ceo-satya-nadella-musk-altman-trial.html": {
+      "date": "2026-05-12",
+      "title": "Satya Nadella testifies Musk never raised concerns about Microsoft's OpenAI investment",
+      "topic_key": "musk-altman-trial-week3-nadella"
+    },
+    "https://www.cnbc.com/video/2026/05/05/anthropic-commits-to-spending-200-billion-on-googles-cloud-and-chips-according-to-the-information.html": {
+      "date": "2026-05-12",
+      "title": "Anthropic commits to spending $200 billion on Google's cloud and chips over five years",
+      "topic_key": "anthropic-200b-google-cloud-deal"
     }
   }
 }
