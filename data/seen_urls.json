@@ -430,6 +430,31 @@
       "date": "2026-05-12",
       "title": "Anthropic commits to spending $200 billion on Google's cloud and chips over five years",
       "topic_key": "anthropic-200b-google-cloud-deal"
+    },
+    "https://techcrunch.com/2026/05/12/google-unveils-googlebooks-a-new-line-of-ai-native-laptops": {
+      "date": "2026-05-13",
+      "title": "Google unveils Googlebook, a new line of AI-native laptops with Gemini Intelligence",
+      "topic_key": "google-googlebook-gemini-intelligence-launch"
+    },
+    "https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access": {
+      "date": "2026-05-13",
+      "title": "Google GTIG: First AI-generated zero-day exploit confirmed in the wild",
+      "topic_key": "google-gtig-ai-generated-zero-day-exploit"
+    },
+    "https://www.cnbc.com/2026/05/08/anthropic-mythos-ai-cybersecurity-banks.html": {
+      "date": "2026-05-13",
+      "title": "Anthropic's Mythos set off a cybersecurity 'hysteria.' Experts say the threat was already here",
+      "topic_key": "anthropic-mythos-cybersecurity-industry-hysteria"
+    },
+    "https://www.androidauthority.com/what-to-expect-from-google-io-2026-3664979": {
+      "date": "2026-05-13",
+      "title": "What to Expect from Google I/O 2026: Gemini 4, Android XR, Aluminium OS",
+      "topic_key": "google-io-2026-preview-gemini-4"
+    },
+    "https://metr.org/time-horizons": {
+      "date": "2026-05-13",
+      "title": "Task-Completion Time Horizons of Frontier AI Models (METR) — Claude Mythos 16h+, doubling every 4.3 months",
+      "topic_key": "metr-task-completion-time-horizons-may2026"
     }
   }
 }
