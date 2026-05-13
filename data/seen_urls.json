@@ -455,6 +455,26 @@
       "date": "2026-05-13",
       "title": "Task-Completion Time Horizons of Frontier AI Models (METR) — Claude Mythos 16h+, doubling every 4.3 months",
       "topic_key": "metr-task-completion-time-horizons-may2026"
+    },
+    "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence/": {
+      "date": "2026-05-14",
+      "title": "Gemini Intelligence for Android — app automation, Rambler, custom widgets, auto-browse for Chrome",
+      "topic_key": "google-gemini-intelligence-android-agentic"
+    },
+    "https://openai.com/index/openai-launches-the-deployment-company/": {
+      "date": "2026-05-14",
+      "title": "OpenAI Deployment Company launch — $4B, TPG, Tomoro acquisition, 19 enterprise partners",
+      "topic_key": "openai-deployment-company-launch"
+    },
+    "https://techbriefly.com/2026/05/08/meta-builds-ai-assistant-for-instagram-shopping-workflows/": {
+      "date": "2026-05-14",
+      "title": "Meta Hatch agent and Instagram shopping AI — Muse Spark model, OpenClaw-inspired agentic assistant",
+      "topic_key": "meta-hatch-instagram-shopping-agent"
+    },
+    "https://www.androidheadlines.com/2026/05/openai-chatgpt-trusted-contact-mental-health-feature.html": {
+      "date": "2026-05-14",
+      "title": "OpenAI ChatGPT Trusted Contact — mental health crisis alert feature with human review, 170 experts",
+      "topic_key": "openai-chatgpt-trusted-contact-mental-health"
     }
   }
 }
