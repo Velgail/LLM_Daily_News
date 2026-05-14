@@ -475,6 +475,31 @@
       "date": "2026-05-14",
       "title": "OpenAI ChatGPT Trusted Contact — mental health crisis alert feature with human review, 170 experts",
       "topic_key": "openai-chatgpt-trusted-contact-mental-health"
+    },
+    "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners": {
+      "date": "2026-05-15",
+      "title": "Claude for Small Business — QuickBooks/PayPal/HubSpot connectors, 15 pre-built workflows, 10-city SMB tour",
+      "topic_key": "anthropic-claude-for-small-business-launch"
+    },
+    "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action": {
+      "date": "2026-05-15",
+      "title": "Claude for Legal — 12 practice-area plug-ins, 20+ MCP connectors, Westlaw/CoCounsel Legal integration",
+      "topic_key": "anthropic-claude-for-legal-launch"
+    },
+    "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa": {
+      "date": "2026-05-15",
+      "title": "Amazon Alexa for Shopping launch — Rufus retired, Alexa+ shopping agent with Buy for Me cross-web purchases",
+      "topic_key": "amazon-alexa-for-shopping-launch"
+    },
+    "https://docs.x.ai/developers/migration/may-15-retirement": {
+      "date": "2026-05-15",
+      "title": "xAI Grok model retirement May 15 — 8 legacy models deprecated, grok-4.3 as sole replacement",
+      "topic_key": "xai-grok-model-retirement-may15-2026"
+    },
+    "https://www.axios.com/2026/05/14/musk-closing-arguments-openai-altman": {
+      "date": "2026-05-15",
+      "title": "Musk v. Altman closing arguments — trial wraps up, advisory jury verdict expected next week",
+      "topic_key": "musk-altman-trial-closing-arguments-may2026"
     }
   }
 }
