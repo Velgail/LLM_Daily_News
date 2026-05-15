@@ -500,6 +500,26 @@
       "date": "2026-05-15",
       "title": "Musk v. Altman closing arguments — trial wraps up, advisory jury verdict expected next week",
       "topic_key": "musk-altman-trial-closing-arguments-may2026"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-12/anthropic-in-talks-to-raise-30-billion-at-900-billion-valuation": {
+      "date": "2026-05-16",
+      "title": "Anthropic agrees terms on $30B round at $900B valuation — Sequoia, Dragoneer, Greenoaks, Altimeter co-lead",
+      "topic_key": "anthropic-30b-agreed-900b-may2026"
+    },
+    "https://www.theregister.com/ai-ml/2026/05/11/microsoft-researchers-find-ai-models-and-agents-cant-handle-long-running-tasks/5238263": {
+      "date": "2026-05-16",
+      "title": "Microsoft DELEGATE-52: frontier LLMs corrupt 25% of document content over 20 delegated interactions",
+      "topic_key": "microsoft-delegate-52-llm-document-corruption"
+    },
+    "https://9to5mac.com/2026/05/14/openai-brings-codex-control-to-chatgpt-for-iphone-and-android": {
+      "date": "2026-05-16",
+      "title": "OpenAI Codex comes to ChatGPT mobile app (iOS/Android) — remote control from smartphone",
+      "topic_key": "openai-codex-mobile-app-launch"
+    },
+    "https://9to5google.com/2026/05/14/gemini-spark-insight": {
+      "date": "2026-05-16",
+      "title": "Gemini Spark leak: Google's always-on AI agent for Gmail, Docs, Chrome — skill-based background automation",
+      "topic_key": "google-gemini-spark-agent-leak"
     }
   }
 }
