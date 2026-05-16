@@ -520,6 +520,31 @@
       "date": "2026-05-16",
       "title": "Gemini Spark leak: Google's always-on AI agent for Gmail, Docs, Chrome — skill-based background automation",
       "topic_key": "google-gemini-spark-agent-leak"
+    },
+    "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks": {
+      "date": "2026-05-17",
+      "title": "TML-Interaction-Small: Thinking Machines Lab全二重AIの研究プレビュー公開（0.40秒応答、276B-A12B MoE）",
+      "topic_key": "thinking-machines-tml-interaction-small"
+    },
+    "https://aws.amazon.com/about-aws/whats-new/2026/05/claude-platform-aws": {
+      "date": "2026-05-17",
+      "title": "Claude Platform on AWS GA: AnthropicのClaude APIがAWS IAM認証・請求統合・17リージョンで一般提供",
+      "topic_key": "anthropic-claude-platform-aws-launch"
+    },
+    "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai": {
+      "date": "2026-05-17",
+      "title": "Runway Gen-4.5でビデオNo.1（1,247 Elo）、評価額$5.3BでGoogleへの挑戦宣言",
+      "topic_key": "runway-gen-4-5-beats-google-2026"
+    },
+    "https://sources.news/p/google-about-to-release-new-gemini": {
+      "date": "2026-05-17",
+      "title": "Gemini Omni動画生成モデルリーク——Google I/O 2026直前の包括的情報流出（単一パイプライン・キャラクター一貫性）",
+      "topic_key": "gemini-omni-video-model-leak"
+    },
+    "https://www.infoq.com/news/2026/05/anthropic-routines-claude": {
+      "date": "2026-05-17",
+      "title": "Anthropic Claude Code Routines GA——スケジュール・API呼び出し・GitHubイベントで無人自動実行",
+      "topic_key": "anthropic-claude-code-routines-ga"
     }
   }
 }
