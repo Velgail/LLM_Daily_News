@@ -545,6 +545,26 @@
       "date": "2026-05-17",
       "title": "Anthropic Claude Code Routines GA——スケジュール・API呼び出し・GitHubイベントで無人自動実行",
       "topic_key": "anthropic-claude-code-routines-ga"
+    },
+    "https://testingcatalog.com/anthropic-adds-agent-view-for-claude-code-for-parralel-work": {
+      "date": "2026-05-18",
+      "title": "Anthropic Claude Code 2.1 Agent View + /goal command — CLI dashboard for multi-session management",
+      "topic_key": "claude-code-2-1-agent-view-goal"
+    },
+    "https://openai.com/daybreak": {
+      "date": "2026-05-18",
+      "title": "OpenAI Daybreak — GPT-5.5 + Codex Security cybersecurity platform for enterprise vulnerability detection",
+      "topic_key": "openai-daybreak-cybersecurity-launch"
+    },
+    "https://aixploria.com/en/ai-radar/google-gemini-3-2-flash-leaked-ios-lm-arena": {
+      "date": "2026-05-18",
+      "title": "Gemini 3.2 Flash leaked — outperforms 3.1 Pro on coding, sub-200ms latency, Flash pricing",
+      "topic_key": "gemini-3.2-flash-leak-coding-benchmark"
+    },
+    "https://techtimes.com/articles/316675/20260515/openai-jury-begin-deliberations-monday-judge-weighs-altman-removal-500b-restructure-reversal.htm": {
+      "date": "2026-05-18",
+      "title": "Musk v. Altman trial: jury deliberations begin May 18 — Altman removal and $500B restructure reversal at stake",
+      "topic_key": "musk-altman-trial-jury-deliberations-may18"
     }
   }
 }
