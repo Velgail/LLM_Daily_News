@@ -565,6 +565,26 @@
       "date": "2026-05-18",
       "title": "Musk v. Altman trial: jury deliberations begin May 18 — Altman removal and $500B restructure reversal at stake",
       "topic_key": "musk-altman-trial-jury-deliberations-may18"
+    },
+    "https://androidcentral.com/phones/live/google-i-o-2026-live-blog-android-17-android-xr-glasses-and-all-the-gemini-ai-news": {
+      "date": "2026-05-19",
+      "title": "Google I/O 2026 Live Blog: Gemini 4.0, Android XR glasses, Gemini Omni, Android 17",
+      "topic_key": "google-io-2026-keynote"
+    },
+    "https://cnbc.com/2026/05/18/musk-altman-openai-trial-verdict.html": {
+      "date": "2026-05-19",
+      "title": "Elon Musk loses court battle against Sam Altman and OpenAI after 3-week trial",
+      "topic_key": "musk-altman-trial-verdict-may18"
+    },
+    "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts": {
+      "date": "2026-05-19",
+      "title": "OpenAI launches ChatGPT personal finance with bank account integration via Plaid",
+      "topic_key": "openai-chatgpt-personal-finance-launch"
+    },
+    "https://microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark": {
+      "date": "2026-05-19",
+      "title": "Microsoft multi-model agentic security system: 100+ AI agents find 16 Windows vulnerabilities, tops benchmark",
+      "topic_key": "microsoft-multi-model-agentic-security"
     }
   }
 }
