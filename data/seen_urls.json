@@ -585,6 +585,31 @@
       "date": "2026-05-19",
       "title": "Microsoft multi-model agentic security system: 100+ AI agents find 16 Windows vulnerabilities, tops benchmark",
       "topic_key": "microsoft-multi-model-agentic-security"
+    },
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5": {
+      "date": "2026-05-20",
+      "title": "Gemini 3.5 Flash: frontier intelligence with action — 4x faster, half the cost, surpasses 3.1 Pro",
+      "topic_key": "gemini-3.5-flash-launch"
+    },
+    "https://newsbytesapp.com/news/science/google-updates-gemini-model-family-at-i-o-2026/story": {
+      "date": "2026-05-20",
+      "title": "Google unveils Gemini 3.5 Flash, Omni, and Spark AI at Google I/O 2026",
+      "topic_key": "gemini-omni-launch"
+    },
+    "https://9to5google.com/2026/05/19/gemini-app-google-io-2026": {
+      "date": "2026-05-20",
+      "title": "Gemini app rolling out Neural Expressive redesign, 3.5 Flash, 24/7 Spark agent, & Daily Brief",
+      "topic_key": "gemini-spark-agent-launch"
+    },
+    "https://claude.com/blog/claude-managed-agents-updates": {
+      "date": "2026-05-20",
+      "title": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
+      "topic_key": "claude-managed-agents-sandboxes-mcp-tunnels"
+    },
+    "https://anthropic.com/news/gates-foundation-partnership": {
+      "date": "2026-05-20",
+      "title": "Anthropic forms $200 million partnership with the Gates Foundation",
+      "topic_key": "anthropic-gates-foundation-200m-partnership"
     }
   }
 }
