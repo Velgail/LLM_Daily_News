@@ -610,6 +610,26 @@
       "date": "2026-05-20",
       "title": "Anthropic forms $200 million partnership with the Gates Foundation",
       "topic_key": "anthropic-gates-foundation-200m-partnership"
+    },
+    "https://www.cnbc.com/2026/05/19/alibaba-reveals-more-powerful-zhenwu-ai-chip-new-llm.html": {
+      "date": "2026-05-21",
+      "title": "Alibaba reveals Zhenwu M890 AI chip (3x H20 performance) and Qwen3.7-Max LLM",
+      "topic_key": "alibaba-zhenwu-m890-qwen3-7-max"
+    },
+    "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/": {
+      "date": "2026-05-21",
+      "title": "Google launches Antigravity 2.0 with desktop app, Go-based CLI, subagent architecture at IO 2026",
+      "topic_key": "google-antigravity-2-0-launch"
+    },
+    "https://developer.chrome.com/blog/chrome-at-io26": {
+      "date": "2026-05-21",
+      "title": "15 updates from Google I/O 2026: WebMCP, Gemini in Chrome for Android, Auto Browse, Nano Banana",
+      "topic_key": "google-chrome-15-ai-updates-webmcp"
+    },
+    "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/": {
+      "date": "2026-05-21",
+      "title": "Google I/O 2026 Developer Keynote: Android Studio AI migration, Modern Web Guidance, Antigravity CLI",
+      "topic_key": "google-io-2026-developer-keynote"
     }
   }
 }
