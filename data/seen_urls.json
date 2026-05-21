@@ -630,6 +630,31 @@
       "date": "2026-05-21",
       "title": "Google I/O 2026 Developer Keynote: Android Studio AI migration, Modern Web Guidance, Antigravity CLI",
       "topic_key": "google-io-2026-developer-keynote"
+    },
+    "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html": {
+      "date": "2026-05-22",
+      "title": "OpenAI、IPOへ秘密裏に申請準備——評価額$1兆を視野に9月上場を目指す",
+      "topic_key": "openai-ipo-confidential-filing-may2026"
+    },
+    "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/": {
+      "date": "2026-05-22",
+      "title": "OpenAI共同創業者カルパシーがAnthropicの事前学習チームに加入",
+      "topic_key": "karpathy-joins-anthropic-pretraining-2026"
+    },
+    "https://blog.google/products-and-platforms/platforms/android/android-xr-io-2026/": {
+      "date": "2026-05-22",
+      "title": "GoogleのAndroid XRスマートグラス、2026年秋に発売確定——Samsung製・Gemini搭載",
+      "topic_key": "google-android-xr-glasses-io-2026"
+    },
+    "https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/": {
+      "date": "2026-05-22",
+      "title": "Google Gemini for Science：AlphaFoldやAlphaEvolveを束ねたAI研究加速プラットフォーム",
+      "topic_key": "google-gemini-for-science-io-2026"
+    },
+    "https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-updates/": {
+      "date": "2026-05-22",
+      "title": "Google Flow MusicsにGemini Omniが統合、iOS/Androidアプリも同日リリース",
+      "topic_key": "google-flow-music-gemini-omni-launch"
     }
   }
 }
