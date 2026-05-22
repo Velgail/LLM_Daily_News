@@ -655,6 +655,31 @@
       "date": "2026-05-22",
       "title": "Google Flow MusicsにGemini Omniが統合、iOS/Androidアプリも同日リリース",
       "topic_key": "google-flow-music-gemini-omni-launch"
+    },
+    "https://developers.openai.com/codex/changelog": {
+      "date": "2026-05-23",
+      "title": "OpenAI Codex Goal Mode GA — 長時間自律コーディング、全プラットフォームで正式一般提供",
+      "topic_key": "openai-codex-goal-mode-ga"
+    },
+    "https://anthropic.com/news/anthropic-kpmg": {
+      "date": "2026-05-23",
+      "title": "Anthropic × KPMG グローバルアライアンス — Claude が Digital Gateway で 276,000 名に展開",
+      "topic_key": "anthropic-kpmg-276k-global-alliance"
+    },
+    "https://www.techcentral.ie/anthropic-co-founder-predicts-that-ai-will-within-a-year/": {
+      "date": "2026-05-23",
+      "title": "Anthropic 共同創業者 Jack Clark、オックスフォードで「AI は 12 ヶ月以内にノーベル賞受賞研究を支援」と予言",
+      "topic_key": "jack-clark-oxford-ai-nobel-prediction"
+    },
+    "https://www.npr.org/2026/05/20/nx-s1-5826917/meta-layoffs-ai-jobs": {
+      "date": "2026-05-23",
+      "title": "Meta、AI 再編で 8,000 名削減・7,000 名を AI 専任チームへ転換",
+      "topic_key": "meta-layoffs-8000-ai-restructuring-may2026"
+    },
+    "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/": {
+      "date": "2026-05-23",
+      "title": "MIT Tech Review: Anthropic Code with Claude が示したコーディングの未来 — 人間エンジニアは「意図の設計者」へ",
+      "topic_key": "anthropic-code-with-claude-london-mit-review"
     }
   }
 }
