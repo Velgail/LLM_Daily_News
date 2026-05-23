@@ -680,6 +680,36 @@
       "date": "2026-05-23",
       "title": "MIT Tech Review: Anthropic Code with Claude が示したコーディングの未来 — 人間エンジニアは「意図の設計者」へ",
       "topic_key": "anthropic-code-with-claude-london-mit-review"
+    },
+    "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare": {
+      "date": "2026-05-24",
+      "title": "Anthropic acquires Stainless — SDK generator used by OpenAI, Google, Cloudflare",
+      "topic_key": "anthropic-acquires-stainless-may2026"
+    },
+    "https://openai.com/index/model-disproves-discrete-geometry-conjecture": {
+      "date": "2026-05-24",
+      "title": "OpenAI internal model autonomously disproves 80-year-old Erdős planar unit distance conjecture",
+      "topic_key": "openai-model-erdos-geometry-conjecture-may2026"
+    },
+    "https://openai.com/index/advancing-content-provenance": {
+      "date": "2026-05-24",
+      "title": "OpenAI adopts SynthID + C2PA dual watermarking for ChatGPT-generated images",
+      "topic_key": "openai-synthid-c2pa-content-provenance-may2026"
+    },
+    "https://axios.com/2026/05/21/trump-ai-executive-order-postponed-why": {
+      "date": "2026-05-24",
+      "title": "Trump AI safety executive order scrapped after direct lobbying by Musk, Zuckerberg, Sacks",
+      "topic_key": "trump-ai-executive-order-scrapped-may2026"
+    },
+    "https://x.ai/news/grok-skills": {
+      "date": "2026-05-24",
+      "title": "xAI launches Grok Skills — persistent custom expertise across all Grok 4.3 conversations",
+      "topic_key": "xai-grok-skills-launch-may2026"
+    },
+    "https://digitalcommerce360.com/2026/05/22/walmart-sparky-agent-ai-sales-supply-chain": {
+      "date": "2026-05-24",
+      "title": "Walmart Sparky AI agent: 100%+ WAU growth in Q1, 35% higher AOV vs non-users",
+      "topic_key": "walmart-sparky-ai-agent-q1-earnings-2026"
     }
   }
 }
