@@ -710,6 +710,31 @@
       "date": "2026-05-24",
       "title": "Walmart Sparky AI agent: 100%+ WAU growth in Q1, 35% higher AOV vs non-users",
       "topic_key": "walmart-sparky-ai-agent-q1-earnings-2026"
+    },
+    "https://www.engadget.com/2180062/deepseek-permanently-reduces-the-price-of-its-flagship-v4-model-by-75-percent": {
+      "date": "2026-05-25",
+      "title": "DeepSeek permanently reduces the price of its flagship V4 model by 75 percent",
+      "topic_key": "deepseek-v4-pro-price-cut-permanent-may2026"
+    },
+    "https://www.anthropic.com/research/glasswing-initial-update": {
+      "date": "2026-05-25",
+      "title": "Project Glasswing: An initial update — 10,000+ vulnerabilities found in one month with Mythos Preview",
+      "topic_key": "anthropic-glasswing-results-update-may2026"
+    },
+    "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs": {
+      "date": "2026-05-25",
+      "title": "Stability AI releases Stable Audio 3.0 — six-minute music generation, open weights, licensed data only",
+      "topic_key": "stability-ai-stable-audio-3-release"
+    },
+    "https://www.cnbc.com/2026/05/20/anthropic-revenue-explosive-growth-ipo-profitable-quarter.html": {
+      "date": "2026-05-25",
+      "title": "Anthropic set to hit $10.9B revenue in Q2, first quarterly operating profit of $559M",
+      "topic_key": "anthropic-first-profitable-quarter-q2-2026"
+    },
+    "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface": {
+      "date": "2026-05-25",
+      "title": "Hark raises $700M Series A for its secretive 'universal' AI interface at $6B valuation",
+      "topic_key": "hark-700m-series-a-ai-interface-may2026"
     }
   }
 }
