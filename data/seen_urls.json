@@ -735,6 +735,26 @@
       "date": "2026-05-25",
       "title": "Hark raises $700M Series A for its secretive 'universal' AI interface at $6B valuation",
       "topic_key": "hark-700m-series-a-ai-interface-may2026"
+    },
+    "https://cnn.com/2026/05/25/europe/pope-leo-ai-encyclical-magnifica-humanitas-intl": {
+      "date": "2026-05-26",
+      "title": "Pope Leo XIV unveils AI encyclical Magnifica Humanitas alongside Anthropic co-founder Christopher Olah",
+      "topic_key": "pope-leo-magnifica-humanitas-ai-encyclical"
+    },
+    "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute": {
+      "date": "2026-05-26",
+      "title": "Anthropic will pay xAI $1.25 billion per month for Colossus GPU compute (SpaceX S-1 disclosure, $45B total)",
+      "topic_key": "anthropic-spacex-colossus-s1-financial-disclosure"
+    },
+    "https://appleinsider.com/articles/26/05/24/genai-apple-subdomain-surfaces-weeks-ahead-of-wwdc": {
+      "date": "2026-05-26",
+      "title": "Apple registers genai.apple.com subdomain ahead of WWDC 2026 — hints at Gemini-powered Siri overhaul",
+      "topic_key": "apple-genai-subdomain-wwdc-2026"
+    },
+    "https://digitalapplied.com/blog/openrouter-rankings-april-2026-top-ai-models-data": {
+      "date": "2026-05-26",
+      "title": "OpenRouter April 2026 Rankings: Chinese AI models at 45%+ traffic share, Xiaomi MiMo-V2-Pro leads with 4.65T weekly tokens",
+      "topic_key": "openrouter-chinese-models-april-2026-dominance"
     }
   }
 }
