@@ -755,6 +755,26 @@
       "date": "2026-05-26",
       "title": "OpenRouter April 2026 Rankings: Chinese AI models at 45%+ traffic share, Xiaomi MiMo-V2-Pro leads with 4.65T weekly tokens",
       "topic_key": "openrouter-chinese-models-april-2026-dominance"
+    },
+    "https://thenextweb.com/news/us-government-chip-shortage-anthropic-nsa-9-billion": {
+      "date": "2026-05-25",
+      "title": "White House overrules Pentagon to give NSA access to Anthropic Claude Mythos; $9B emergency chip/AI budget approved",
+      "topic_key": "anthropic-nsa-spy-9b-whitehouse-may2026"
+    },
+    "https://9to5mac.com/2026/05/21/codex-for-mac-updated-with-new-appshots-feature-that-instantly-gives-chat-context": {
+      "date": "2026-05-21",
+      "title": "Codex for Mac updated with Appshots feature and locked-device remote control capabilities",
+      "topic_key": "openai-codex-appshots-locked-mac-may2026"
+    },
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think": {
+      "date": "2026-05-22",
+      "title": "Gemini 3 Deep Think achieves gold medal level at Physics/Chemistry Olympiads — science and research upgrade",
+      "topic_key": "google-gemini-3-deep-think-science-may2026"
+    },
+    "https://www.gov.ca.gov/2026/05/21/governor-newsom-signs-first-of-its-kind-executive-order-to-prepare-workers-and-businesses-for-potential-ai-disruption": {
+      "date": "2026-05-21",
+      "title": "California Governor Newsom signs first-of-its-kind AI workplace disruption executive order N-6-26",
+      "topic_key": "california-newsom-ai-workplace-executive-order-may2026"
     }
   }
 }
