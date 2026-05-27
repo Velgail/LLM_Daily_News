@@ -775,6 +775,31 @@
       "date": "2026-05-21",
       "title": "California Governor Newsom signs first-of-its-kind AI workplace disruption executive order N-6-26",
       "topic_key": "california-newsom-ai-workplace-executive-order-may2026"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-27/bytedance-weighs-capex-of-as-much-as-70-billion-in-ai-push": {
+      "date": "2026-05-28",
+      "title": "ByteDance Weighs Capex of as Much as $70 Billion in AI Push",
+      "topic_key": "bytedance-70b-ai-capex-2026"
+    },
+    "https://fortune.com/2026/05/27/china-restricts-travel-for-top-ai-talent": {
+      "date": "2026-05-28",
+      "title": "China restricts travel for top AI talent at DeepSeek, Alibaba and private firms",
+      "topic_key": "china-ai-talent-travel-restrictions-may2026"
+    },
+    "https://www.bloomberg.com/news/articles/2026-05-26/china-expands-travel-curbs-to-top-ai-talent-at-private-firms": {
+      "date": "2026-05-28",
+      "title": "China Limits Overseas Travel for AI Talent at DeepSeek, Alibaba, Private Firms",
+      "topic_key": "china-ai-talent-travel-restrictions-may2026"
+    },
+    "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea": {
+      "date": "2026-05-28",
+      "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea",
+      "topic_key": "anthropic-korea-seoul-office-may2026"
+    },
+    "https://www.anthropic.com/news/seoul-becomes-third-anthropic-office-in-asia-pacific": {
+      "date": "2026-05-28",
+      "title": "Seoul becomes Anthropic's third office in Asia-Pacific",
+      "topic_key": "anthropic-korea-seoul-office-may2026"
     }
   }
 }
