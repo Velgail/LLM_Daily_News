@@ -800,6 +800,31 @@
       "date": "2026-05-28",
       "title": "Seoul becomes Anthropic's third office in Asia-Pacific",
       "topic_key": "anthropic-korea-seoul-office-may2026"
+    },
+    "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool": {
+      "date": "2026-05-29",
+      "title": "Anthropic releases Claude Opus 4.8 with new Dynamic Workflows, Effort Control, Fast Mode 3x cheaper",
+      "topic_key": "claude-opus-4.8-release"
+    },
+    "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation": {
+      "date": "2026-05-29",
+      "title": "Cognition AI raises $1B at $25B valuation — Devin autonomous software engineer",
+      "topic_key": "cognition-1b-funding-25b-valuation"
+    },
+    "https://www.axios.com/2026/05/26/deepmind-ceo-demis-hassabis": {
+      "date": "2026-05-29",
+      "title": "DeepMind CEO Demis Hassabis says AGI could arrive by 2029",
+      "topic_key": "demis-hassabis-agi-2029-prediction"
+    },
+    "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year": {
+      "date": "2026-05-29",
+      "title": "OpenRouter raises $113M Series B led by CapitalG, valuation hits $1.3B — 25T weekly tokens",
+      "topic_key": "openrouter-113m-series-b-2026"
+    },
+    "https://www.techtimes.com/articles/317072/20260524/anthropic-microsoft-negotiate-maia-200-chip-deal-claude-could-become-custom-silicons-first.htm": {
+      "date": "2026-05-29",
+      "title": "Anthropic and Microsoft in talks to run Claude on Maia 200 AI chips via Azure",
+      "topic_key": "anthropic-microsoft-maia200-chip-deal"
     }
   }
 }
