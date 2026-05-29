@@ -825,6 +825,31 @@
       "date": "2026-05-29",
       "title": "Anthropic and Microsoft in talks to run Claude on Maia 200 AI chips via Azure",
       "topic_key": "anthropic-microsoft-maia200-chip-deal"
+    },
+    "https://cnbc.com/2026/05/28/anthropic-open-ai-startup-value.html": {
+      "date": "2026-05-30",
+      "title": "Anthropic tops OpenAI as most valuable AI startup, nears $1 trillion valuation in latest round",
+      "topic_key": "anthropic-965b-valuation-series-h"
+    },
+    "https://mistral.ai/news/vibe-agent": {
+      "date": "2026-05-30",
+      "title": "Mistral rebrands Le Chat as Vibe, launches AI Now Summit with Airbus, BMW, ASML industrial AI partnerships",
+      "topic_key": "mistral-vibe-unified-agent-launch"
+    },
+    "https://x.ai/news/grok-build-0-1": {
+      "date": "2026-05-30",
+      "title": "Grok Build 0.1 is now available in public beta on the xAI API",
+      "topic_key": "grok-build-0.1-api-beta"
+    },
+    "https://openai.com/index/openai-frontier-governance-framework": {
+      "date": "2026-05-30",
+      "title": "OpenAI Frontier Governance Framework — systemic risk definition, EU AI Act and California law compliance",
+      "topic_key": "openai-frontier-governance-framework"
+    },
+    "https://anthropic.com/news/milan-office-opening": {
+      "date": "2026-05-30",
+      "title": "Anthropic opens Milan office, 6th in Europe — Generali, Enel, Pirelli partnerships, EMEA fastest-growing region",
+      "topic_key": "anthropic-milan-office-may2026"
     }
   }
 }
