@@ -870,6 +870,21 @@
       "date": "2026-05-31",
       "title": "Japan megabanks MUFG, Mizuho, SMFG to gain access to Anthropic Claude Mythos via Project Glasswing",
       "topic_key": "japan-megabanks-anthropic-mythos-onboarding-may2026"
+    },
+    "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing": {
+      "date": "2026-06-01",
+      "title": "GitHub Copilot moves to usage-based billing with AI Credits starting June 1, 2026",
+      "topic_key": "github-copilot-ai-credits-billing-june2026"
+    },
+    "https://www.techtimes.com/articles/317328/20260528/grok-ai-new-model-triples-parameter-count-targets-coding-lead-release-expected-mid-june.htm": {
+      "date": "2026-06-01",
+      "title": "Grok V9-Medium (1.5T) training complete, triples parameter count, mid-June 2026 release expected",
+      "topic_key": "xai-grok-v9-medium-training-complete"
+    },
+    "https://www.neowin.net/news/openai-rolls-out-major-codex-for-windows-update-with-computer-use-and-mobile-access": {
+      "date": "2026-06-01",
+      "title": "OpenAI rolls out Codex for Windows with Computer Use and mobile remote access (v26.527)",
+      "topic_key": "openai-codex-computer-use-windows"
     }
   }
 }
