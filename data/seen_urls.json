@@ -850,6 +850,26 @@
       "date": "2026-05-30",
       "title": "Anthropic opens Milan office, 6th in Europe — Generali, Enel, Pirelli partnerships, EMEA fastest-growing region",
       "topic_key": "anthropic-milan-office-may2026"
+    },
+    "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense": {
+      "date": "2026-05-31",
+      "title": "OpenAI Rosalind Biodefense Program — GPT-Rosalind for life sciences deployed with LLNL, JHUAPL, CEPI",
+      "topic_key": "openai-rosalind-biodefense-program-may2026"
+    },
+    "https://coindesk.com/tech/2026/05/29/mass-deployment-of-ai-agents-is-a-disaster-waiting-to-happen-says-certik-ceo": {
+      "date": "2026-05-31",
+      "title": "CertiK CEO warns mass deployment of AI agents creates dangerous security debt",
+      "topic_key": "certik-ai-agent-security-debt-warning-may2026"
+    },
+    "https://tomsguide.com/computing/microsoft-build-2026-preview": {
+      "date": "2026-05-31",
+      "title": "Microsoft Build 2026 preview — Windows Agent Framework MIT OSS, Windows as AI agent platform",
+      "topic_key": "microsoft-build-2026-windows-agent-platform-preview"
+    },
+    "https://asia.nikkei.com/business/finance/japan-megabanks-to-gain-access-to-anthropic-s-powerful-ai-model-mythos": {
+      "date": "2026-05-31",
+      "title": "Japan megabanks MUFG, Mizuho, SMFG to gain access to Anthropic Claude Mythos via Project Glasswing",
+      "topic_key": "japan-megabanks-anthropic-mythos-onboarding-may2026"
     }
   }
 }
