@@ -885,6 +885,31 @@
       "date": "2026-06-01",
       "title": "OpenAI rolls out Codex for Windows with Computer Use and mobile remote access (v26.527)",
       "topic_key": "openai-codex-computer-use-windows"
+    },
+    "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public": {
+      "date": "2026-06-02",
+      "title": "Anthropic confidentially files S-1 for IPO at $965B valuation, $47B annualized revenue",
+      "topic_key": "anthropic-ipo-confidential-s1-june2026"
+    },
+    "https://chatforest.com/builders-log/microsoft-build-2026-recap-windows-agent-platform-project-polaris-copilot-workspace": {
+      "date": "2026-06-02",
+      "title": "Microsoft Build 2026 recap: Windows Agent Framework OSS, Azure Agent Mesh, Project Polaris replaces GPT-4 in Copilot",
+      "topic_key": "microsoft-build-2026-windows-agent-framework-released"
+    },
+    "https://axios.com/2026/06/01/nvidia-ai-push-cosmos-3-world-model": {
+      "date": "2026-06-02",
+      "title": "NVIDIA Cosmos 3 open physical AI world model — Mixture-of-Transformers, 20T tokens, robots and autonomous vehicles",
+      "topic_key": "nvidia-cosmos-3-physical-ai-world-model"
+    },
+    "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms": {
+      "date": "2026-06-02",
+      "title": "DuckDuckGo launches no-AI search browser extension, traffic triples after Google AI Overview overhaul",
+      "topic_key": "duckduckgo-no-ai-search-extension-june2026"
+    },
+    "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies": {
+      "date": "2026-06-02",
+      "title": "WindBorne WeatherMesh 6 surpasses ECMWF — hourly updates, 3km resolution, 5-day forecast as accurate as next-day",
+      "topic_key": "windborne-weathermesh-6-beats-ecmwf"
     }
   }
 }
