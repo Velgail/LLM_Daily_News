@@ -910,6 +910,36 @@
       "date": "2026-06-02",
       "title": "WindBorne WeatherMesh 6 surpasses ECMWF — hourly updates, 3km resolution, 5-day forecast as accurate as next-day",
       "topic_key": "windborne-weathermesh-6-beats-ecmwf"
+    },
+    "https://newsbytesapp.com/news/science/microsoft-introduces-its-own-ai-models-at-build-2026-conference/story": {
+      "date": "2026-06-03",
+      "title": "Microsoft introduces 7 MAI models at Build 2026 — MAI-Thinking-1, MAI-Code-1, MAI-Image-2.5, MAI-Voice-2, MAI-Transcribe-1.5",
+      "topic_key": "microsoft-build-2026-mai-models-launch"
+    },
+    "https://thenextweb.com/news/microsoft-project-solara-agent-first-devices-build-2026": {
+      "date": "2026-06-03",
+      "title": "Microsoft unveils Project Solara: an OS for agent-first devices (Android-based, smart badge/watch form factors)",
+      "topic_key": "microsoft-project-solara-agent-first-platform"
+    },
+    "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries": {
+      "date": "2026-06-03",
+      "title": "Anthropic scales Claude Mythos to critical infrastructure in 15+ countries — 150 new Glasswing partners, public release in weeks",
+      "topic_key": "anthropic-glasswing-expansion-150-countries-june2026"
+    },
+    "https://marktechpost.com/2026/06/02/alibabas-qwen-team-launches-qwen3-7-plus-adding-vision-deep-reasoning-tool-invocation-and-autonomous-iteration-on-the-bailian-platform": {
+      "date": "2026-06-03",
+      "title": "Alibaba Qwen3.7-Plus launches with vision, deep reasoning, tool invocation, and autonomous iteration on Bailian platform",
+      "topic_key": "alibaba-qwen3-7-plus-vision-bailian-launch"
+    },
+    "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior": {
+      "date": "2026-06-03",
+      "title": "Microsoft releases Agent Control Specification (ACS) — open standard for AI agent behavior governance, LangChain/OpenAI/Anthropic SDK plugins",
+      "topic_key": "microsoft-agent-control-specification-acs-launch"
+    },
+    "https://venturebeat.com/technology/anthropic-reinstates-openclaw-and-third-party-agent-usage-on-claude-subscriptions-with-a-catch": {
+      "date": "2026-06-03",
+      "title": "Anthropic splits Agent SDK into separate credit pool from June 15 — $20/$100/$200 per month by plan, metered at API rates",
+      "topic_key": "anthropic-agent-sdk-billing-split-june15-2026"
     }
   }
 }
