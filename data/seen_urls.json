@@ -940,6 +940,26 @@
       "date": "2026-06-03",
       "title": "Anthropic splits Agent SDK into separate credit pool from June 15 — $20/$100/$200 per month by plan, metered at API rates",
       "topic_key": "anthropic-agent-sdk-billing-split-june15-2026"
+    },
+    "https://venturebeat.com/technology/minimax-m3-debuts-eclipsing-gpt-5-5-and-gemini-3-1-pro-on-key-benchmark-performance-for-just-5-10-of-the-cost": {
+      "date": "2026-06-04",
+      "title": "MiniMax M3 debuts, eclipsing GPT-5.5 and Gemini 3.1 Pro on key benchmarks for 5-10% of the cost",
+      "topic_key": "minimax-m3-release"
+    },
+    "https://cnbc.com/2026/06/01/cnbc-exclusive-transcript-openai-ceo-sam-altman-speaks-with-cnbcs-david-faber-on-power-lunch-today.html": {
+      "date": "2026-06-04",
+      "title": "OpenAI CEO Sam Altman at Stargate Michigan groundbreaking: coding models are biggest AI demand driver",
+      "topic_key": "openai-stargate-michigan-groundbreaking-altman-june2026"
+    },
+    "https://cnbc.com/2026/06/02/trump-executive-order-ai.html": {
+      "date": "2026-06-04",
+      "title": "Trump signs executive order asking AI companies to give government early 30-day access to frontier models",
+      "topic_key": "trump-ai-eo-innovation-security-june2026"
+    },
+    "https://anthropic.com/news/services-track-partner-hub": {
+      "date": "2026-06-04",
+      "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+      "topic_key": "anthropic-claude-partner-network-services-track"
     }
   }
 }
