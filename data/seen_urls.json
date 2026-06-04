@@ -960,6 +960,26 @@
       "date": "2026-06-04",
       "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
       "topic_key": "anthropic-claude-partner-network-services-track"
+    },
+    "https://openai.com/index/codex-for-every-role-tool-workflow": {
+      "date": "2026-06-05",
+      "title": "OpenAI Codex expands to enterprise with Sites, Annotations, and 6 role-specific plugins",
+      "topic_key": "openai-codex-sites-enterprise-update"
+    },
+    "https://nvidianews.nvidia.com/news/nvidia-debuts-nemotron-3-family-of-open-models": {
+      "date": "2026-06-05",
+      "title": "NVIDIA Debuts Nemotron 3 Ultra — 550B open-weights frontier model for long-running agents",
+      "topic_key": "nvidia-nemotron-3-ultra-launch"
+    },
+    "https://www.dailysignal.com/2026/06/04/scoop-lawmakers-to-introduce-bill-preempting-some-state-ai-regulations-for-three-years": {
+      "date": "2026-06-05",
+      "title": "Great American AI Act 2026 — bipartisan bill to preempt state AI development laws for 3 years",
+      "topic_key": "great-american-ai-act-2026-preempt-states"
+    },
+    "https://www.newsweek.com/wwdc-2026-everything-apple-is-expected-to-announce-on-june-8-12016937": {
+      "date": "2026-06-05",
+      "title": "Apple WWDC 2026 Preview — Siri 2.0 powered by Gemini, iOS 27 AI Extensions",
+      "topic_key": "apple-wwdc-2026-siri-gemini-ios27-preview"
     }
   }
 }
