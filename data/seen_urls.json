@@ -980,6 +980,26 @@
       "date": "2026-06-05",
       "title": "Apple WWDC 2026 Preview — Siri 2.0 powered by Gemini, iOS 27 AI Extensions",
       "topic_key": "apple-wwdc-2026-siri-gemini-ios27-preview"
+    },
+    "https://ghacks.net/2026/06/05/openai-upgrades-chatgpt-memory-with-new-dreaming-architecture-for-plus-and-pro-users": {
+      "date": "2026-06-06",
+      "title": "OpenAI upgrades ChatGPT memory with Dreaming V3 architecture for Plus and Pro users",
+      "topic_key": "chatgpt-dreaming-v3-memory"
+    },
+    "https://microsoft.com/en-us/microsoft-365/blog/2026/06/02/introducing-microsoft-scout-your-always-on-personal-agent": {
+      "date": "2026-06-06",
+      "title": "Introducing Microsoft Scout: Your always-on personal agent (Build 2026)",
+      "topic_key": "microsoft-scout-build-2026"
+    },
+    "https://techtimes.com/articles/317754/20260604/gpt-rosalind-drug-discovery-update-openai-cuts-genomics-compute-expands-global-access.htm": {
+      "date": "2026-06-06",
+      "title": "GPT-Rosalind Drug Discovery Update: OpenAI Cuts Genomics Compute 31%, Expands Global Access",
+      "topic_key": "gpt-rosalind-drug-discovery-update-june2026"
+    },
+    "https://ai.google.dev/gemini-api/docs/deprecations": {
+      "date": "2026-06-06",
+      "title": "Google Gemini 2.0 API shutdown June 1, 2026 — gemini-2.0-flash-001 and lite-001 retired",
+      "topic_key": "google-gemini-2.0-api-shutdown-june2026"
     }
   }
 }
