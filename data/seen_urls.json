@@ -1000,6 +1000,31 @@
       "date": "2026-06-06",
       "title": "Google Gemini 2.0 API shutdown June 1, 2026 — gemini-2.0-flash-001 and lite-001 retired",
       "topic_key": "google-gemini-2.0-api-shutdown-june2026"
+    },
+    "https://techtimes.com/articles/317919/20260606/google-gemini-35-pro-nears-june-launch-2-million-token-context-deep-think-reasoning.htm": {
+      "date": "2026-06-07",
+      "title": "Google Gemini 3.5 Pro Nears June Launch With 2 Million Token Context And Deep Think Reasoning",
+      "topic_key": "google-gemini-3.5-pro-june-launch-preview"
+    },
+    "https://cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html": {
+      "date": "2026-06-07",
+      "title": "SpaceX/xAI IPO roadshow launches at $135 fixed price, $75B raise, Nasdaq June 12 debut",
+      "topic_key": "spacex-xai-ipo-roadshow-nasdaq-june2026"
+    },
+    "https://geeky-gadgets.com/gpt-5-6-leaks-microsoft-build-2026": {
+      "date": "2026-06-07",
+      "title": "GPT-5.6 iris-alpha appears in OpenAI Codex logs — 1.5M context window, UI generation focus, June 2026 release expected",
+      "topic_key": "openai-gpt-5.6-iris-alpha-leak-june2026"
+    },
+    "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab": {
+      "date": "2026-06-07",
+      "title": "Airbnb CEO Brian Chesky plans to launch new AI lab focused on user interaction, not text chatbots",
+      "topic_key": "airbnb-chesky-ai-lab-june2026"
+    },
+    "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents": {
+      "date": "2026-06-07",
+      "title": "Coralogix raises $200M Series F at $1.6B valuation to build AI agent observability backbone",
+      "topic_key": "coralogix-200m-ai-agent-observability-funding"
     }
   }
 }
