@@ -1025,6 +1025,31 @@
       "date": "2026-06-07",
       "title": "Coralogix raises $200M Series F at $1.6B valuation to build AI agent observability backbone",
       "topic_key": "coralogix-200m-ai-agent-observability-funding"
+    },
+    "https://letsdatascience.com/news/apple-unveils-gemini-powered-siri-and-ios-27-at-wwdc-2026-b757953c": {
+      "date": "2026-06-08",
+      "title": "Apple Unveils Gemini-Powered Siri and iOS 27 at WWDC 2026",
+      "topic_key": "apple-wwdc-2026-keynote-actual"
+    },
+    "https://fortune.com/2026/06/05/anthropic-ai-pause-development-recursive-self-improvement": {
+      "date": "2026-06-08",
+      "title": "Anthropic warns AI could soon build itself without human involvement and urges a global pause on development",
+      "topic_key": "anthropic-ai-pause-recursive-self-improvement-june2026"
+    },
+    "https://the-decoder.com/xai-updates-grok-imagine-to-1-5-with-image-to-video-generation-at-720p-resolution": {
+      "date": "2026-06-08",
+      "title": "xAI updates Grok Imagine to 1.5 with image-to-video generation at 720p resolution",
+      "topic_key": "xai-grok-imagine-video-1.5-release"
+    },
+    "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai": {
+      "date": "2026-06-08",
+      "title": "The Trump administration might take an equity stake in OpenAI",
+      "topic_key": "trump-us-government-ai-equity-stake-june2026"
+    },
+    "https://cybernews.com/ai-news/claude-outage-resolved-anthropic-opus-model-errors": {
+      "date": "2026-06-08",
+      "title": "Anthropic probes customer data leak claims after Friday Claude outage",
+      "topic_key": "anthropic-claude-outage-data-leak-june7-2026"
     }
   }
 }
