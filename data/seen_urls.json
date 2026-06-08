@@ -1050,6 +1050,31 @@
       "date": "2026-06-08",
       "title": "Anthropic probes customer data leak claims after Friday Claude outage",
       "topic_key": "anthropic-claude-outage-data-leak-june7-2026"
+    },
+    "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute": {
+      "date": "2026-06-09",
+      "title": "Google to pay SpaceX $920M/month for AI compute — $30B deal to access 110,000 Nvidia GPUs at xAI data centers",
+      "topic_key": "google-spacex-920m-monthly-compute-deal"
+    },
+    "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b": {
+      "date": "2026-06-09",
+      "title": "Introducing Gemma 4 12B: Unified multimodal open model running on laptop GPU",
+      "topic_key": "google-gemma-4-12b-release"
+    },
+    "https://ghacks.net/2026/06/03/openai-upgrades-gpt-5-5-instant-and-confirms-retirement-of-o3-and-gpt-4-5-models": {
+      "date": "2026-06-09",
+      "title": "OpenAI confirms GPT-4.5 retirement June 27 and o3 retirement August 26 from ChatGPT",
+      "topic_key": "openai-gpt4-5-o3-retirement-chatgpt-june2026"
+    },
+    "https://docs.cloud.google.com/gemini/enterprise/docs/release-notes": {
+      "date": "2026-06-09",
+      "title": "Gemini Enterprise: Gemini 3.5 Flash mandatory from June 8, no toggle available",
+      "topic_key": "gemini-3-5-flash-enterprise-mandatory-june8"
+    },
+    "https://opensourceforu.com/2026/06/nvidia-adds-naver-to-nemotron-open-source-llm-consortium": {
+      "date": "2026-06-09",
+      "title": "NVIDIA adds Naver to Nemotron open-source LLM consortium — first Korean member",
+      "topic_key": "naver-nemotron-consortium-june8-2026"
     }
   }
 }
