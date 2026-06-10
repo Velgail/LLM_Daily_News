@@ -1100,6 +1100,26 @@
       "date": "2026-06-10",
       "title": "OpenAI Economic Research Exchange — external researchers get privacy-protected access to ChatGPT data for AI economic impact studies",
       "topic_key": "openai-economic-research-exchange"
+    },
+    "https://fortune.com/2026/06/10/anthropic-accu-claude-fable-5-limits-capabilities-ai-researchers-developers": {
+      "date": "2026-06-11",
+      "title": "Anthropic accused of 'secret sabotage' as Claude Fable 5 silently limits capabilities for AI researchers and developers",
+      "topic_key": "anthropic-fable-5-secret-ai-rd-safeguard"
+    },
+    "https://techtimes.com/articles/318152/20260610/google-gemini-outage-tops-six-hours-errors-1076-1099-worldwideflash-lite-still-answers.htm": {
+      "date": "2026-06-11",
+      "title": "Google Gemini Outage Tops Six Hours, Errors 1076 and 1099 Worldwide; Flash Lite Still Answers",
+      "topic_key": "gemini-outage-june-10-2026"
+    },
+    "https://btcc.com/en-US/academy/stocks/stock-guide/spacex-xai-merger-june-12-ipo-navigating-the-low-free-float-market-reality": {
+      "date": "2026-06-11",
+      "title": "SpaceX xAI Merger & June 12 IPO: Navigating the Low Free-Float Market Reality",
+      "topic_key": "spacex-xai-ipo-nasdaq-june12-listing"
+    },
+    "https://github.blog/changelog/2026-06-09-claude-fable-5-is-generally-available-for-github-copilot": {
+      "date": "2026-06-11",
+      "title": "Claude Fable 5 is generally available for GitHub Copilot",
+      "topic_key": "claude-fable-5-github-copilot-launch"
     }
   }
 }
