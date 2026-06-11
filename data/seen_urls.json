@@ -1120,6 +1120,26 @@
       "date": "2026-06-11",
       "title": "Claude Fable 5 is generally available for GitHub Copilot",
       "topic_key": "claude-fable-5-github-copilot-launch"
+    },
+    "https://openai.com/index/openai-on-oracle-cloud": {
+      "date": "2026-06-12",
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "topic_key": "openai-oracle-cloud-codex"
+    },
+    "https://techtimes.com/articles/318165/20260610/grok-v9-rolls-tesla-cars-x-why-musks-distribution-flywheel-worries-ai-rivals.htm": {
+      "date": "2026-06-12",
+      "title": "Grok V9 Rolls Into Tesla Cars and X: Why Musk's Distribution Flywheel Worries AI Rivals",
+      "topic_key": "xai-grok-v9-medium-tesla-x-rollout"
+    },
+    "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research": {
+      "date": "2026-06-12",
+      "title": "Google DeepMind and partners announce multi-agent safety research funding call (up to $10M)",
+      "topic_key": "deepmind-multi-agent-safety-research-fund"
+    },
+    "https://about.fb.com/news/2026/06/meta-business-agent": {
+      "date": "2026-06-12",
+      "title": "Meta Business Agent launches globally on WhatsApp, Instagram, Messenger",
+      "topic_key": "meta-business-agent-platform-launch"
     }
   }
 }
