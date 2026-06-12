@@ -1140,6 +1140,21 @@
       "date": "2026-06-12",
       "title": "Meta Business Agent launches globally on WhatsApp, Instagram, Messenger",
       "topic_key": "meta-business-agent-platform-launch"
+    },
+    "https://thenextweb.com/news/g7-ai-summit-altman-amodei-hassabis": {
+      "date": "2026-06-13",
+      "title": "G7 Summit in France: Altman, Amodei, Hassabis attending June 15-17 — first time AI rivals at same G7 table",
+      "topic_key": "g7-summit-ai-executives-altman-amodei-hassabis"
+    },
+    "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html": {
+      "date": "2026-06-13",
+      "title": "SpaceX IPO debuts +19% on Nasdaq, $2T market cap — Musk becomes world's first trillionaire",
+      "topic_key": "spacex-ipo-debut-musk-first-trillionaire"
+    },
+    "https://nvidianews.nvidia.com/news/naver-ai-infrastructure": {
+      "date": "2026-06-13",
+      "title": "NAVER Expands AI Infrastructure With NVIDIA DSX Platform — 55MW to 1GW AI factory plan in Korea",
+      "topic_key": "naver-nvidia-dsx-gigawatt-ai-factory-korea"
     }
   }
 }
