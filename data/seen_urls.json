@@ -1170,6 +1170,26 @@
       "date": "2026-06-14",
       "title": "DiffusionGemma: 4x faster text generation — Google's discrete diffusion open model",
       "topic_key": "diffusiongemma-26b-release"
+    },
+    "https://openai.com/index/openai-to-acquire-ona": {
+      "date": "2026-06-15",
+      "title": "OpenAI acquires Ona — cloud execution startup to support long-running Codex agents",
+      "topic_key": "openai-acquires-ona-codex"
+    },
+    "https://www.anthropic.com/news/tcs-anthropic-partnership": {
+      "date": "2026-06-15",
+      "title": "TCS and Anthropic launch Global Premier Partnership — 50,000 employees, regulated industries",
+      "topic_key": "anthropic-tcs-global-premier-partnership"
+    },
+    "https://www.anthropic.com/news/dxc-anthropic-alliance": {
+      "date": "2026-06-15",
+      "title": "DXC and Anthropic announce multi-year global alliance for mission-critical enterprise systems",
+      "topic_key": "anthropic-dxc-global-alliance-mission-critical"
+    },
+    "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1328": {
+      "date": "2026-06-15",
+      "title": "EU Commission publishes Code of Practice on marking and labelling AI-generated content",
+      "topic_key": "eu-ai-act-code-of-practice-content-labelling-june2026"
     }
   }
 }
