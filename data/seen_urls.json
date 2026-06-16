@@ -1215,6 +1215,31 @@
       "date": "2026-06-06",
       "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
       "topic_key": "openai-chatgpt-lockdown-mode"
+    },
+    "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak": {
+      "date": "2026-06-17",
+      "title": "The US government's Anthropic models ban was never about an AI jailbreak",
+      "topic_key": "anthropic-ban-politics-not-jailbreak"
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-06-16/anthropic-s-mythos-and-fable-models-trigger-policy-reversal-by-white-house": {
+      "date": "2026-06-17",
+      "title": "Anthropic's Mythos and Fable Models Trigger Policy Reversal by White House",
+      "topic_key": "anthropic-fable5-policy-reversal-june16"
+    },
+    "https://betakit.com/g7-leaders-conclude-summit-with-commitments-on-ai-and-quantum": {
+      "date": "2026-06-17",
+      "title": "G7 leaders conclude summit with commitments on AI and quantum",
+      "topic_key": "g7-2026-evian-ai-quantum-conclusion"
+    },
+    "https://x.ai/news/grok-4-1-fast": {
+      "date": "2026-06-17",
+      "title": "Grok 4.1 Fast and Agent Tools API",
+      "topic_key": "xai-grok-4-1-fast-enterprise-api"
+    },
+    "https://help.openai.com/en/articles/6825453-chatgpt-release-notes": {
+      "date": "2026-06-17",
+      "title": "ChatGPT Release Notes — GPT-5.2 retirement June 12, 2026",
+      "topic_key": "gpt-5.2-chatgpt-retirement-june12"
     }
   }
 }
