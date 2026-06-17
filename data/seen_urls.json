@@ -1240,6 +1240,31 @@
       "date": "2026-06-17",
       "title": "ChatGPT Release Notes — GPT-5.2 retirement June 12, 2026",
       "topic_key": "gpt-5.2-chatgpt-retirement-june12"
+    },
+    "https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html": {
+      "date": "2026-06-18",
+      "title": "CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition at G7",
+      "topic_key": "g7-ai-ceos-us-coalition-call-june17"
+    },
+    "https://www.usnews.com/news/world/articles/2026-06-17/trump-says-negotiations-with-anthropic-are-going-fine": {
+      "date": "2026-06-18",
+      "title": "Trump Says Negotiations With Anthropic Are 'Going Fine'",
+      "topic_key": "trump-anthropic-negotiations-going-fine"
+    },
+    "https://www.marktechpost.com/2026/06/16/openai-deployment-simulation/": {
+      "date": "2026-06-18",
+      "title": "OpenAI Deployment Simulation — pre-deployment safety testing by replaying real user conversations",
+      "topic_key": "openai-deployment-simulation-safety"
+    },
+    "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/": {
+      "date": "2026-06-18",
+      "title": "Transitioning Gemini CLI to Antigravity CLI — Gemini CLI sunsets June 18, 2026",
+      "topic_key": "gemini-cli-sunset-antigravity-migration-june18"
+    },
+    "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/": {
+      "date": "2026-06-18",
+      "title": "Pramaana Labs raises $27M seed from Khosla Ventures to bring formal verification to AI",
+      "topic_key": "pramaana-labs-27m-formal-verification-ai"
     }
   }
 }
