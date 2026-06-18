@@ -1265,6 +1265,26 @@
       "date": "2026-06-18",
       "title": "Pramaana Labs raises $27M seed from Khosla Ventures to bring formal verification to AI",
       "topic_key": "pramaana-labs-27m-formal-verification-ai"
+    },
+    "https://9to5mac.com/2026/06/17/openai-launches-scheduled-tasks-in-chatgpt-details-here": {
+      "date": "2026-06-19",
+      "title": "OpenAI launches ChatGPT Scheduled Tasks dedicated page — Pulse retired, webhooks, per-plan task limits",
+      "topic_key": "chatgpt-scheduled-tasks-dedicated-page"
+    },
+    "https://aws.amazon.com/about-aws/whats-new/2026/06/grok-amazon-bedrock": {
+      "date": "2026-06-19",
+      "title": "Grok 4.3 from xAI now available in Amazon Bedrock — 1M context, variable reasoning, Mantle inference engine",
+      "topic_key": "grok-4-3-amazon-bedrock-launch"
+    },
+    "https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost": {
+      "date": "2026-06-19",
+      "title": "Z.ai open-weights GLM-5.2: 744B MoE, 1M context, MIT license, beats GPT-5.5 on long-horizon coding at 1/6 cost",
+      "topic_key": "glm-5.2-zhipu-release"
+    },
+    "https://the-decoder.com/google-researchs-gemini-sql2-tops-text-to-sql-benchmarks-by-a-wide-margin": {
+      "date": "2026-06-19",
+      "title": "Google Gemini-SQL2 tops text-to-SQL BIRD benchmark at 80.04%, first to break 80% threshold",
+      "topic_key": "google-gemini-sql2-text-to-sql"
     }
   }
 }
