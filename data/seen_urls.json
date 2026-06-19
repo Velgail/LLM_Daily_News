@@ -1285,6 +1285,31 @@
       "date": "2026-06-19",
       "title": "Google Gemini-SQL2 tops text-to-SQL BIRD benchmark at 80.04%, first to break 80% threshold",
       "topic_key": "google-gemini-sql2-text-to-sql"
+    },
+    "https://openai.com/index/improving-health-intelligence-in-chatgpt": {
+      "date": "2026-06-20",
+      "title": "Improving health intelligence in ChatGPT — GPT-5.5 Instant tops physician answers across 3,500 health queries",
+      "topic_key": "openai-health-intelligence-chatgpt-june18"
+    },
+    "https://www.techtimes.com/articles/318618/20260618/ai-drug-discovery-chemistry-hits-wet-lab-gpt-54-boosts-chan-lam-yields-10080-reactions.htm": {
+      "date": "2026-06-20",
+      "title": "GPT-5.4 × Molecule.one: Chan-Lam coupling boosted in 10,080 wet-lab reactions — first autonomous AI chemistry experiment",
+      "topic_key": "openai-gpt-5.4-molecule-one-chan-lam-chemistry"
+    },
+    "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem": {
+      "date": "2026-06-20",
+      "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "topic_key": "anthropic-seoul-office-opening-partnerships-june2026"
+    },
+    "https://blog.google/products-and-platforms/devices/google-nest/google-home-speaker-gemini-features": {
+      "date": "2026-06-20",
+      "title": "Google Home Speaker with Gemini — $99.99 smart speaker preorder, ships June 25, first new speaker in 6 years",
+      "topic_key": "google-home-speaker-gemini-2026"
+    },
+    "https://openai.com/index/introducing-openai-partner-network": {
+      "date": "2026-06-20",
+      "title": "Introducing the OpenAI Partner Network — $150M investment, Accenture/BCG/McKinsey, 300K consultants by end of 2026",
+      "topic_key": "openai-partner-network-launch-june2026"
     }
   }
 }
