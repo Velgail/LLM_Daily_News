@@ -1310,6 +1310,26 @@
       "date": "2026-06-20",
       "title": "Introducing the OpenAI Partner Network — $150M investment, Accenture/BCG/McKinsey, 300K consultants by end of 2026",
       "topic_key": "openai-partner-network-launch-june2026"
+    },
+    "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo": {
+      "date": "2026-06-21",
+      "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
+      "topic_key": "spacex-cursor-acquisition-60b"
+    },
+    "https://www.techtimes.com/articles/318495/20260616/grok-v9-medium-arrives-spacex-seals-cursor-developers-face-model-choice-risk.htm": {
+      "date": "2026-06-21",
+      "title": "Grok V9-Medium Arrives as SpaceX Seals Cursor: Developers Face Model-Choice Risk",
+      "topic_key": "xai-grok-v9-medium-launch"
+    },
+    "https://cohere.com/blog/north-mini-code": {
+      "date": "2026-06-21",
+      "title": "North Mini Code: Cohere's First Agentic Coding Model (30B MoE, Apache 2.0, 256K context)",
+      "topic_key": "cohere-north-mini-code-release"
+    },
+    "https://www.techtimes.com/articles/318492/20260616/gpt-56-openai-chief-scientist-calls-it-meaningful-leap-june-launch-nears.htm": {
+      "date": "2026-06-21",
+      "title": "GPT-5.6: OpenAI Chief Scientist Calls It a Meaningful Leap, June Launch Nears",
+      "topic_key": "openai-gpt-5.6-june-launch-imminent"
     }
   }
 }
