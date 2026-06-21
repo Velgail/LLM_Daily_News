@@ -1330,6 +1330,31 @@
       "date": "2026-06-21",
       "title": "GPT-5.6: OpenAI Chief Scientist Calls It a Meaningful Leap, June Launch Nears",
       "topic_key": "openai-gpt-5.6-june-launch-imminent"
+    },
+    "https://www.axios.com/2026/06/18/noam-shazeer-google-openai-characterai": {
+      "date": "2026-06-22",
+      "title": "Top AI researcher leaves Google for OpenAI — Noam Shazeer, Gemini co-lead and Attention Is All You Need co-author",
+      "topic_key": "noam-shazeer-joins-openai"
+    },
+    "https://openai.com/index/chatgpt-enterprise-spend-controls": {
+      "date": "2026-06-22",
+      "title": "New usage analytics and updated spend controls for ChatGPT Enterprise",
+      "topic_key": "openai-chatgpt-enterprise-spend-controls"
+    },
+    "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic": {
+      "date": "2026-06-22",
+      "title": "Nobel laureate John Jumper (AlphaFold) is leaving DeepMind for rival Anthropic",
+      "topic_key": "john-jumper-anthropic"
+    },
+    "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits": {
+      "date": "2026-06-22",
+      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "topic_key": "anthropic-fable5-export-control-competitive-impact"
+    },
+    "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27": {
+      "date": "2026-06-22",
+      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "topic_key": "apple-ios27-practical-ai-features"
     }
   }
 }
