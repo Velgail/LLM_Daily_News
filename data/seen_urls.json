@@ -1355,6 +1355,26 @@
       "date": "2026-06-22",
       "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
       "topic_key": "apple-ios27-practical-ai-features"
+    },
+    "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab": {
+      "date": "2026-06-23",
+      "title": "SpaceX signs $6.3B compute deal with Reflection AI for Nvidia GB300 chips at Colossus 2",
+      "topic_key": "reflection-ai-spacex-6b-compute-deal"
+    },
+    "https://openai.com/index/patch-the-planet": {
+      "date": "2026-06-23",
+      "title": "Patch the Planet: OpenAI launches open-source vulnerability initiative with GPT-5.5-Cyber update",
+      "topic_key": "openai-patch-the-planet-gpt5-5-cyber-launch"
+    },
+    "https://investors.micron.com/news-releases/news-release-details/micron-and-anthropic-announce-strategic-agreement-scale-next": {
+      "date": "2026-06-23",
+      "title": "Micron and Anthropic Announce Strategic Agreement to Scale Next-Generation AI Infrastructure",
+      "topic_key": "micron-anthropic-supply-deal-series-h-june2026"
+    },
+    "https://securityaffairs.com/194016/ai/anthropics-mythos-ai-broke-into-almost-all-nsa-classified-systems-in-hours.html": {
+      "date": "2026-06-23",
+      "title": "Anthropic's Mythos AI broke into almost all NSA classified systems in hours, NSA Director testified",
+      "topic_key": "claude-mythos-nsa-classified-breach-testimony"
     }
   }
 }
