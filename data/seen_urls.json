@@ -1375,6 +1375,31 @@
       "date": "2026-06-23",
       "title": "Anthropic's Mythos AI broke into almost all NSA classified systems in hours, NSA Director testified",
       "topic_key": "claude-mythos-nsa-classified-breach-testimony"
+    },
+    "https://www.engadget.com/2198117/norway-imposes-broad-restrictions-on-ai-for-elementary-school-kids": {
+      "date": "2026-06-24",
+      "title": "Norway imposes broad restrictions on AI for elementary school kids",
+      "topic_key": "norway-school-ai-ban-elementary-june2026"
+    },
+    "https://www.benzinga.com/markets/tech/26/06/53285203/amazon-expands-trainium-ai-chip-strategy-beyond-aws": {
+      "date": "2026-06-24",
+      "title": "Amazon Expands Trainium AI Chip Strategy Beyond AWS",
+      "topic_key": "amazon-trainium-external-sales-june2026"
+    },
+    "https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system": {
+      "date": "2026-06-24",
+      "title": "No Claude Fable 5? No problem: Sakana achieves frontier performance with new Fugu multi-model, auto synthesis system",
+      "topic_key": "sakana-fugu-multi-model-routing"
+    },
+    "https://www.mindstudio.ai/blog/claude-fable-5-pricing-access-usage-limits": {
+      "date": "2026-06-24",
+      "title": "Claude Fable 5 Pricing, Access, and Usage Limits: What You Need to Know",
+      "topic_key": "claude-fable-5-subscription-paywall-june22"
+    },
+    "https://venturebeat.com/orchestration/researchers-introduce-self-harness-a-framework-that-lets-ai-agents-rewrite-their-own-rules-boosting-performance-up-to-60": {
+      "date": "2026-06-24",
+      "title": "Researchers introduce Self-Harness, a framework that lets AI agents rewrite their own rules, boosting performance up to 60%",
+      "topic_key": "self-harness-agent-self-improving-rules"
     }
   }
 }
