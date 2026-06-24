@@ -1400,6 +1400,31 @@
       "date": "2026-06-24",
       "title": "Researchers introduce Self-Harness, a framework that lets AI agents rewrite their own rules, boosting performance up to 60%",
       "topic_key": "self-harness-agent-self-improving-rules"
+    },
+    "https://openai.com/index/openai-broadcom-jalapeno-inference-chip": {
+      "date": "2026-06-25",
+      "title": "OpenAI × Broadcom、LLM推論専用チップ「Jalapeño」を発表——Nvidiaの牙城に挑む",
+      "topic_key": "openai-broadcom-jalapeno-inference-chip"
+    },
+    "https://www.neowin.net/news/anthropic-introduces-claude-tag-a-new-ai-teammate-for-slack": {
+      "date": "2026-06-25",
+      "title": "AnthropicがSlackに「Claude Tag」を投入——チーム全員が使えるAI同僚、非同期タスクも対応",
+      "topic_key": "anthropic-claude-tag-slack-launch"
+    },
+    "https://x.ai/news/introducing-powerpoint-addin": {
+      "date": "2026-06-25",
+      "title": "xAIがGrokをWord・Excel・PowerPointに統合——Microsoft Copilotへの正面対決が始まった",
+      "topic_key": "xai-grok-office-word-excel-powerpoint-addin"
+    },
+    "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment": {
+      "date": "2026-06-25",
+      "title": "SamsungがChatGPT EnterpriseとCodexを全社展開——OpenAI史上最大級のエンタープライズ導入",
+      "topic_key": "samsung-chatgpt-enterprise-codex-deployment"
+    },
+    "https://developers.openai.com/codex/record-and-replay": {
+      "date": "2026-06-25",
+      "title": "OpenAI「Codex Record & Replay」登場——ワークフローを1回見せるだけでAIが無限に再実行",
+      "topic_key": "openai-codex-record-replay-skill"
     }
   }
 }
