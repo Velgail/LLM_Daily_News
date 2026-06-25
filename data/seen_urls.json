@@ -1425,6 +1425,31 @@
       "date": "2026-06-25",
       "title": "OpenAI「Codex Record & Replay」登場——ワークフローを1回見せるだけでAIが無限に再実行",
       "topic_key": "openai-codex-record-replay-skill"
+    },
+    "https://www.cnbc.com/2026/06/24/anthropic-alibaba-distillation-campaign.html": {
+      "date": "2026-06-26",
+      "title": "Anthropic accuses Alibaba of campaign to 'brazenly' and 'illicitly' extract AI capabilities — largest known distillation attack (25,000 accounts, 28.8M exchanges)",
+      "topic_key": "anthropic-alibaba-distillation-attack-june2026"
+    },
+    "https://blog.google/products-and-platforms/products/gemini/gemini-2-5-deep-think/": {
+      "date": "2026-06-26",
+      "title": "Gemini 2.5 Pro Deep Think launch — GPQA Diamond 82.4%, MMLU-Pro 89.8%, 2M token context",
+      "topic_key": "gemini-2.5-pro-deep-think-launch"
+    },
+    "https://mistral.ai/news/ocr-4/": {
+      "date": "2026-06-26",
+      "title": "Mistral OCR 4 release — bounding boxes, block classification, 170 languages, OlmOCRBench 85.20, $4/1000 pages",
+      "topic_key": "mistral-ocr-4-release"
+    },
+    "https://www.washingtonpost.com/technology/interactive/2026/06/24/are-ai-chatbots-like-chatgpt-politically-biased-we-tested-them/": {
+      "date": "2026-06-26",
+      "title": "Washington Post: AI chatbots including ChatGPT and Gemini show political bias in independent testing",
+      "topic_key": "ai-chatbot-political-bias-washpost-june2026"
+    },
+    "https://digital-strategy.ec.europa.eu/en/news/commission-selects-europa-consortium-winner-frontier-ai-grand-challenge-project-build-european-open": {
+      "date": "2026-06-26",
+      "title": "EU Commission selects EUROPA consortium (led by Domyn) for Frontier AI Grand Challenge — 400B+ open-source model in 24 EU languages",
+      "topic_key": "eu-europa-frontier-ai-challenge-winner"
     }
   }
 }
