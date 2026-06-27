@@ -1475,6 +1475,31 @@
       "date": "2026-06-26",
       "title": "Google delays Gemini 3.5 Pro launch to July 2026",
       "topic_key": "gemini-3.5-pro-delayed-july-2026"
+    },
+    "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/": {
+      "date": "2026-06-28",
+      "title": "Trump admin partially reinstates Anthropic Mythos 5 access for 100+ US companies/agencies",
+      "topic_key": "anthropic-mythos5-partial-reinstatement-june26"
+    },
+    "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/": {
+      "date": "2026-06-28",
+      "title": "General Intuition's $2.3B bet that video games can train AI agents for the real world",
+      "topic_key": "general-intuition-world-model-videogame-ai"
+    },
+    "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/": {
+      "date": "2026-06-28",
+      "title": "AI researchers Jonas Adler and Alexander Pritzel leave Google DeepMind for Anthropic",
+      "topic_key": "google-adler-pritzel-anthropic-gemini-exodus"
+    },
+    "https://www.npr.org/2026/06/22/nx-s1-5856359/ai-anthropic-congress-spending-openai-midterms-election": {
+      "date": "2026-06-28",
+      "title": "Groups tied to OpenAI and Anthropic are spending big on the 2026 midterms",
+      "topic_key": "openai-anthropic-midterm-super-pacs"
+    },
+    "https://variety.com/2026/film/news/google-a24-ai-filmmaking-tools-1236787297/": {
+      "date": "2026-06-28",
+      "title": "A24 and Google DeepMind announce $75M AI filmmaking tools partnership",
+      "topic_key": "a24-deepmind-75m-film-ai-partnership"
     }
   }
 }
