@@ -1500,6 +1500,26 @@
       "date": "2026-06-28",
       "title": "A24 and Google DeepMind announce $75M AI filmmaking tools partnership",
       "topic_key": "a24-deepmind-75m-film-ai-partnership"
+    },
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash": {
+      "date": "2026-06-29",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "topic_key": "gemini-3.5-flash-computer-use"
+    },
+    "https://about.fb.com/news/2026/06/meta-essilorluxottica-partner-launch-meta-glasses": {
+      "date": "2026-06-29",
+      "title": "Meta and EssilorLuxottica partner to launch Meta Glasses",
+      "topic_key": "meta-glasses-essilorluxottica-launch"
+    },
+    "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html": {
+      "date": "2026-06-29",
+      "title": "OpenAI, Anthropic face new AI spending reality as users shift to efficiency",
+      "topic_key": "enterprise-ai-efficiency-tokenmaxxing-shift"
+    },
+    "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake": {
+      "date": "2026-06-29",
+      "title": "Reid Hoffman says SpaceX isn't an AI company, xAI is a complete train wreck",
+      "topic_key": "reid-hoffman-xai-spacex-commentary"
     }
   }
 }
