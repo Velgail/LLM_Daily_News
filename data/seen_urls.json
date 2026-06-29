@@ -1520,6 +1520,26 @@
       "date": "2026-06-29",
       "title": "Reid Hoffman says SpaceX isn't an AI company, xAI is a complete train wreck",
       "topic_key": "reid-hoffman-xai-spacex-commentary"
+    },
+    "https://qwen.ai/blog?id=qwen-agentworld": {
+      "date": "2026-06-30",
+      "title": "Qwen-AgentWorld: Language World Models for General Agents",
+      "topic_key": "qwen-agentworld-release"
+    },
+    "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication": {
+      "date": "2026-06-30",
+      "title": "Brain2Qwerty v2: Non-invasive brain-to-text decoding via MEG",
+      "topic_key": "meta-brain2qwerty-v2-meg-brain-to-text"
+    },
+    "https://www.anthropic.com/research/economic-index-june-2026-report": {
+      "date": "2026-06-30",
+      "title": "Anthropic Economic Index report: Cadences",
+      "topic_key": "anthropic-economic-index-cadences-june2026"
+    },
+    "https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1": {
+      "date": "2026-06-30",
+      "title": "DeepSeek releases DSpark: speculative decoding framework, 60-85% faster V4 generation",
+      "topic_key": "deepseek-dspark-speculative-decoding-release"
     }
   }
 }
