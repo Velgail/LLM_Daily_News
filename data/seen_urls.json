@@ -1540,6 +1540,21 @@
       "date": "2026-06-30",
       "title": "DeepSeek releases DSpark: speculative decoding framework, 60-85% faster V4 generation",
       "topic_key": "deepseek-dspark-speculative-decoding-release"
+    },
+    "https://www.anthropic.com/news/claude-sonnet-5": {
+      "date": "2026-07-01",
+      "title": "Introducing Claude Sonnet 5 — most agentic Sonnet, default for all plans, $2/$10 intro pricing",
+      "topic_key": "claude-sonnet-5-release"
+    },
+    "https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html": {
+      "date": "2026-07-01",
+      "title": "Anthropic launches Claude Science — AI workbench for biopharma, 60+ databases, internal drug discovery program",
+      "topic_key": "anthropic-claude-science-launch"
+    },
+    "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/claude-sonnet-5-is-now-generally-available-in-microsoft-foundry/4530737": {
+      "date": "2026-07-01",
+      "title": "Claude Sonnet 5 GA in Microsoft Foundry on Azure — Blackwell Ultra GPUs, 40% faster TTFT, multi-model agents",
+      "topic_key": "claude-azure-foundry-ga-june2026"
     }
   }
 }
