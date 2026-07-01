@@ -1555,6 +1555,16 @@
       "date": "2026-07-01",
       "title": "Claude Sonnet 5 GA in Microsoft Foundry on Azure — Blackwell Ultra GPUs, 40% faster TTFT, multi-model agents",
       "topic_key": "claude-azure-foundry-ga-june2026"
+    },
+    "https://www.anthropic.com/news/redeploying-fable-5": {
+      "date": "2026-07-01",
+      "title": "Redeploying Claude Fable 5 — export controls lifted, global return, 99%+ jailbreak-blocking classifier",
+      "topic_key": "claude-fable-5-mythos-5-full-restoration-july1"
+    },
+    "https://openai.com/index/introducing-genebench-pro/": {
+      "date": "2026-06-30",
+      "title": "Introducing GeneBench-Pro — 129-problem benchmark for AI agent judgment in computational biology",
+      "topic_key": "openai-genebench-pro-launch"
     }
   }
 }
