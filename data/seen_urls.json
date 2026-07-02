@@ -1565,6 +1565,21 @@
       "date": "2026-06-30",
       "title": "Introducing GeneBench-Pro — 129-problem benchmark for AI agent judgment in computational biology",
       "topic_key": "openai-genebench-pro-launch"
+    },
+    "https://claude.com/blog/introducing-the-claude-apps-gateway": {
+      "date": "2026-06-29",
+      "title": "Claude Apps Gateway for Amazon Bedrock and Google Cloud — self-hosted control plane with SSO, spend caps",
+      "topic_key": "claude-apps-gateway-bedrock-gcp-launch"
+    },
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/": {
+      "date": "2026-06-30",
+      "title": "Gemini Omni Flash and Nano Banana 2 Lite public preview — multimodal video generation API",
+      "topic_key": "gemini-omni-flash-api-public-preview"
+    },
+    "https://x.ai/news/grok-voice-agent-builder": {
+      "date": "2026-07-01",
+      "title": "Grok Voice Agent Builder beta — no-code speech-to-speech voice agent creation, $0.05/min",
+      "topic_key": "grok-voice-agent-builder-launch"
     }
   }
 }
