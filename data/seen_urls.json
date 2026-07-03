@@ -1580,6 +1580,26 @@
       "date": "2026-07-01",
       "title": "Grok Voice Agent Builder beta — no-code speech-to-speech voice agent creation, $0.05/min",
       "topic_key": "grok-voice-agent-builder-launch"
+    },
+    "https://americanbazaaronline.com/2026/07/03/meta-ai-chief-says-watermelon-model-has-caught-up-to-gpt-5-5-484022": {
+      "date": "2026-07-04",
+      "title": "Meta AI chief says new 'Watermelon' model has caught up to OpenAI's GPT-5.5",
+      "topic_key": "meta-watermelon-catches-gpt-5.5"
+    },
+    "https://technode.com/2026/06/30/deepseek-to-launch-v4-in-mid-july-with-new-peak-time-api-pricing": {
+      "date": "2026-07-04",
+      "title": "DeepSeek to launch V4 official release in mid-July with new peak-time API pricing",
+      "topic_key": "deepseek-v4-official-release-mid-july-peak-pricing"
+    },
+    "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework": {
+      "date": "2026-07-04",
+      "title": "More details on Fable 5's cyber safeguards and our jailbreak framework — Cyber Jailbreak Severity (CJS) scale with Amazon, Microsoft, Google",
+      "topic_key": "anthropic-jailbreak-severity-framework-cjs"
+    },
+    "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback": {
+      "date": "2026-07-04",
+      "title": "OpenAI proposes U.S. government own 5% stake to address political blowback",
+      "topic_key": "openai-5percent-government-stake-proposal"
     }
   }
 }
