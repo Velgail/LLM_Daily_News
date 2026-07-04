@@ -1600,6 +1600,26 @@
       "date": "2026-07-04",
       "title": "OpenAI proposes U.S. government own 5% stake to address political blowback",
       "topic_key": "openai-5percent-government-stake-proposal"
+    },
+    "https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips": {
+      "date": "2026-07-05",
+      "title": "Meituan open sources LongCat-2.0 — 1.6T MoE, MIT license, trained entirely on Chinese chips",
+      "topic_key": "longcat-2.0-meituan-1.6t-release"
+    },
+    "https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute": {
+      "date": "2026-07-05",
+      "title": "Meta is building a cloud business to sell excess AI compute (Meta Compute)",
+      "topic_key": "meta-compute-cloud-business-launch"
+    },
+    "https://www.techtimes.com/articles/319314/20260629/grok-45-enters-private-beta-spacex-tesla-no-public-access-no-independent-benchmark.htm": {
+      "date": "2026-07-05",
+      "title": "Grok 4.5 enters private beta at SpaceX and Tesla — no public access, no independent benchmark",
+      "topic_key": "xai-grok-4.5-private-beta"
+    },
+    "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price": {
+      "date": "2026-07-05",
+      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+      "topic_key": "california-newsom-anthropic-claude-50-percent-discount"
     }
   }
 }
