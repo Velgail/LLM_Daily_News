@@ -1620,6 +1620,26 @@
       "date": "2026-07-05",
       "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
       "topic_key": "california-newsom-anthropic-claude-50-percent-discount"
+    },
+    "https://mistral.ai/news/leanstral-1-5": {
+      "date": "2026-07-06",
+      "title": "Leanstral 1.5: Proof Abundance for All — Apache 2.0 Lean 4 formal proof model, 119B-A6B MoE",
+      "topic_key": "mistral-leanstral-1.5-release"
+    },
+    "https://www.techtimes.com/articles/319639/20260703/bytedance-seedance-25-launches-this-week-30-second-ai-video-carries-copyright-cloud.htm": {
+      "date": "2026-07-06",
+      "title": "ByteDance Seedance 2.5 launches this week — 30-second native AI video, copyright concerns loom",
+      "topic_key": "bytedance-seedance-2.5-public-launch"
+    },
+    "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung": {
+      "date": "2026-07-06",
+      "title": "Anthropic is discussing a new custom chip with Samsung",
+      "topic_key": "anthropic-samsung-custom-chip-talks"
+    },
+    "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity": {
+      "date": "2026-07-06",
+      "title": "Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity — 98% token reduction, ICML 2026",
+      "topic_key": "microsoft-memora-agent-memory-framework"
     }
   }
 }
