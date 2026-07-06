@@ -1640,6 +1640,21 @@
       "date": "2026-07-06",
       "title": "Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity — 98% token reduction, ICML 2026",
       "topic_key": "microsoft-memora-agent-memory-framework"
+    },
+    "https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend": {
+      "date": "2026-07-07",
+      "title": "New analytics and cost controls are available for Claude Enterprise — model entitlements, 75%/90% spend alerts, Admin/Analytics APIs",
+      "topic_key": "anthropic-claude-enterprise-spend-controls-analytics"
+    },
+    "https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower": {
+      "date": "2026-07-07",
+      "title": "NVIDIA Releases Nemotron-Labs-TwoTower — open-weight diffusion LLM, 2.42x throughput, frozen autoregressive backbone",
+      "topic_key": "nvidia-nemotron-labs-twotower-diffusion-llm"
+    },
+    "https://www.basenor.com/blogs/news/grok-imagine-is-done-xai-completes-image-generation-feature": {
+      "date": "2026-07-07",
+      "title": "Grok Imagine Is Done: xAI Completes Image Generation Feature",
+      "topic_key": "xai-grok-imagine-feature-complete"
     }
   }
 }
