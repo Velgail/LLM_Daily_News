@@ -1655,6 +1655,26 @@
       "date": "2026-07-07",
       "title": "Grok Imagine Is Done: xAI Completes Image Generation Feature",
       "topic_key": "xai-grok-imagine-feature-complete"
+    },
+    "https://www.geeky-gadgets.com/gemini-pro-scraps-base-model/": {
+      "date": "2026-07-08",
+      "title": "Google Delays Gemini 3.5 Pro to July 17 to Upgrade Math — architecture rebuild, researcher exodus to Anthropic/OpenAI",
+      "topic_key": "gemini-3.5-pro-july17-delay-researcher-exodus"
+    },
+    "https://community.openai.com/t/new-realtime-models-on-the-api-gpt-realtime-2-1-and-gpt-realtime-2-1-mini/1385896": {
+      "date": "2026-07-08",
+      "title": "New Realtime models on the API: gpt-realtime-2.1 and gpt-realtime-2.1-mini — 25% lower p95 latency",
+      "topic_key": "openai-gpt-realtime-2.1-release"
+    },
+    "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs/": {
+      "date": "2026-07-08",
+      "title": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs — MAI models in Excel/Outlook",
+      "topic_key": "microsoft-mai-replaces-openai-anthropic-copilot"
+    },
+    "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/": {
+      "date": "2026-07-08",
+      "title": "Mistral teases new 'fat but sparse' open-weight MoE model — early access in July (Arthur Mensch)",
+      "topic_key": "mistral-fat-but-sparse-open-weight-teaser"
     }
   }
 }
