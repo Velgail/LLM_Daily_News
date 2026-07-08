@@ -1675,6 +1675,31 @@
       "date": "2026-07-08",
       "title": "Mistral teases new 'fat but sparse' open-weight MoE model — early access in July (Arthur Mensch)",
       "topic_key": "mistral-fat-but-sparse-open-weight-teaser"
+    },
+    "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html": {
+      "date": "2026-07-09",
+      "title": "OpenAI to publicly release GPT-5.6 Sol/Terra/Luna — government review restrictions lifted, July 9 launch",
+      "topic_key": "openai-gpt-5.6-public-launch-restrictions-lifted"
+    },
+    "https://openai.com/index/introducing-gpt-live/": {
+      "date": "2026-07-09",
+      "title": "Introducing GPT-Live — full-duplex voice models (GPT-Live-1, GPT-Live-1 mini)",
+      "topic_key": "openai-gpt-live-voice-models-launch"
+    },
+    "https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/": {
+      "date": "2026-07-09",
+      "title": "Introducing Muse Image — Meta Superintelligence Labs' first image generation model, with Content Seal watermarking",
+      "topic_key": "meta-muse-image-launch"
+    },
+    "https://x.ai/news/new-flagship-voices": {
+      "date": "2026-07-09",
+      "title": "21 New Flagship Grok Voices — multilingual expansion from 5 to 26 voices, 11 use-case categories",
+      "topic_key": "xai-grok-voice-21-flagship-voices"
+    },
+    "https://mistral.ai/news/robostral-navigate/": {
+      "date": "2026-07-09",
+      "title": "Robostral Navigate — single-camera 8B robotics navigation model, 76.6% R2R-CE unseen",
+      "topic_key": "mistral-robostral-navigate-release"
     }
   }
 }
