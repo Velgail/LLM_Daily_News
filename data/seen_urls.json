@@ -1720,6 +1720,31 @@
       "date": "2026-07-09",
       "title": "Reflect — Claude usage recap dashboard, 4D AI Fluency Framework",
       "topic_key": "anthropic-claude-reflect-launch"
+    },
+    "https://claude.com/blog/cowork-web-mobile": {
+      "date": "2026-07-11",
+      "title": "Claude Cowork is coming to mobile and web — cross-device agentic sessions, background tasks",
+      "topic_key": "anthropic-claude-cowork-mobile-web-launch"
+    },
+    "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/": {
+      "date": "2026-07-11",
+      "title": "NVIDIA and Hugging Face bring Isaac GR00T 1.7, Isaac Teleop, Cosmos 3 to LeRobot open robotics library",
+      "topic_key": "nvidia-huggingface-isaac-gr00t-1.7-lerobot"
+    },
+    "https://www.cnbc.com/2026/07/08/sambanova-ai-chip-funding-valuation.html": {
+      "date": "2026-07-11",
+      "title": "SambaNova valued at $11 billion after $1B Series F AI chip funding, JPMorgan on-prem inference deal",
+      "topic_key": "sambanova-11b-valuation-series-f-jpmorgan"
+    },
+    "https://portal.ijamp.jiji.com/portal/news/detail/2026070901072": {
+      "date": "2026-07-11",
+      "title": "自民党、内閣府AI政策推進室を30人弱から80人以上へ増強する緊急提言（民間AI人材20人登用も要求）",
+      "topic_key": "ldp-ai-policy-office-80-staff-emergency-proposal"
+    },
+    "https://news.un.org/en/story/2026/07/1167862": {
+      "date": "2026-07-11",
+      "title": "UN Global Dialogue on AI Governance opens in Geneva — Bengio warns science cannot guarantee against catastrophic harm",
+      "topic_key": "un-global-dialogue-ai-governance-geneva-2026"
     }
   }
 }
