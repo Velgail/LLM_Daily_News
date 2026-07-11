@@ -1745,6 +1745,31 @@
       "date": "2026-07-11",
       "title": "UN Global Dialogue on AI Governance opens in Geneva — Bengio warns science cannot guarantee against catastrophic harm",
       "topic_key": "un-global-dialogue-ai-governance-geneva-2026"
+    },
+    "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html": {
+      "date": "2026-07-12",
+      "title": "Apple sues OpenAI, its Chief Hardware Officer, and a former Apple engineer for trade secret theft",
+      "topic_key": "apple-openai-trade-secret-lawsuit"
+    },
+    "https://www.theregister.com/ai-and-ml/2026/07/10/openais-atlas-browser-doesnt-make-it-to-its-first-birthday/5269818": {
+      "date": "2026-07-12",
+      "title": "OpenAI deprecates ChatGPT Atlas browser, folds Codex and web-agent features into ChatGPT",
+      "topic_key": "openai-atlas-browser-shutdown"
+    },
+    "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/": {
+      "date": "2026-07-12",
+      "title": "Ollama raises $65M Series B, grows to nearly 9M monthly developers",
+      "topic_key": "ollama-series-b-65m-funding"
+    },
+    "https://www.marktechpost.com/2026/07/07/nvidia-releases-audex-nemotron-labs-audex-30b-a3b-a-unified-audio-text-llm-that-preserves-the-text-intelligence-of-its-backbone/": {
+      "date": "2026-07-12",
+      "title": "NVIDIA Releases Audex (Nemotron-Labs-Audex-30B-A3B): a unified audio-text LLM",
+      "topic_key": "nvidia-audex-30b-a3b-release"
+    },
+    "https://www.axios.com/2026/07/06/anthropic-claude-ai-conscious": {
+      "date": "2026-07-12",
+      "title": "Anthropic says Claude has carved out its own 'J-Space' to ponder — Jacobian lens interpretability research",
+      "topic_key": "anthropic-j-space-interpretability"
     }
   }
 }
