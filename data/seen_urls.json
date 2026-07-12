@@ -1770,6 +1770,26 @@
       "date": "2026-07-12",
       "title": "Anthropic says Claude has carved out its own 'J-Space' to ponder — Jacobian lens interpretability research",
       "topic_key": "anthropic-j-space-interpretability"
+    },
+    "https://www.androidauthority.com/anthropic-claude-fable-5-credits-usage-july-3684840/": {
+      "date": "2026-07-13",
+      "title": "Claude Fable 5 shifts fully to prepaid usage credits starting July 13 after extended access window ends",
+      "topic_key": "claude-fable-5-usage-credits-cutover-july13"
+    },
+    "https://decrypt.co/373184/perplexity-fine-tuned-chinese-ai-model-claude-opus-4-8": {
+      "date": "2026-07-13",
+      "title": "Perplexity fine-tunes GLM 5.2 with escalation routing to match Claude Opus 4.8 at one-third the cost",
+      "topic_key": "perplexity-glm-fine-tune-opus-parity"
+    },
+    "https://claude.com/blog/working-at-the-frontier-how-cognition-trusts-claude-fable-5-to-work-through-the-night": {
+      "date": "2026-07-13",
+      "title": "Working at the frontier: How Cognition trusts Claude Fable 5 to work through the night (8-hour autonomous coding)",
+      "topic_key": "anthropic-cognition-fable-5-overnight-coding"
+    },
+    "https://thenextweb.com/news/openai-northslope-acquisition-enterprise-ai-deployment": {
+      "date": "2026-07-13",
+      "title": "OpenAI Deployment Company to acquire Northslope, expanding forward-deployed engineer bench for enterprise AI",
+      "topic_key": "openai-deployment-company-acquires-northslope"
     }
   }
 }
