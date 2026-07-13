@@ -1790,6 +1790,26 @@
       "date": "2026-07-13",
       "title": "OpenAI Deployment Company to acquire Northslope, expanding forward-deployed engineer bench for enterprise AI",
       "topic_key": "openai-deployment-company-acquires-northslope"
+    },
+    "https://www.yahoo.com/news/world/articles/beijing-weighing-limits-overseas-access-131227550.html": {
+      "date": "2026-07-14",
+      "title": "China weighs restricting overseas access to its most advanced AI models (Qwen, Doubao, GLM)",
+      "topic_key": "china-restricts-overseas-ai-model-access"
+    },
+    "https://www.anthropic.com/news/ust-claude": {
+      "date": "2026-07-14",
+      "title": "UST is bringing Claude to physical AI (semiconductor/hardware validation, iDEC platform)",
+      "topic_key": "anthropic-ust-physical-ai-partnership"
+    },
+    "https://www.anthropic.com/news/ben-bernanke": {
+      "date": "2026-07-14",
+      "title": "Ben Bernanke appointed to Anthropic's Long-Term Benefit Trust",
+      "topic_key": "anthropic-bernanke-long-term-benefit-trust"
+    },
+    "https://www.anthropic.com/news/hard-questions": {
+      "date": "2026-07-14",
+      "title": "Inviting hard questions (Anthropic public engagement campaign on AI's societal impact)",
+      "topic_key": "anthropic-inviting-hard-questions-campaign"
     }
   }
 }
