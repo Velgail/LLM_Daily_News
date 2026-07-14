@@ -1810,6 +1810,31 @@
       "date": "2026-07-14",
       "title": "Inviting hard questions (Anthropic public engagement campaign on AI's societal impact)",
       "topic_key": "anthropic-inviting-hard-questions-campaign"
+    },
+    "https://thenextweb.com/news/cursor-sand-ai-agent-claude-cowork-rival": {
+      "date": "2026-07-15",
+      "title": "Cursor is building a Claude Cowork rival ('Sand'), and Musk may decide its fate",
+      "topic_key": "cursor-sand-agent-claude-cowork-rival"
+    },
+    "https://www.cnbc.com/2026/07/12/goldman-sachs-picks-its-favorite-chinese-ai-models.html": {
+      "date": "2026-07-15",
+      "title": "Goldman Sachs picks its favorite Chinese AI models (DeepSeek, ByteDance, Zhipu/GLM)",
+      "topic_key": "goldman-sachs-chinese-ai-model-picks"
+    },
+    "https://www.progressiverobot.com/2026/07/14/anthropic-enables-public-artifact-sharing-and-team-editing-in-claude/": {
+      "date": "2026-07-15",
+      "title": "Anthropic enables public Artifact sharing, team editing, and Claude Tag/Slack integration",
+      "topic_key": "anthropic-artifacts-public-sharing-multiplayer"
+    },
+    "https://www.scmp.com/tech/article/3360404/xi-jinping-attend-world-ai-conference-first-time-china-elevates-tech-push": {
+      "date": "2026-07-15",
+      "title": "Xi Jinping to attend World AI Conference for first time as China elevates tech push (WAIC 2026, Huawei Atlas 950)",
+      "topic_key": "waic-2026-xi-jinping-keynote-shanghai"
+    },
+    "https://www.geeky-gadgets.com/claude-opus-5-leaks/": {
+      "date": "2026-07-15",
+      "title": "New Claude Opus 5 leaks detail high reasoning mode features ('Honeycomb EAP' Cursor leak)",
+      "topic_key": "claude-opus-5-honeycomb-leak"
     }
   }
 }
