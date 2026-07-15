@@ -1835,6 +1835,31 @@
       "date": "2026-07-15",
       "title": "New Claude Opus 5 leaks detail high reasoning mode features ('Honeycomb EAP' Cursor leak)",
       "topic_key": "claude-opus-5-honeycomb-leak"
+    },
+    "https://thinkingmachines.ai/news/introducing-inkling/": {
+      "date": "2026-07-16",
+      "title": "Thinking Machines Lab releases Inkling, its first open-weight model (975B MoE, 41B active, 4-modality native)",
+      "topic_key": "thinking-machines-inkling-release"
+    },
+    "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/": {
+      "date": "2026-07-16",
+      "title": "Apple Intelligence approved for launch in China with Alibaba's Qwen AI",
+      "topic_key": "apple-intelligence-china-qwen-approval"
+    },
+    "https://www.anthropic.com/news/claude-for-teachers": {
+      "date": "2026-07-16",
+      "title": "Introducing Claude for Teachers — free premium access for US K-12 educators",
+      "topic_key": "claude-for-teachers-launch"
+    },
+    "https://www.techtimes.com/articles/320525/20260715/china-ai-companion-law-takes-effect-doubao-qwen-shut-down-millions-lose-chat-data.htm": {
+      "date": "2026-07-16",
+      "title": "China AI companion law takes effect: Doubao and Qwen shut down agent features, millions lose chat data",
+      "topic_key": "china-anthropomorphic-ai-rules-effective"
+    },
+    "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/": {
+      "date": "2026-07-16",
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models (Ode with Anthropic launch)",
+      "topic_key": "ode-with-anthropic-launch"
     }
   }
 }
