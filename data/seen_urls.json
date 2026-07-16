@@ -1860,6 +1860,21 @@
       "date": "2026-07-16",
       "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models (Ode with Anthropic launch)",
       "topic_key": "ode-with-anthropic-launch"
+    },
+    "https://x.ai/news/grok-build-open-source": {
+      "date": "2026-07-17",
+      "title": "xAI open-sources Grok Build coding agent under Apache 2.0 (~844K lines Rust, agent loop/tools/TUI)",
+      "topic_key": "xai-grok-build-open-source-apache"
+    },
+    "https://blogs.nvidia.com/blog/japan-ecosystem-2026/": {
+      "date": "2026-07-17",
+      "title": "NVIDIA unveils Cosmos 3 Edge (4B on-device physical AI world model) at Japan ecosystem event",
+      "topic_key": "nvidia-cosmos-3-edge-japan-launch"
+    },
+    "https://www.globaltimes.cn/page/202607/1365377.shtml": {
+      "date": "2026-07-17",
+      "title": "WAIC 2026 opens in Shanghai — 300 global product debuts, Huawei Atlas 950, MiniMax M3, Nubia AI agent phone",
+      "topic_key": "waic-2026-opening-300-product-debuts"
     }
   }
 }
