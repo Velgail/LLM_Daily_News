@@ -1875,6 +1875,21 @@
       "date": "2026-07-17",
       "title": "WAIC 2026 opens in Shanghai — 300 global product debuts, Huawei Atlas 950, MiniMax M3, Nubia AI agent phone",
       "topic_key": "waic-2026-opening-300-product-debuts"
+    },
+    "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems": {
+      "date": "2026-07-18",
+      "title": "Moonshot AI releases Kimi K3 — 2.8T MoE, Kimi Delta Attention, 1M context, K3 Max/Swarm Max",
+      "topic_key": "kimi-k3-release"
+    },
+    "https://huggingface.co/blog/security-incident-july-2026": {
+      "date": "2026-07-18",
+      "title": "Hugging Face discloses autonomous AI-agent-driven intrusion into production infrastructure",
+      "topic_key": "huggingface-ai-agent-autonomous-intrusion"
+    },
+    "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/": {
+      "date": "2026-07-18",
+      "title": "NotebookLM renamed to Gemini Notebook — secure cloud computer code execution added",
+      "topic_key": "google-notebooklm-gemini-notebook-rename"
     }
   }
 }
