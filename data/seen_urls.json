@@ -1890,6 +1890,21 @@
       "date": "2026-07-18",
       "title": "NotebookLM renamed to Gemini Notebook — secure cloud computer code execution added",
       "topic_key": "google-notebooklm-gemini-notebook-rename"
+    },
+    "https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html": {
+      "date": "2026-07-19",
+      "title": "Anthropic in early talks with Meta to acquire compute power (up to $10B, 2-year lease)",
+      "topic_key": "anthropic-meta-compute-lease-talks"
+    },
+    "https://www.newsbytesapp.com/news/science/microsoft-to-launch-project-perception-ai-cybersecurity-platform-this-month/tldr": {
+      "date": "2026-07-19",
+      "title": "Microsoft to launch Project Perception AI cybersecurity platform, multi-model router (Microsoft/OpenAI/Anthropic)",
+      "topic_key": "microsoft-project-perception-cybersecurity-launch"
+    },
+    "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/": {
+      "date": "2026-07-19",
+      "title": "Claude Fable 5 becomes permanent in Max/Team Premium plans at 50% limits, effective July 20",
+      "topic_key": "claude-fable-5-max-team-premium-permanent"
     }
   }
 }
