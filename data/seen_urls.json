@@ -1905,6 +1905,21 @@
       "date": "2026-07-19",
       "title": "Claude Fable 5 becomes permanent in Max/Team Premium plans at 50% limits, effective July 20",
       "topic_key": "claude-fable-5-max-team-premium-permanent"
+    },
+    "https://mlq.ai/news/alibaba-launches-qwen-38-with-24-trillion-parameters-claims-near-frontier-performance": {
+      "date": "2026-07-20",
+      "title": "Alibaba launches Qwen3.8-Max preview — 2.4T params, claims near-frontier performance second only to Fable 5",
+      "topic_key": "qwen3.8-max-preview-release"
+    },
+    "https://siliconangle.com/2026/07/15/perplexity-launches-secure-sandbox-make-ai-agents-secure-powerful": {
+      "date": "2026-07-20",
+      "title": "Perplexity launches SPACE — secure Firecracker microVM sandbox runtime for long-running AI agents",
+      "topic_key": "perplexity-space-agent-sandbox-launch"
+    },
+    "https://explainx.ai/blog/gemma-4-updates-flash-attention-tool-calling-july-2026": {
+      "date": "2026-07-20",
+      "title": "Gemma 4 update: Flash Attention 4 on Hopper GPUs, tool-calling and OCR fixes — up to 70% faster prefill",
+      "topic_key": "google-gemma-4-fa4-performance-update"
     }
   }
 }
