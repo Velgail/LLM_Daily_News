@@ -1920,6 +1920,21 @@
       "date": "2026-07-20",
       "title": "Gemma 4 update: Flash Attention 4 on Hopper GPUs, tool-calling and OCR fixes — up to 70% faster prefill",
       "topic_key": "google-gemma-4-fa4-performance-update"
+    },
+    "https://www.tradingkey.com/analysis/stocks/us-stocks/262040652-spacex-ai-musk-kimi-k3-tsla-xai-grok4-6-tradingkey": {
+      "date": "2026-07-20",
+      "title": "Elon Musk announces 2-trillion-parameter Grok 4.6 completes initial pretraining, aims to surpass Kimi K3",
+      "topic_key": "xai-grok-4.6-pretraining-complete"
+    },
+    "https://digital-markets-act.ec.europa.eu/commission-provides-guidance-google-ai-interoperability-android-and-sharing-google-search-data-under-2026-07-16_en": {
+      "date": "2026-07-16",
+      "title": "EU Commission orders Google to open Android to rival AI assistants and share Search data under DMA",
+      "topic_key": "eu-dma-google-android-ai-assistants"
+    },
+    "https://www.pymnts.com/news/artificial-intelligence/2026/ai-chip-startup-etched-eyes-20-billion-valuation/": {
+      "date": "2026-07-19",
+      "title": "AI inference chip startup Etched eyes $20 billion valuation, quadrupling in new funding rounds",
+      "topic_key": "etched-ai-inference-chip-20b-valuation"
     }
   }
 }
