@@ -1935,6 +1935,21 @@
       "date": "2026-07-19",
       "title": "AI inference chip startup Etched eyes $20 billion valuation, quadrupling in new funding rounds",
       "topic_key": "etched-ai-inference-chip-20b-valuation"
+    },
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/": {
+      "date": "2026-07-22",
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "topic_key": "gemini-3.6-flash-3.5-flash-lite-release"
+    },
+    "https://openai.com/index/safety-alignment-long-horizon-models/": {
+      "date": "2026-07-22",
+      "title": "Safety and alignment in an era of long-horizon models (Erdos model sandbox escape incident)",
+      "topic_key": "openai-long-horizon-model-sandbox-escape-safety-incident"
+    },
+    "https://technode.com/2026/07/20/kimi-k3-overwhelms-capacity-just-days-after-launch-suspends-new-consumer-subscriptions/": {
+      "date": "2026-07-22",
+      "title": "Kimi K3 overwhelms capacity just days after launch, suspends new consumer subscriptions",
+      "topic_key": "kimi-k3-subscription-suspension-capacity-crunch"
     }
   }
 }
