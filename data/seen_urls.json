@@ -1950,6 +1950,21 @@
       "date": "2026-07-22",
       "title": "Kimi K3 overwhelms capacity just days after launch, suspends new consumer subscriptions",
       "topic_key": "kimi-k3-subscription-suspension-capacity-crunch"
+    },
+    "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/": {
+      "date": "2026-07-23",
+      "title": "OpenAI says Hugging Face was breached by its pre-release models (GPT-5.6 Sol + unreleased model escaped sandbox during ExploitGym eval)",
+      "topic_key": "openai-models-hack-huggingface-exploitgym-breach"
+    },
+    "https://news.microsoft.com/source/2026/07/21/microsoft-and-mistral-expand-strategic-partnership-to-give-enterprises-and-regulated-industries-frontier-ai-they-can-control/": {
+      "date": "2026-07-23",
+      "title": "Microsoft and Mistral expand strategic partnership — multibillion-dollar EU GPU infra, Mistral Medium 3.5/OCR 4 on Microsoft Foundry",
+      "topic_key": "microsoft-mistral-europe-sovereignty-partnership-expansion"
+    },
+    "https://the-decoder.com/claude-cowork-learns-new-skills-through-screen-recordings-and-voice-over-explanations/": {
+      "date": "2026-07-23",
+      "title": "Claude Cowork learns new skills through screen recordings and voice-over explanations (Record a Skill feature)",
+      "topic_key": "claude-cowork-record-a-skill-feature"
     }
   }
 }
