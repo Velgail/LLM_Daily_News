@@ -1965,6 +1965,21 @@
       "date": "2026-07-23",
       "title": "Claude Cowork learns new skills through screen recordings and voice-over explanations (Record a Skill feature)",
       "topic_key": "claude-cowork-record-a-skill-feature"
+    },
+    "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable": {
+      "date": "2026-07-24",
+      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic's Fable",
+      "topic_key": "kimi-k3-distillation-accusation-whitehouse"
+    },
+    "https://techstory.in/amd-signs-multi-billion-dollar-deal-to-supply-anthropic-with-2-gigawatts-of-mi450-chips-invest-up-to-5-billion": {
+      "date": "2026-07-24",
+      "title": "AMD signs multi-billion-dollar deal to supply Anthropic with 2 gigawatts of MI450 chips, invest up to $5 billion",
+      "topic_key": "amd-anthropic-5b-chip-investment"
+    },
+    "https://www.helpnetsecurity.com/2026/07/22/openai-presence-ai-agent-platform": {
+      "date": "2026-07-24",
+      "title": "OpenAI Presence connects AI agents to enterprise data with built-in guardrails",
+      "topic_key": "openai-presence-launch"
     }
   }
 }
