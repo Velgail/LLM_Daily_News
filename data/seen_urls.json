@@ -1980,6 +1980,21 @@
       "date": "2026-07-24",
       "title": "OpenAI Presence connects AI agents to enterprise data with built-in guardrails",
       "topic_key": "openai-presence-launch"
+    },
+    "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html": {
+      "date": "2026-07-25",
+      "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files (SharedRoot)",
+      "topic_key": "claude-cowork-sharedroot-sandbox-escape"
+    },
+    "https://www.techi.com/deepseek-chat-reasoner-retirement-v4-migration/": {
+      "date": "2026-07-25",
+      "title": "DeepSeek retires legacy deepseek-chat/deepseek-reasoner API aliases as V4 reaches GA",
+      "topic_key": "deepseek-v4-ga-legacy-api-retirement"
+    },
+    "https://www.pymnts.com/news/artificial-intelligence/2026/stripe-eyes-10-billion-deal-for-ai-model-marketplace-openrouter/": {
+      "date": "2026-07-25",
+      "title": "Stripe Eyes $10 Billion Deal for AI Model Marketplace OpenRouter",
+      "topic_key": "stripe-openrouter-10b-acquisition-talks"
     }
   }
 }
