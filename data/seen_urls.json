@@ -1995,6 +1995,21 @@
       "date": "2026-07-25",
       "title": "Stripe Eyes $10 Billion Deal for AI Model Marketplace OpenRouter",
       "topic_key": "stripe-openrouter-10b-acquisition-talks"
+    },
+    "https://www.anthropic.com/news/claude-opus-5": {
+      "date": "2026-07-26",
+      "title": "Introducing Claude Opus 5 — near-Fable-5 intelligence at half the price",
+      "topic_key": "claude-opus-5-release"
+    },
+    "https://venturebeat.com/technology/black-forest-labs-launches-flux-3-capable-of-generating-images-and-20-second-video-with-audio-but-in-limited-release-to-start": {
+      "date": "2026-07-26",
+      "title": "Black Forest Labs launches FLUX 3 — multimodal image/video/audio/robot-action model",
+      "topic_key": "flux-3-multimodal-launch"
+    },
+    "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/": {
+      "date": "2026-07-26",
+      "title": "Anthropic updates Claude voice mode with more capable models (Opus/Sonnet/Haiku choice)",
+      "topic_key": "claude-voice-mode-opus-sonnet-haiku"
     }
   }
 }
