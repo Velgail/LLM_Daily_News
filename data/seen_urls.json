@@ -2025,6 +2025,21 @@
       "date": "2026-07-27",
       "title": "Poolside releases Laguna S 2.1 — 118B open-weight agentic coding model beating 10x larger rivals",
       "topic_key": "poolside-laguna-s-2.1-release"
+    },
+    "https://virginiabusiness.com/nvidia-talks-guarantee-250-billion-financing-openai-ohio": {
+      "date": "2026-07-28",
+      "title": "Nvidia in talks to guarantee $250B financing for OpenAI's 10GW Ohio data center (WSJ report)",
+      "topic_key": "nvidia-openai-250b-ohio-datacenter-financing"
+    },
+    "https://nvidianews.nvidia.com/news/naver-nvidia-and-brookfield-to-expand-koreas-national-ai-factory-infrastructure-buildout": {
+      "date": "2026-07-28",
+      "title": "NAVER, NVIDIA and Brookfield to Expand Korea's National AI Factory Infrastructure Buildout ($1B NVIDIA stake, up to $9B Brookfield financing)",
+      "topic_key": "nvidia-naver-brookfield-korea-ai-infra-1b"
+    },
+    "https://www.anthropic.com/news/anthropic-economic-index-connector": {
+      "date": "2026-07-28",
+      "title": "Anthropic launches Economic Index connector for Claude",
+      "topic_key": "anthropic-economic-index-connector-launch"
     }
   }
 }
