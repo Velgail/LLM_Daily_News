@@ -1,6 +1,26 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude": {
+      "date": "2026-07-29",
+      "title": "MCP「2026-07-28」仕様公開——ステートレス化でAIエージェント連携が本格インフラ化",
+      "topic_key": "mcp-2026-07-28-spec-stateless-claude"
+    },
+    "https://www.techdirt.com/2026/07/27/ai-systems-out-persuade-expert-humans-including-professional-canvassers-and-world-championship-debaters/": {
+      "date": "2026-07-29",
+      "title": "AIは世界チャンピオン級ディベーターより説得力がある——大規模実証研究",
+      "topic_key": "ai-outpersuade-human-experts-debaters-study"
+    },
+    "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/": {
+      "date": "2026-07-29",
+      "title": "Meta AI、ThreadsのDMに全世界展開",
+      "topic_key": "meta-ai-threads-dm-global-rollout"
+    },
+    "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-and-24-other-companies-sign-open-weights-letter-as-washington-weighs-chinese-ai-model-ban": {
+      "date": "2026-07-29",
+      "title": "Nvidia・Meta・Microsoft・Mistralら25社がオープンウェイトAI規制反対の連名書簡",
+      "topic_key": "open-weight-ai-policy-letter-25-companies"
+    },
     "https://red.anthropic.com/2026/mythos-preview/": "2026-04-19",
     "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/": "2026-04-19",
     "https://mistral.ai/news/mistral-small-4": "2026-04-19",
