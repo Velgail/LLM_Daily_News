@@ -2060,6 +2060,26 @@
       "date": "2026-07-28",
       "title": "Anthropic launches Economic Index connector for Claude",
       "topic_key": "anthropic-economic-index-connector-launch"
+    },
+    "https://www.engadget.com/2225849/google-shuts-down-alphafold/": {
+      "date": "2026-07-30",
+      "title": "Google DeepMind disbands AlphaFold team, redirects researchers to Gemini",
+      "topic_key": "google-deepmind-alphafold-team-disbanded-gemini-pivot"
+    },
+    "https://finance.yahoo.com/technology/ai/articles/amazon-overhauls-ai-strategy-flagship-174413868.html": {
+      "date": "2026-07-30",
+      "title": "Amazon winds down Nova Premier, Omni, Reel and Canvas models, bets on new Pieter Abbeel-led frontier model",
+      "topic_key": "amazon-nova-models-wind-down-frontier-pivot"
+    },
+    "https://9to5google.com/2026/07/26/google-gemini-4-teases/": {
+      "date": "2026-07-30",
+      "title": "Gemini 4 confirmed in pre-training as Pichai teases near-monthly release cadence",
+      "topic_key": "gemini-4-pretraining-monthly-cadence"
+    },
+    "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/": {
+      "date": "2026-07-30",
+      "title": "OpenAI's ChatGPT Voice hits the desktop app, controls Codex hands-free via GPT-Live",
+      "topic_key": "chatgpt-voice-desktop-gpt-live-codex"
     }
   }
 }
