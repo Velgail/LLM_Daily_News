@@ -505,6 +505,34 @@ a:hover { color: var(--accent-strong); text-decoration: underline; text-underlin
   text-decoration: none;
 }
 
+/* 複数リファレンスのボタン行（markdown 側で {: .references} を付与） */
+.post-content ul.references {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.2em;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.post-content ul.references li { margin: 0; }
+.post-content ul.references a {
+  display: inline-block;
+  padding: 10px 18px;
+  background: var(--text);
+  color: var(--bg);
+  border-radius: 999px;
+  text-decoration: none;
+  font-family: var(--font-sans);
+  font-size: 14px;
+  font-weight: 600;
+}
+.post-content ul.references a:hover {
+  background: var(--accent);
+  color: #fff;
+  transform: translateY(-1px);
+  text-decoration: none;
+}
+
 /* "📅 経緯" タイムラインブロック（markdown 側で {: .timeline} を付与） */
 .post-content p:has(+ ul.timeline) {
   margin-bottom: 0;
@@ -717,6 +745,16 @@ a:hover { color: var(--accent-strong); text-decoration: underline; text-underlin
 
   /* "元記事を読む →" ボタンをモバイルでは全幅化して押しやすく */
   .post-content p > strong:only-child > a {
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 14px 18px;
+    font-size: 15px;
+  }
+
+  .post-content ul.references { gap: 8px; }
+  .post-content ul.references li { width: 100%; }
+  .post-content ul.references a {
     display: block;
     width: 100%;
     text-align: center;
