@@ -505,6 +505,52 @@ a:hover { color: var(--accent-strong); text-decoration: underline; text-underlin
   text-decoration: none;
 }
 
+/* "📅 経緯" タイムラインブロック（markdown 側で {: .timeline} を付与） */
+.post-content p:has(+ ul.timeline) {
+  margin-bottom: 0;
+  font-family: var(--font-sans);
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--text-muted);
+  letter-spacing: 0.02em;
+}
+.post-content ul.timeline {
+  list-style: none;
+  margin: 8px 0 1.4em;
+  padding: 14px 18px;
+  background: var(--bg-muted);
+  border-left: 3px solid var(--accent);
+  border-radius: 0 8px 8px 0;
+  font-family: var(--font-sans);
+  font-size: 14.5px;
+  line-height: 1.7;
+}
+.post-content ul.timeline li {
+  position: relative;
+  padding-left: 20px;
+  margin-bottom: 8px;
+}
+.post-content ul.timeline li:last-child { margin-bottom: 0; }
+.post-content ul.timeline li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.55em;
+  width: 8px;
+  height: 8px;
+  background: var(--accent);
+  border-radius: 50%;
+}
+.post-content ul.timeline li:not(:last-child)::after {
+  content: "";
+  position: absolute;
+  left: 3.5px;
+  top: calc(0.55em + 10px);
+  bottom: -0.55em;
+  width: 1px;
+  background: var(--border);
+}
+
 .post-disclaimer {
   display: block;
   margin: 56px 0 0;
@@ -653,6 +699,12 @@ a:hover { color: var(--accent-strong); text-decoration: underline; text-underlin
     margin: 18px -4px;
     padding: 14px 16px;
     font-size: 14.5px;
+  }
+  .post-content ul.timeline {
+    margin-left: -4px;
+    margin-right: -4px;
+    padding: 12px 14px;
+    font-size: 14px;
   }
   .post-content pre {
     /* コードブロックを画面端まで広げて読みやすく */
