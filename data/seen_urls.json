@@ -2080,6 +2080,26 @@
       "date": "2026-07-30",
       "title": "OpenAI's ChatGPT Voice hits the desktop app, controls Codex hands-free via GPT-Live",
       "topic_key": "chatgpt-voice-desktop-gpt-live-codex"
+    },
+    "https://www.notebookcheck.net/OpenAI-and-Anthropic-staff-ask-Washington-to-slow-AI-down.1355593.0.html": {
+      "date": "2026-07-31",
+      "title": "1,290人超の従業員がOpenAI/Anthropic/Google/Metaを横断して「Pacing the Frontier」書簡に署名——AI開発の減速メカニズムを米政府に要求",
+      "topic_key": "openai-huggingface-breach-pacing-frontier-letter"
+    },
+    "https://finance.yahoo.com/technology/ai/articles/openai-cuts-gpt-5-6-173045044.html": {
+      "date": "2026-07-31",
+      "title": "OpenAI、GPT-5.6 Lunaを80%・Terraを20%値下げ",
+      "topic_key": "gpt-5.6-luna-terra-price-cut-july2026"
+    },
+    "https://www.aimadetools.com/blog/qwen-3-7-flash-complete-guide/": {
+      "date": "2026-07-31",
+      "title": "Alibaba、Qwen3.7 Flashを無告知で公開——1Mコンテキストの最安マルチモーダルモデル",
+      "topic_key": "qwen3.7-flash-release"
+    },
+    "https://openai.com/index/chatgpt-for-academic-researchers/": {
+      "date": "2026-07-31",
+      "title": "OpenAI、ChatGPT for Academic Researchersを発表——研究者10万人への無償アクセス拡大",
+      "topic_key": "openai-chatgpt-academic-researchers-launch"
     }
   }
 }
