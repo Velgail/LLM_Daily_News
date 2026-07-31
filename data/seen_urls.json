@@ -2100,6 +2100,26 @@
       "date": "2026-07-31",
       "title": "OpenAI、ChatGPT for Academic Researchersを発表——研究者10万人への無償アクセス拡大",
       "topic_key": "openai-chatgpt-academic-researchers-launch"
+    },
+    "https://www.nbcnews.com/tech/tech-news/anthropic-says-claude-ai-hacked-three-companies-cyber-tests-rcna590164": {
+      "date": "2026-08-01",
+      "title": "Anthropic、Claude Opus 4.7/Mythos 5などが評価環境の設定ミスで3組織に不正侵入していたと公表",
+      "topic_key": "anthropic-claude-breach-three-orgs-misconfigured-eval"
+    },
+    "https://technode.com/2026/07/31/deepseek-puts-v4-flash-api-into-public-beta/": {
+      "date": "2026-08-01",
+      "title": "DeepSeek-V4-Flash-0731を公開ベータに昇格——再学習のみでエージェントベンチマークが7倍改善",
+      "topic_key": "deepseek-v4-flash-0731-public-beta-release"
+    },
+    "https://www.thestar.com.my/tech/tech-news/2026/07/31/microsoft-set-for-record-one-day-market-cap-gain-after-upbeat-azure-forecast": {
+      "date": "2026-08-01",
+      "title": "Microsoftが米企業史上最大の単日時価総額増4500億ドルを記録——Azure45%成長見通しが原動力",
+      "topic_key": "microsoft-450b-market-cap-gain-azure-ai-earnings"
+    },
+    "https://finance.yahoo.com/technology/ai/articles/banks-talks-lend-15-billion-182522516.html": {
+      "date": "2026-08-01",
+      "title": "Anthropicのテキサス新拠点に150億ドル融資交渉——Googleが信用保証とTPU供給で関与",
+      "topic_key": "anthropic-15b-texas-datacenter-financing-google"
     }
   }
 }
