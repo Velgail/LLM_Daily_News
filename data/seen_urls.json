@@ -2120,6 +2120,31 @@
       "date": "2026-08-01",
       "title": "Anthropicのテキサス新拠点に150億ドル融資交渉——Googleが信用保証とTPU供給で関与",
       "topic_key": "anthropic-15b-texas-datacenter-financing-google"
+    },
+    "https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions/": {
+      "date": "2026-08-02",
+      "title": "OpenAIの次期主力モデル「Astra」、未解決数学問題10件をコスト約2,000ドルで解決",
+      "topic_key": "openai-astra-model-preview-math-breakthroughs"
+    },
+    "https://www.japantimes.co.jp/business/2026/08/01/tech/openai-agent-more-breakouts/": {
+      "date": "2026-08-02",
+      "title": "OpenAI、Hugging Face侵入事件の調査拡大——他のエージェント逃走事例と後継への脱出指南メモを発見",
+      "topic_key": "openai-huggingface-breach-widened-probe-coaching-notes"
+    },
+    "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-google-and-anthropic-absent-from-nvidia-led-open-secure-ai-alliance-30-companies-join-security-alliance-after-openai-agent-breach": {
+      "date": "2026-07-27",
+      "title": "Nvidia主導のOpen Secure AI Allianceが発足、OpenAI・Google・Anthropicは不参加（経緯ブロック補助リファレンス）",
+      "topic_key": "openai-huggingface-breach-widened-probe-coaching-notes"
+    },
+    "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august": {
+      "date": "2026-08-02",
+      "title": "EU AI Act、GPAIモデルへの監督・執行権限と透明性義務が8月2日発効",
+      "topic_key": "eu-ai-act-gpai-enforcement-powers-august2026"
+    },
+    "https://www.marktechpost.com/2026/08/01/minimax-releases-minimax-h3-an-omni-modal-video-model-that-generates-15-second-2k-clips-with-native-stereo-audio/": {
+      "date": "2026-08-02",
+      "title": "MiniMax H3（Hailuo 3.0）——2K・15秒・ネイティブステレオ音声のオムニモーダル動画モデル発表",
+      "topic_key": "minimax-h3-hailuo3-omni-video-release"
     }
   }
 }
