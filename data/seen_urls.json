@@ -2145,6 +2145,31 @@
       "date": "2026-08-02",
       "title": "MiniMax H3（Hailuo 3.0）——2K・15秒・ネイティブステレオ音声のオムニモーダル動画モデル発表",
       "topic_key": "minimax-h3-hailuo3-omni-video-release"
+    },
+    "https://www.anthropic.com/research/discovering-cryptographic-weaknesses": {
+      "date": "2026-08-03",
+      "title": "Claude Mythos Previewが耐量子暗号候補HAWKと縮小版AES-128の弱点を自律発見",
+      "topic_key": "anthropic-mythos-cryptographic-weaknesses-hawk-aes"
+    },
+    "https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/": {
+      "date": "2026-08-03",
+      "title": "中国拠点ハッカーがDeepSeek×Hermes Agentで460以上の標的へ自律型サイバー攻撃",
+      "topic_key": "deepseek-hermes-agent-autonomous-cyberattack-unit42"
+    },
+    "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/": {
+      "date": "2026-08-03",
+      "title": "Microsoft、Project Perceptionとサイバー特化モデル「MAI-Cyber-1-Flash」を正式始動",
+      "topic_key": "microsoft-project-perception-cybersecurity-launch-ga"
+    },
+    "https://thinkingmachines.ai/news/inkling-small/": {
+      "date": "2026-08-03",
+      "title": "Thinking Machines、フラッグシップの1/4サイズで同等性能の「Inkling-Small」を公開",
+      "topic_key": "thinking-machines-inkling-release-inkling-small"
+    },
+    "https://9to5google.com/2026/07/31/gemini-ai-studio-app/": {
+      "date": "2026-08-03",
+      "title": "Google、AI Studioの単独アプリ計画を中止しGeminiへ機能統合（80万件超の事前登録があったが撤回）",
+      "topic_key": "google-ai-studio-app-cancelled-gemini-integration"
     }
   }
 }
