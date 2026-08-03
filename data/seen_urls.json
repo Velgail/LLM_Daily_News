@@ -2170,6 +2170,26 @@
       "date": "2026-08-03",
       "title": "Google、AI Studioの単独アプリ計画を中止しGeminiへ機能統合（80万件超の事前登録があったが撤回）",
       "topic_key": "google-ai-studio-app-cancelled-gemini-integration"
+    },
+    "https://www.investing.com/news/stock-market-news/alibaba-unveils-qwen-38max-ai-model-shares-jump-4829755": {
+      "date": "2026-08-04",
+      "title": "Alibaba「Qwen3.8-Max」正式ローンチ——初のMax級オープンウェイト化を予告、株価急伸",
+      "topic_key": "qwen3.8-max-official-launch-opensource-benchmarks"
+    },
+    "https://www.explainx.ai/blog/grok-voice-think-fast-2-speech-to-speech-july-2026": {
+      "date": "2026-08-04",
+      "title": "xAI「Grok Voice Think Fast 2.0」——統合型音声モデル、WER改善・応答0.70秒",
+      "topic_key": "xai-grok-voice-think-fast-2.0-release"
+    },
+    "https://www.koreatimes.co.kr/business/tech-science/20260731/lg-unveils-750-bil-parameter-frontier-ai-model-k-exaone-20": {
+      "date": "2026-08-04",
+      "title": "LG「K-EXAONE 2.0」——韓国最大7500億パラメータモデルをApache 2.0公開",
+      "topic_key": "lg-k-exaone-2.0-release"
+    },
+    "https://www.cbsnews.com/news/clement-delangue-face-the-nation-transcript-aug-2-2026/": {
+      "date": "2026-08-04",
+      "title": "Hugging Face CEO、中国がオープンモデルで支配的と発言（Face the Nation）",
+      "topic_key": "huggingface-ceo-china-open-model-dominance"
     }
   }
 }
