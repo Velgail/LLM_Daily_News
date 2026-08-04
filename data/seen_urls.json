@@ -2190,6 +2190,31 @@
       "date": "2026-08-04",
       "title": "Hugging Face CEO、中国がオープンモデルで支配的と発言（Face the Nation）",
       "topic_key": "huggingface-ceo-china-open-model-dominance"
+    },
+    "https://openai.com/index/apple-is-getting-this-wrong/": {
+      "date": "2026-08-03",
+      "title": "OpenAI、Apple提訴に「事実誤認だらけ」と正面反論",
+      "topic_key": "apple-openai-trade-secret-lawsuit-openai-rebuttal"
+    },
+    "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/": {
+      "date": "2026-07-10",
+      "title": "Apple sues OpenAI over alleged trade secret theft（経緯ブロック補助リファレンス）",
+      "topic_key": "apple-openai-trade-secret-lawsuit-openai-rebuttal"
+    },
+    "https://mistral.ai/news/shieldstral/": {
+      "date": "2026-08-04",
+      "title": "Mistral、3Bパラメータの安全性分類モデル「Shieldstral」を無償公開",
+      "topic_key": "mistral-shieldstral-3b-safety-classifier-release"
+    },
+    "https://www.testingcatalog.com/exclusive-microsoft-tests-new-mai-realtime-voice-model/": {
+      "date": "2026-08-02",
+      "title": "Microsoft、フルデュプレックス音声モデル「MAI-Realtime」を極秘テスト中と判明",
+      "topic_key": "microsoft-mai-realtime-voice-model-preview-leak"
+    },
+    "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/": {
+      "date": "2026-08-04",
+      "title": "Anthropic、Volta Infraと100億ドルの計算資源契約を締結",
+      "topic_key": "anthropic-volta-10b-compute-deal"
     }
   }
 }
