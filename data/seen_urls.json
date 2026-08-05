@@ -1,6 +1,26 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://www.techbuzz.ai/articles/microsoft-mandates-openai-s-gpt-5-6-as-default-for-devs": {
+      "date": "2026-08-05",
+      "title": "Microsoft makes OpenAI GPT-5.6 Sol default in GitHub Copilot for staff",
+      "topic_key": "microsoft-copilot-gpt-5.6-sol-default-internal"
+    },
+    "https://fortune.com/2026/08/04/baffling-white-house-wont-publicly-release-ai-model-evaluation-framework-it-reviewed-today-with-openai-anthropic-microsoft-and-others": {
+      "date": "2026-08-04",
+      "title": "White House won't publicly release AI model evaluation framework it reviewed with Meta, Nvidia, Microsoft, OpenAI, Anthropic and others",
+      "topic_key": "white-house-frontier-ai-framework-secret-meeting-aug2026"
+    },
+    "https://finance.yahoo.com/technology/ai/articles/liquid-ai-2-69b-model-013716912.html": {
+      "date": "2026-08-04",
+      "title": "Liquid AI's 2.69B Model Cuts Cloud Dependency to Zero for Agentic Workloads (LFM2.5-2.6B)",
+      "topic_key": "liquid-ai-lfm2.5-2.6b-release"
+    },
+    "https://technode.com/2026/08/05/deepseek-reportedly-reopens-talks-on-a-rmb50-billion-second-funding-round": {
+      "date": "2026-08-05",
+      "title": "DeepSeek reportedly reopens talks on a RMB50 billion second funding round",
+      "topic_key": "deepseek-rmb50b-second-funding-round-talks"
+    },
     "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude": {
       "date": "2026-07-29",
       "title": "MCP「2026-07-28」仕様公開——ステートレス化でAIエージェント連携が本格インフラ化",
