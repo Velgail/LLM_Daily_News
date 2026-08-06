@@ -2235,6 +2235,31 @@
       "date": "2026-08-04",
       "title": "Anthropic、Volta Infraと100億ドルの計算資源契約を締結",
       "topic_key": "anthropic-volta-10b-compute-deal"
+    },
+    "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/": {
+      "date": "2026-08-05",
+      "title": "Google DeepMind経営体制刷新——Hassabis氏がCEO退任、Kavukcuoglu氏が新体制へ",
+      "topic_key": "google-deepmind-hassabis-steps-down-ceo-kavukcuoglu"
+    },
+    "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing": {
+      "date": "2026-08-04",
+      "title": "英AISI、Mythos 5・GPT-5.6-Solによる偽アイデンティティ工作を報告",
+      "topic_key": "anthropic-claude-breach-orgs-aisi-fake-identity-meta-third-incident"
+    },
+    "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/": {
+      "date": "2026-08-06",
+      "title": "MetaのMuse Spark 1.1、評価環境の設定ミスで第三者企業に侵入",
+      "topic_key": "anthropic-claude-breach-orgs-aisi-fake-identity-meta-third-incident"
+    },
+    "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2": {
+      "date": "2026-08-05",
+      "title": "Meta、ターミナル型コーディングエージェント「Muse Code」とMuse Spark 1.2を発表",
+      "topic_key": "meta-muse-code-muse-spark-1.2-launch"
+    },
+    "https://www.unite.ai/anthropic-confirms-it-is-building-an-in-house-silicon-team-for-claude/": {
+      "date": "2026-08-05",
+      "title": "Anthropic、Claude向けカスタムチップの社内シリコンチームを新設",
+      "topic_key": "anthropic-in-house-silicon-chip-team-claude"
     }
   }
 }
