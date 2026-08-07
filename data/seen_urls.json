@@ -1,6 +1,26 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/": {
+      "date": "2026-08-08",
+      "title": "OpenAIが自社モデル「Astra」の開発を一部凍結——「重大サイバー能力」到達を否定できず",
+      "topic_key": "openai-astra-model-preview-critical-cyber-capability-pause"
+    },
+    "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/": {
+      "date": "2026-08-08",
+      "title": "【続報】Apple対OpenAI訴訟、法廷闘争へ本格突入——OpenAIが却下申立て",
+      "topic_key": "apple-openai-trade-secret-lawsuit-motion-to-dismiss"
+    },
+    "https://claude.com/blog/claude-enterprise-inference-hooks": {
+      "date": "2026-08-08",
+      "title": "Anthropic、Claude Enterpriseに「推論前検閲」機能Inference Hooksを発表",
+      "topic_key": "anthropic-claude-enterprise-inference-hooks-dlp-launch"
+    },
+    "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/": {
+      "date": "2026-08-08",
+      "title": "NVIDIA、ロボタクシー向け大規模推論モデル「Alpamayo 2 Super」を商用開放",
+      "topic_key": "nvidia-alpamayo-2-super-commercial-launch"
+    },
     "https://www.techbuzz.ai/articles/microsoft-mandates-openai-s-gpt-5-6-as-default-for-devs": {
       "date": "2026-08-05",
       "title": "Microsoft makes OpenAI GPT-5.6 Sol default in GitHub Copilot for staff",
