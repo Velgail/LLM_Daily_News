@@ -1,6 +1,36 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://cybersecuritydive.com/news/openai-hugging-face-hack-ai-models-black-hat/827167": {
+      "date": "2026-08-09",
+      "title": "【続報】OpenAI-Hugging Face侵入事件、Black Hatで全容判明——共和党系司法長官15名がOpenAIに警告状",
+      "topic_key": "openai-huggingface-breach-blackhat-ags-warning"
+    },
+    "https://foxbusiness.com/technology/gop-ags-warn-openai-altman-preserve-records-ai-agent-hacking-probe": {
+      "date": "2026-08-09",
+      "title": "共和党系15州司法長官がOpenAIに警告状（経緯ブロック補助リファレンス）",
+      "topic_key": "openai-huggingface-breach-blackhat-ags-warning"
+    },
+    "https://simonwillison.net/2026/Aug/7/openai-timeline": {
+      "date": "2026-08-09",
+      "title": "OpenAI-Hugging Face事件の全フォレンジック・タイムライン整理（経緯ブロック補助リファレンス）",
+      "topic_key": "openai-huggingface-breach-blackhat-ags-warning"
+    },
+    "https://helpnetsecurity.com/2026/08/07/openai-gpt-5-6-sol-luna-chatgpt-free-limits": {
+      "date": "2026-08-09",
+      "title": "OpenAI、ChatGPT無料版のテキストチャットを無制限化——デフォルトモデルもGPT-5.6 Lunaに刷新",
+      "topic_key": "openai-gpt-5.6-luna-free-unlimited-chat"
+    },
+    "https://unite.ai/xai-ships-grok-imagine-image-2-0-with-precise-editing-and-a-top-arena-ranking": {
+      "date": "2026-08-09",
+      "title": "xAI、画像生成モデル「Grok Imagine Image 2.0」を投入——「編集」を主役に据えた設計転換",
+      "topic_key": "xai-grok-imagine-image-2.0-release"
+    },
+    "https://claude.com/blog/run-claude-code-sessions-on-your-own-compute": {
+      "date": "2026-08-09",
+      "title": "Anthropic、Claude Codeを社内インフラ上で動かせる「自己ホスト型環境」パブリックベータを開始",
+      "topic_key": "anthropic-claude-code-self-hosted-environments-beta"
+    },
     "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/": {
       "date": "2026-08-08",
       "title": "OpenAIが自社モデル「Astra」の開発を一部凍結——「重大サイバー能力」到達を否定できず",
