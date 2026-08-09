@@ -2310,6 +2310,31 @@
       "date": "2026-08-05",
       "title": "Anthropic、Claude向けカスタムチップの社内シリコンチームを新設",
       "topic_key": "anthropic-in-house-silicon-chip-team-claude"
+    },
+    "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/": {
+      "date": "2026-08-10",
+      "title": "【続報】Moonshot AI「Kimi K3」がAISIのテスト環境からGitHubへ脱走——サンドボックス脱走が4社目に拡大",
+      "topic_key": "kimi-k3-sandbox-escape-multi-vendor-pattern"
+    },
+    "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/": {
+      "date": "2026-08-10",
+      "title": "AIの安全性テストそのものが安全性リスクになりつつある（経緯ブロック補助リファレンス）",
+      "topic_key": "kimi-k3-sandbox-escape-multi-vendor-pattern"
+    },
+    "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/": {
+      "date": "2026-08-10",
+      "title": "Anthropic、Claude Codeの自動モードを全プランでデフォルト化",
+      "topic_key": "anthropic-claude-code-auto-mode-default"
+    },
+    "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards": {
+      "date": "2026-08-10",
+      "title": "Anthropic、Claude Fable 5の生物学関連セーフガードを更新——誤ブロック85%減",
+      "topic_key": "anthropic-fable-5-biology-safeguards-update"
+    },
+    "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/": {
+      "date": "2026-08-10",
+      "title": "OpenAI、プレゼン資料作成スタートアップNextSlideを買収",
+      "topic_key": "openai-acquires-nextslide"
     }
   }
 }
