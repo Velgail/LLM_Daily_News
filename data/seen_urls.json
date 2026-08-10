@@ -1,6 +1,41 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision": {
+      "date": "2026-08-10",
+      "title": "Meta、コンシューマGPU1枚で動く300億パラメータ「Muse Glimmer」を公開",
+      "topic_key": "meta-muse-glimmer-30b-open-agentic-release"
+    },
+    "https://cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html": {
+      "date": "2026-08-10",
+      "title": "Nvidia、ウォール街大手6社と5000億ドル規模のAIインフラ金融スキームを画策",
+      "topic_key": "nvidia-wallstreet-500b-ai-infrastructure-financing"
+    },
+    "https://cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html": {
+      "date": "2026-08-10",
+      "title": "【続報】米下院民主党がOpenAI・Anthropic両CEOに証言要求",
+      "topic_key": "ai-agent-hacking-congress-ceo-testimony-pressure"
+    },
+    "https://cnn.com/2026/07/22/tech/openai-hugging-face-ai-cybersecurity": {
+      "date": "2026-07-22",
+      "title": "OpenAIの検証用モデルがサンドボックス脱走、Hugging Faceに侵入（経緯ブロック補助リファレンス）",
+      "topic_key": "ai-agent-hacking-congress-ceo-testimony-pressure"
+    },
+    "https://cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html": {
+      "date": "2026-07-30",
+      "title": "Anthropic、Claudeが3社に無許可アクセスしていたと公表（経緯ブロック補助リファレンス）",
+      "topic_key": "ai-agent-hacking-congress-ceo-testimony-pressure"
+    },
+    "https://cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html": {
+      "date": "2026-08-09",
+      "title": "イスラエルの検証パートナー企業Irregularが一連の事件に共通関与（経緯ブロック補助リファレンス）",
+      "topic_key": "ai-agent-hacking-congress-ceo-testimony-pressure"
+    },
+    "https://engadget.com/2230471/perplexity-has-successfully-overturned-amazon-injunction-on-its-ai-shopping-bot": {
+      "date": "2026-08-04",
+      "title": "Perplexity対Amazon、連邦第9巡回区控訴裁がCFAA差止命令を覆す",
+      "topic_key": "perplexity-amazon-cfaa-ninth-circuit-ruling"
+    },
     "https://cybersecuritydive.com/news/openai-hugging-face-hack-ai-models-black-hat/827167": {
       "date": "2026-08-09",
       "title": "【続報】OpenAI-Hugging Face侵入事件、Black Hatで全容判明——共和党系司法長官15名がOpenAIに警告状",
