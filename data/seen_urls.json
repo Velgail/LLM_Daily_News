@@ -2370,6 +2370,26 @@
       "date": "2026-08-10",
       "title": "OpenAI、プレゼン資料作成スタートアップNextSlideを買収",
       "topic_key": "openai-acquires-nextslide"
+    },
+    "https://thenextweb.com/news/spacexai-grok-bot-ai-agents-cursor": {
+      "date": "2026-08-12",
+      "title": "SpaceXAI(xAI)、チーム型AIエージェント群「Grok Bot」を発表",
+      "topic_key": "xai-grok-bot-launch"
+    },
+    "https://www.macquarie.com/au/en/about/news/2026/anthropic-mam-gic-data-centre-infrastructure-partnership.html": {
+      "date": "2026-08-12",
+      "title": "Anthropic、Macquarie・GICとデータセンター事業体「Theseus Infrastructure」を設立",
+      "topic_key": "anthropic-macquarie-gic-theseus-datacenter-jv"
+    },
+    "https://www.opensourceforu.com/2026/08/alibaba-open-sources-wan-animate-2/": {
+      "date": "2026-08-12",
+      "title": "Alibaba、リアルタイム24fpsキャラクターアニメーション「Wan-Animate-2」をApache 2.0で公開",
+      "topic_key": "alibaba-wan-animate-2-opensource-release"
+    },
+    "https://datanorth.ai/news/bytedance-launches-seedrealtime": {
+      "date": "2026-08-12",
+      "title": "ByteDance、全二重オーディオビジュアルモデル「SeedRealtime」を発表",
+      "topic_key": "bytedance-seedrealtime-fullduplex-launch"
     }
   }
 }
