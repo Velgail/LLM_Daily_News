@@ -1,6 +1,26 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://www.unite.ai/deepseek-ships-v4-pro-as-its-flagship-model-leaves-preview": {
+      "date": "2026-08-14",
+      "title": "DeepSeek、フラッグシップ「V4-Pro」を正式リリース",
+      "topic_key": "deepseek-v4-pro-0813-ga-release"
+    },
+    "https://mistral.ai/news/regional-inference-open-models-new-compute": {
+      "date": "2026-08-14",
+      "title": "Mistral、リージョン指定推論を一般提供、GLM-5.2ホスティング開始",
+      "topic_key": "mistral-regional-inference-glm-5.2-hosting"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion": {
+      "date": "2026-08-14",
+      "title": "Anthropic、イスラエルのDecart AIを60億ドルで買収交渉中",
+      "topic_key": "anthropic-decart-ai-acquisition-talks-6b"
+    },
+    "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling": {
+      "date": "2026-08-14",
+      "title": "NVIDIA、全二重音声モデル「NemotronLabs VoiceChat 11B」をオープン公開",
+      "topic_key": "nvidia-nemotronlabs-voicechat-11b-release"
+    },
     "https://www.basenor.com/blogs/news/xai-launches-grok-4-6-1753-elo-half-the-price-of-rival-frontier-models": {
       "date": "2026-08-13",
       "title": "SpaceXAI（xAI）、「Grok 4.6」を電撃投入——ELO1753でGPT-5.6 Solに並ぶ性能を半額で",
