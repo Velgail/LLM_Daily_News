@@ -1,6 +1,31 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash": {
+      "date": "2026-08-15",
+      "title": "Google、「Gemini 3.7 Flash」を投入——3週間で後継モデル",
+      "topic_key": "gemini-3.7-flash-release"
+    },
+    "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed": {
+      "date": "2026-08-15",
+      "title": "OpenAI、GPT-5.6 Solを14倍速で動かす「Ultrafast」モードをプレビュー",
+      "topic_key": "openai-gpt-5.6-sol-ultrafast-preview"
+    },
+    "https://unite.ai/z-ai-launches-glm-5-3-with-frontier-coding-and-a-cyber-capability-that-outgrew-its-training": {
+      "date": "2026-08-15",
+      "title": "Z.ai、「GLM-5.3」を投入——想定外のサイバー攻撃能力",
+      "topic_key": "zai-glm-5.3-release"
+    },
+    "https://finance.yahoo.com/technology/ai/articles/apple-trains-china-specific-ai-140316517.html": {
+      "date": "2026-08-15",
+      "title": "Apple、中国市場向けに自社製AIモデルを開発——Alibabaが支援",
+      "topic_key": "apple-own-ai-model-china-alibaba"
+    },
+    "https://newsroom.ibm.com/2026-08-13-ibm-partners-with-openai-to-accelerate-secure-ai-deployment-for-enterprises-across-core-operations": {
+      "date": "2026-08-15",
+      "title": "IBM、OpenAIと戦略提携——Consulting AdvantageにGPT-5.6を統合",
+      "topic_key": "ibm-openai-enterprise-consulting-alliance"
+    },
     "https://www.unite.ai/deepseek-ships-v4-pro-as-its-flagship-model-leaves-preview": {
       "date": "2026-08-14",
       "title": "DeepSeek、フラッグシップ「V4-Pro」を正式リリース",
