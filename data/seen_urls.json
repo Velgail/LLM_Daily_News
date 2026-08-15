@@ -1,6 +1,26 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://fortune.com/2026/08/13/deepseek-increases-prices-for-ai-services-by-multiple-times": {
+      "date": "2026-08-16",
+      "title": "DeepSeek、API価格を最大11倍に引き上げ",
+      "topic_key": "deepseek-v4-api-price-hike-peak-offpeak"
+    },
+    "https://huggingface.co/Qwen/Qwen3.8-27B": {
+      "date": "2026-08-16",
+      "title": "Alibaba、オープンウェイト視覚言語モデル「Qwen3.8-27B」を公開",
+      "topic_key": "qwen3.8-27b-open-weight-release"
+    },
+    "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps": {
+      "date": "2026-08-16",
+      "title": "Microsoft、乱立したCopilotを統合し不人気機能を廃止",
+      "topic_key": "microsoft-copilot-unification-feature-cuts"
+    },
+    "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html": {
+      "date": "2026-08-16",
+      "title": "OpenAI・Anthropic・Google、推論APIの暗号化ブロックに共通の脆弱性",
+      "topic_key": "openai-anthropic-google-reasoning-trace-leak-api-flaw"
+    },
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash": {
       "date": "2026-08-15",
       "title": "Google、「Gemini 3.7 Flash」を投入——3週間で後継モデル",
