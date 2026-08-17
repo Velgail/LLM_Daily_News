@@ -1,6 +1,26 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://www.forbes.com/sites/jonmarkman/2026/08/17/anthropics-groundbreaking-second-quarter-delivers-115b-in-revenue": {
+      "date": "2026-08-18",
+      "title": "Anthropic、Q2売上高115億ドルでフロンティアAI初の黒字を達成",
+      "topic_key": "anthropic-q2-2026-11.5b-revenue-first-profit"
+    },
+    "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b": {
+      "date": "2026-08-18",
+      "title": "Stripe、AIモデルゲートウェイOpenRouterを70億ドル超で買収",
+      "topic_key": "stripe-openrouter-acquisition-7b"
+    },
+    "https://deepgram.com/learn/text-to-speech-comes-of-age-deepgram-launches-conversation-native-speech": {
+      "date": "2026-08-18",
+      "title": "Deepgram、会話ネイティブ音声合成モデル「Flux TTS」を一般提供開始",
+      "topic_key": "deepgram-flux-tts-conversation-native-release"
+    },
+    "https://www.scmp.com/news/us/article/3363704/facebook-parent-meta-unwind-us2-billion-manus-ai-deal-after-beijing-block": {
+      "date": "2026-08-18",
+      "title": "中国が阻んだMetaの20億ドルManus買収、正式撤回——独立企業に復帰",
+      "topic_key": "manus-meta-acquisition-unwind-china-block"
+    },
     "https://siliconangle.com/2026/08/14/anthropic-details-unreleased-model-2-new-alignment-concerns-latest-ai-risk-report": {
       "date": "2026-08-17",
       "title": "Anthropic、未公開の「Model 2」を開示——誤動作リスクを「低い」へ引き上げ",
