@@ -1,6 +1,41 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://openai.com/index/updating-model-spec-with-teen-protections": {
+      "date": "2026-08-19",
+      "title": "OpenAI、「ChatGPT for Teens」を投入——年齢予測で自動安全モード切替",
+      "topic_key": "openai-chatgpt-for-teens-launch"
+    },
+    "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html": {
+      "date": "2026-08-19",
+      "title": "NVIDIA、OpenAIのオハイオ計画に最大1050億ドル供与——先行報道の2500億ドルから大幅減額",
+      "topic_key": "nvidia-openai-ohio-datacenter-105b-finalized"
+    },
+    "https://fortune.com/2026/08/18/openai-data-center-deal-with-nvidia-comes-in-145-billion-lower-than-reportedsignaling-concerns-of-artificial-demand-for-chips": {
+      "date": "2026-08-19",
+      "title": "Fortune誌、NVIDIA-OpenAIオハイオ案件が報道より145億ドル低い規模で決着したと分析（経緯ブロック補助リファレンス）",
+      "topic_key": "nvidia-openai-ohio-datacenter-105b-finalized"
+    },
+    "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach": {
+      "date": "2026-08-19",
+      "title": "【続報】OpenAI、Hugging Face侵入事件を受けRL訓練を2週間停止していたと公表",
+      "topic_key": "openai-huggingface-breach-rl-training-pause-safeguards"
+    },
+    "https://www.investing.com/news/stock-market-news/anthropic-targets-10b-credit-facility-ahead-of-planned-public-debut--bloomberg-4865794": {
+      "date": "2026-08-19",
+      "title": "Anthropic、IPO前の与信枠を100億ドル超に拡大",
+      "topic_key": "anthropic-pre-ipo-credit-facility-10b"
+    },
+    "https://www.calcalistech.com/ctechnews/article/b1evv3aufg": {
+      "date": "2026-08-19",
+      "title": "【続報】Anthropic、Decart買収がNVIDIAとの争奪戦を制して70億ドルで決着間近",
+      "topic_key": "anthropic-decart-acquisition-nearing-7b"
+    },
+    "https://time.com/article/2026/08/14/claude-fired-worker-ai-job-disruption": {
+      "date": "2026-08-19",
+      "title": "Claude搭載のAI「店長」Lunaが人間従業員を解雇——史上初とされるLLMによる解雇判断",
+      "topic_key": "andon-labs-luna-ai-fires-employee"
+    },
     "https://www.forbes.com/sites/jonmarkman/2026/08/17/anthropics-groundbreaking-second-quarter-delivers-115b-in-revenue": {
       "date": "2026-08-18",
       "title": "Anthropic、Q2売上高115億ドルでフロンティアAI初の黒字を達成",
