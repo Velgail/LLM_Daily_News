@@ -1,6 +1,26 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://finance.yahoo.com/technology/articles/nvidia-h200-chips-reach-china-021726633.html": {
+      "date": "2026-08-20",
+      "title": "NVIDIA H200が中国に還流——香港経由でByteDance・Tencentに各1万個",
+      "topic_key": "nvidia-h200-china-shipments-bytedance-tencent"
+    },
+    "https://csoonline.com/article/4211342/microsoft-finally-patches-critical-one-click-copilot-vulnerability-more-than-eight-months-after-learning-of-it-2.html": {
+      "date": "2026-08-20",
+      "title": "Microsoft Copilot「CoSnitch」脆弱性、8ヶ月越しに完全パッチ",
+      "topic_key": "microsoft-copilot-cosnitch-vulnerability-patch"
+    },
+    "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development": {
+      "date": "2026-08-20",
+      "title": "Warp、AIエージェント「工場」インフラ「Warp Factories」を発表",
+      "topic_key": "warp-factories-ai-agent-fleet-launch"
+    },
+    "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust": {
+      "date": "2026-08-20",
+      "title": "Anthropic CEOアモデイ氏、AI批判に「信頼の危機」と反論",
+      "topic_key": "anthropic-amodei-ai-trust-crisis-response"
+    },
     "https://openai.com/index/updating-model-spec-with-teen-protections": {
       "date": "2026-08-19",
       "title": "OpenAI、「ChatGPT for Teens」を投入——年齢予測で自動安全モード切替",
