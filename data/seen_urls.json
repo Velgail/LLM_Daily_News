@@ -1,6 +1,31 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections": {
+      "date": "2026-08-21",
+      "title": "【続報】OpenAI「Private Safety Processing」発表、翌日Anthropicがデータ保持ルールを軟化",
+      "topic_key": "openai-anthropic-data-retention-privacy-standoff"
+    },
+    "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-plans-to-tweak-data-retention-rules-after-enterprise-concerns": {
+      "date": "2026-08-21",
+      "title": "Anthropic、30日保持ルールを顧客自社インフラで満たせる方式に転換（経緯ブロック補助リファレンス）",
+      "topic_key": "openai-anthropic-data-retention-privacy-standoff"
+    },
+    "https://www.macrumors.com/2026/08/19/meta-ai-mac-app": {
+      "date": "2026-08-21",
+      "title": "Meta AI、macOS向け専用アプリをベータ公開——画面共有と全アプリ横断ディクテーション",
+      "topic_key": "meta-ai-mac-app-desktop-launch"
+    },
+    "https://www.cerebras.ai/blog/introducing-cerebras-cs-4": {
+      "date": "2026-08-21",
+      "title": "Cerebras、推論専用システム「CS-4」発表——GPU比最大30倍速",
+      "topic_key": "cerebras-cs-4-nexus-launch"
+    },
+    "https://digiday.com/marketing/openai-builds-offerings-on-consent-as-it-expands-chatgpt-ads-to-europe": {
+      "date": "2026-08-21",
+      "title": "ChatGPTの広告、8月24日から欧州31カ国へ拡大——同意ベースのGDPR対応",
+      "topic_key": "openai-chatgpt-ads-europe-expansion"
+    },
     "https://finance.yahoo.com/technology/articles/nvidia-h200-chips-reach-china-021726633.html": {
       "date": "2026-08-20",
       "title": "NVIDIA H200が中国に還流——香港経由でByteDance・Tencentに各1万個",
