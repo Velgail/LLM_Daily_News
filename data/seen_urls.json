@@ -1,6 +1,21 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://officechai.com/ai/deepseek-releases-v4-flash-vision-exp-matches-opus-4-8-on-some-multimodal-benchmarks/": {
+      "date": "2026-08-21",
+      "title": "DeepSeekが実験的マルチモーダルモデル「V4-Flash-Vision-Exp」を投入",
+      "topic_key": "deepseek-v4-flash-vision-exp-release"
+    },
+    "https://dataconomy.com/2026/08/20/claude-ai-protein-binders-14-of-15-targets/": {
+      "date": "2026-08-20",
+      "title": "Claudeが自律的にタンパク質結合体を設計、15標的中14件で成功",
+      "topic_key": "anthropic-claude-autonomous-protein-binder-design"
+    },
+    "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-one-billion-downloads/": {
+      "date": "2026-08-20",
+      "title": "Googleのオープンモデル「Gemma」、累計10億ダウンロードを突破",
+      "topic_key": "google-gemma-1-billion-downloads-milestone"
+    },
     "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections": {
       "date": "2026-08-21",
       "title": "【続報】OpenAI「Private Safety Processing」発表、翌日Anthropicがデータ保持ルールを軟化",
