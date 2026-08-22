@@ -1,6 +1,31 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://business-standard.com/technology/tech-news/openai-cuts-developer-pricing-for-gpt-5-6-sol-model-by-more-than-20-126082200107_1.html": {
+      "date": "2026-08-23",
+      "title": "OpenAI、GPT-5.6 SolのAPI価格を3ヶ月限定で20%超値下げ",
+      "topic_key": "openai-gpt-5.6-sol-price-cut-aug2026"
+    },
+    "https://claude.com/blog/computer-use-skills-api-files-api": {
+      "date": "2026-08-23",
+      "title": "Anthropic、Computer Use・Skills API・Files APIを一般提供化、Browser Useも投入",
+      "topic_key": "anthropic-claude-platform-computer-use-skills-files-browser-ga"
+    },
+    "https://local-ai-zone.github.io/blog/ox-alpha-stealth-model-comprehensive-analysis.html": {
+      "date": "2026-08-23",
+      "title": "正体不明の覆面モデル「Ox Alpha」がコーディングベンチマークでGPT-5.6 Sol/Claude Fable 5を上回る",
+      "topic_key": "ox-alpha-stealth-model-coding-benchmark"
+    },
+    "https://workspaceupdates.googleblog.com/2026/08/ask-gemini-in-chat.html": {
+      "date": "2026-08-23",
+      "title": "Google Chatに「Ask Gemini」統合、サイドパネルを置き換え",
+      "topic_key": "google-ask-gemini-in-chat-workspace-launch"
+    },
+    "https://arxiv.org/abs/2608.16645": {
+      "date": "2026-08-23",
+      "title": "Reconstruction: フロンティアAIの研究アイデア再発見率はわずか3〜15%",
+      "topic_key": "reconstruction-benchmark-llm-research-idea-recovery"
+    },
     "https://officechai.com/ai/deepseek-releases-v4-flash-vision-exp-matches-opus-4-8-on-some-multimodal-benchmarks/": {
       "date": "2026-08-21",
       "title": "DeepSeekが実験的マルチモーダルモデル「V4-Flash-Vision-Exp」を投入",
