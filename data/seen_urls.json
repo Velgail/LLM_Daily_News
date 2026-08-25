@@ -1,6 +1,41 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://help.openai.com/en/articles/9624314-model-release-notes": {
+      "date": "2026-08-26",
+      "title": "OpenAIの看板推論モデル「o3」、ChatGPTから姿を消す",
+      "topic_key": "openai-o3-retirement-chatgpt-aug2026"
+    },
+    "https://investing.com/news/stock-market-news/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-wsj-reports-4875772": {
+      "date": "2026-08-26",
+      "title": "Anthropic、投資家に「潜在収益30兆ドル」を提示",
+      "topic_key": "anthropic-30-trillion-revenue-forecast-wsj"
+    },
+    "https://nvidianews.nvidia.com/news/nvidia-groq-3-lpx-now-in-full-production-with-world-class-speed-for-agentic-ai": {
+      "date": "2026-08-26",
+      "title": "NVIDIA、20億ドル買収のGroqチップが量産開始",
+      "topic_key": "nvidia-groq-3-lpx-full-production-vera-rubin"
+    },
+    "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-legal": {
+      "date": "2026-08-26",
+      "title": "Google、「Gemini Enterprise for Legal」をプレビュー公開",
+      "topic_key": "google-gemini-enterprise-for-legal-launch"
+    },
+    "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html": {
+      "date": "2026-08-26",
+      "title": "暗号化プロンプトインジェクションがGrokとGeminiを陥れる",
+      "topic_key": "grok-gemini-cryptographic-context-injection-vulnerability"
+    },
+    "https://adversa.ai/blog/cryptographic-context-injection-grok-data-theft": {
+      "date": "2026-08-26",
+      "title": "Adversa AI、Cryptographic Context Injectionの手法を公開（経緯ブロック補助リファレンス）",
+      "topic_key": "grok-gemini-cryptographic-context-injection-vulnerability"
+    },
+    "https://theregister.com/ai-and-ml/2026/08/20/grok-chat-duped-into-swallowing-injected-instructions/5290019": {
+      "date": "2026-08-26",
+      "title": "The Register、Grokの暗号化プロンプトインジェクションを報道（経緯ブロック補助リファレンス）",
+      "topic_key": "grok-gemini-cryptographic-context-injection-vulnerability"
+    },
     "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b": {
       "date": "2026-08-25",
       "title": "Hugging Face、130億ドル超での売却を検討",
