@@ -1,6 +1,41 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html": {
+      "date": "2026-08-27",
+      "title": "NVIDIA、売上962億ドルで前年比106%増——2027会計年度Q2決算",
+      "topic_key": "nvidia-q2-fy27-earnings-aug2026"
+    },
+    "https://www.cnbc.com/2026/08/26/open-ai-hugging-face-hack.html": {
+      "date": "2026-08-27",
+      "title": "【続報】OpenAI、Hugging Face侵入事件の37ページ最終報告書を公表",
+      "topic_key": "openai-huggingface-breach-final-report-alabama-aug2026"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-26/openai-says-it-could-have-reacted-sooner-to-prevent-ai-hack-of-hugging-face": {
+      "date": "2026-08-27",
+      "title": "Bloomberg、OpenAIがもっと早く対応できたはずと認めたと報道（経緯ブロック補助リファレンス）",
+      "topic_key": "openai-huggingface-breach-final-report-alabama-aug2026"
+    },
+    "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/": {
+      "date": "2026-08-27",
+      "title": "アラバマ州司法長官、OpenAIに召喚状を送付（経緯ブロック補助リファレンス）",
+      "topic_key": "openai-huggingface-breach-final-report-alabama-aug2026"
+    },
+    "https://finance.yahoo.com/technology/ai/articles/exclusive-chinas-moonshot-talks-microsoft-075340033.html": {
+      "date": "2026-08-27",
+      "title": "Moonshot AI、Kimi K3の収益分配契約をMicrosoft・Amazon・Googleと交渉",
+      "topic_key": "moonshot-kimi-k3-revenue-share-talks-msft-amzn-googl"
+    },
+    "https://www.bloomberg.com/news/articles/2026-08-26/huawei-egypt-ai-ascend-chips-test-us-tech-diplomacy-nvidia-amd-microsoft": {
+      "date": "2026-08-27",
+      "title": "Huawei、エジプトにAscend AIチップ2000基超を提案",
+      "topic_key": "huawei-ascend-egypt-ai-datacenter-bid"
+    },
+    "https://openai.com/index/gpt-5-6-in-kiro/": {
+      "date": "2026-08-27",
+      "title": "OpenAI、AWSの開発エージェント「Kiro」にGPT-5.6全系統を統合",
+      "topic_key": "openai-gpt-5.6-kiro-aws-integration"
+    },
     "https://help.openai.com/en/articles/9624314-model-release-notes": {
       "date": "2026-08-26",
       "title": "OpenAIの看板推論モデル「o3」、ChatGPTから姿を消す",
