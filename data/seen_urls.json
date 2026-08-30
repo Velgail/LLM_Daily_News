@@ -1,6 +1,41 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html": {
+      "date": "2026-08-31",
+      "title": "OpenAI、Cursorへのモデル提供を打ち切り——SpaceX/xAI傘下入りが引き金に",
+      "topic_key": "spacex-cursor-acquisition-60b-openai-model-cutoff"
+    },
+    "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright": {
+      "date": "2026-08-31",
+      "title": "Sony・WarnerがAnthropicを提訴——「史上最大級のIP窃盗」と楽曲無断学習を断罪",
+      "topic_key": "anthropic-music-copyright-lawsuit-sony-warner-aug2026"
+    },
+    "https://variety.com/2026/biz/news/round-hill-music-sues-suno-anthropic-copyright-infringement-1236837467/": {
+      "date": "2026-08-31",
+      "title": "Round Hill Musicが最大10億ドルの損害賠償を求めてAnthropicとSunoを提訴（経緯ブロック補助リファレンス）",
+      "topic_key": "anthropic-music-copyright-lawsuit-sony-warner-aug2026"
+    },
+    "https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html": {
+      "date": "2026-08-31",
+      "title": "NVIDIA、Hugging Faceを129億ドルで買収合意——「GitHub for AI」を手中に",
+      "topic_key": "huggingface-13b-sale-talks-nvidia-agreement-12.9b"
+    },
+    "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/": {
+      "date": "2026-08-31",
+      "title": "NVIDIAがHugging Face買収に向けて交渉を最終段階に（経緯ブロック補助リファレンス）",
+      "topic_key": "huggingface-13b-sale-talks-nvidia-agreement-12.9b"
+    },
+    "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/": {
+      "date": "2026-08-31",
+      "title": "OpenAI・Anthropic・Google含む100社超、「集団的サイバー防衛」を呼びかけ",
+      "topic_key": "openai-huggingface-breach-industry-cyberdefense-letter-100companies"
+    },
+    "https://www.engadget.com/2244816/meta-reportedly-abandoned-an-ai-focused-restructuring-plan/": {
+      "date": "2026-08-31",
+      "title": "Meta、AIエージェントに人員を置き換える再編計画を撤回",
+      "topic_key": "meta-layoffs-8000-ai-restructuring-may2026-project-ot-reversal"
+    },
     "https://www.salesforce.com/news/press-releases/2026/08/26/salesforce-and-anthropic-announce-claudeforce/": {
       "date": "2026-08-30",
       "title": "SalesforceとAnthropicが「Claudeforce」始動——Slackbotの頭脳がClaudeに",
