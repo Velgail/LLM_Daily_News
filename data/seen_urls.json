@@ -1,6 +1,26 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://helpnetsecurity.com/2026/08/31/claude-accounts-compromised-through-infostealer": {
+      "date": "2026-09-01",
+      "title": "Claudeのログインセッションが乗っ取られる——インフォスティーラーがCookieを盗み利用枠を食い潰す",
+      "topic_key": "anthropic-claude-session-hijack-infostealer-aug2026"
+    },
+    "https://npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda": {
+      "date": "2026-09-01",
+      "title": "ChatGPT・Gemini・Claudeは国家プロパガンダにどこまで強い？——NPR×NewsGuardの実地検証",
+      "topic_key": "npr-newsguard-chatbot-propaganda-resistance-study"
+    },
+    "https://techstartups.com/2026/08/28/deepseek-nears-7-4-billion-funding-round-at-74-billion-valuation-ahead-of-2027-ipo": {
+      "date": "2026-09-01",
+      "title": "DeepSeek、評価額740億ドルの大型調達が月内クロージングへ——2027年上海上場も視野に",
+      "topic_key": "deepseek-7.4b-funding-round-close-tencent-catl-valuation-74b"
+    },
+    "https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts": {
+      "date": "2026-09-01",
+      "title": "「Claude for Teachers」、個人利用から学校・学区まるごと導入へ拡大",
+      "topic_key": "claude-for-teachers-schools-districts-enterprise-expansion"
+    },
     "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html": {
       "date": "2026-08-31",
       "title": "OpenAI、Cursorへのモデル提供を打ち切り——SpaceX/xAI傘下入りが引き金に",
