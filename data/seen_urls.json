@@ -1,6 +1,31 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/": {
+      "date": "2026-09-03",
+      "title": "【続報】OpenAI「Astra」がついに「重大サイバー能力」到達を確認——一部開発凍結から一転、アクセス制限付きで提供へ",
+      "topic_key": "openai-astra-critical-cyber-threshold-exceeded"
+    },
+    "https://siliconangle.com/2026/09/01/autonomous-red-teaming-crowdstrike-falcon/": {
+      "date": "2026-09-03",
+      "title": "NVIDIAとCrowdStrikeが「攻撃AI×防御AI」を24時間戦わせ続けるサイバーセキュリティシステムを発表",
+      "topic_key": "crowdstrike-safemind-nvidia-nemotron-launch"
+    },
+    "https://www.perplexity.ai/hub/blog/introducing-hybrid-compute-on-mac": {
+      "date": "2026-09-03",
+      "title": "Perplexity、機密データを端末内に留める「Hybrid Compute」をMac向けエージェントに投入",
+      "topic_key": "perplexity-hybrid-compute-mac-launch"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-02/meta-releases-more-powerful-ai-model-edging-closer-to-rivals": {
+      "date": "2026-09-03",
+      "title": "Meta、Zuckerberg自ら「最大の跳躍」と語る新フラッグシップ「Muse Spark 1.3」を投入——Opus 5・GPT-5.6 Solに肉薄",
+      "topic_key": "meta-muse-spark-1.3-release"
+    },
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/": {
+      "date": "2026-09-03",
+      "title": "Google、「Gemini 3.8 Flash」と防御特化版「Flash Cyber」を同時投入——6週間で3世代目のFlash更新",
+      "topic_key": "gemini-3.8-flash-flash-cyber-release"
+    },
     "https://anthropic.com/claude-fable-and-mythos-5-1": {
       "date": "2026-09-02",
       "title": "Anthropic、コーディング特化の新フラッグシップ「Claude Fable 5.1」と限定公開版「Mythos 5.1」を投入",
