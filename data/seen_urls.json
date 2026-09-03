@@ -1,6 +1,31 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model": {
+      "date": "2026-09-04",
+      "title": "【続報】OpenAI、ついに「GPT-6 Astra」を一般ロールアウト開始——Brockman氏「AGI時代へようこそ」",
+      "topic_key": "openai-gpt6-astra-public-rollout-daybreak"
+    },
+    "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face": {
+      "date": "2026-09-04",
+      "title": "【続報】NVIDIA、Hugging Face買収129.3億ドルを正式確認——「オープンなプラットフォームであり続ける」",
+      "topic_key": "nvidia-huggingface-official-acquisition-confirmation-12.93b"
+    },
+    "https://technode.com/2026/09/02/alibaba-upgrades-qwen38-max-with-new-0902-snapshot": {
+      "date": "2026-09-04",
+      "title": "Alibaba、「Qwen3.8-Max-0902」を投入——アーキテクチャそのままにコーディング特化で追加学習",
+      "topic_key": "qwen3.8-max-0902-post-training-upgrade"
+    },
+    "https://claude.com/blog/claude-for-commerce-agents": {
+      "date": "2026-09-04",
+      "title": "Anthropic、小売業向け「ショッピングエージェント」設計図を無償公開——ShopifyとPriceline",
+      "topic_key": "anthropic-claude-commerce-agents-blueprint-shopify-priceline"
+    },
+    "https://axios.com/2026/09/03/pentagon-reaffirms-anthropic-blacklist": {
+      "date": "2026-09-04",
+      "title": "【続報】商務長官「Anthropicとは和解した」も、国防総省は「サプライチェーンリスク」指定を撤回せず",
+      "topic_key": "anthropic-pentagon-supplychain-risk-lutnick-dispute"
+    },
     "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/": {
       "date": "2026-09-03",
       "title": "【続報】OpenAI「Astra」がついに「重大サイバー能力」到達を確認——一部開発凍結から一転、アクセス制限付きで提供へ",
