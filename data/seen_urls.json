@@ -1,6 +1,31 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://anthropic.com/news/enterprise-frontier-safeguards": {
+      "date": "2026-09-05",
+      "title": "Anthropic、企業向け監視をクラウド内完結型に刷新——「Enterprise Frontier Safeguards」でデータ保持論争に区切り",
+      "topic_key": "anthropic-enterprise-frontier-safeguards-launch"
+    },
+    "https://axios.com/2026/09/04/eu-tech-chief-ai-guardrails-inevitable-us": {
+      "date": "2026-09-05",
+      "title": "G20が「カロライナ原則」採択も、EU欧州委員は2日後に「結局似た規制」と反論",
+      "topic_key": "g20-carolina-principles-us-eu-ai-regulation-divergence"
+    },
+    "https://cnbc.com/2026/09/02/g20-innovation-ministerial-live-updates.html": {
+      "date": "2026-09-05",
+      "title": "G20チャペルヒル会合、米国主導で「カロライナ原則」に全会一致（経緯ブロック補助リファレンス）",
+      "topic_key": "g20-carolina-principles-us-eu-ai-regulation-divergence"
+    },
+    "https://tech.yahoo.com/ai/claude/articles/elon-musk-says-grok-4-043326597.html": {
+      "date": "2026-09-05",
+      "title": "Musk氏、Grok 4.7を9月12日前後に公開へ——2.1兆パラメータにSpaceXデータを追加学習",
+      "topic_key": "xai-grok-4.7-announcement-2.1t-spacex-data"
+    },
+    "https://fortune.com/2026/09/04/meta-perv-glasses-ai-lawsuit": {
+      "date": "2026-09-05",
+      "title": "Meta「AIグラス」訴訟が通行人にまで拡大——AI学習データ化を告発",
+      "topic_key": "meta-ai-glasses-training-data-lawsuit-expansion-bystanders"
+    },
     "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model": {
       "date": "2026-09-04",
       "title": "【続報】OpenAI、ついに「GPT-6 Astra」を一般ロールアウト開始——Brockman氏「AGI時代へようこそ」",
