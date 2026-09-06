@@ -1,6 +1,26 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections": {
+      "date": "2026-09-07",
+      "title": "【続報】GPT-6 Astra、外部検証で幻覚は大幅減も間接プロンプトインジェクションに8.5%屈服",
+      "topic_key": "gpt6-astra-gray-swan-prompt-injection-benchmark"
+    },
+    "https://ifm.ai/blog/k2": {
+      "date": "2026-09-07",
+      "title": "IFM、学習データ・コードまで公開したフルオープン6モデル「K2 Horizon」を投入",
+      "topic_key": "ifm-k2-horizon-open-model-fleet-release"
+    },
+    "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html": {
+      "date": "2026-09-07",
+      "title": "Claude Code・Codex・Cursor・Grok Buildを貫く共通の欠陥「GitSpawn」発覚",
+      "topic_key": "gitspawn-ai-coding-agent-vulnerability-disclosure"
+    },
+    "https://research.meta.ai/blog/introducing-muse-voice-transcribe": {
+      "date": "2026-09-07",
+      "title": "Meta Superintelligence Labs、リアルタイム音声認識モデル「Muse Voice Transcribe」を投入",
+      "topic_key": "meta-muse-voice-transcribe-release"
+    },
     "https://www.anthropic.com/research/formalizing-fermats-last-theorem": {
       "date": "2026-09-06",
       "title": "Claudeが11日間でフェルマーの最終定理を「機械検証可能」な形に",
