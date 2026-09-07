@@ -1,6 +1,26 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://sigmalawgroup.com/blog/2026-09-06-andersen-stability-ai-jury-trial": {
+      "date": "2026-09-08",
+      "title": "「AIが学習したら著作権侵害か」に世界初の陪審評決へ——「Andersen v. Stability AI」裁判が開幕",
+      "topic_key": "andersen-stability-ai-jury-trial-begins"
+    },
+    "https://openai.com/index/research-acceleration-view-inside-openai/": {
+      "date": "2026-09-08",
+      "title": "人間の1日にエージェント3.1人日分——OpenAIが「自動化リサーチインターン」目標の達成を公表",
+      "topic_key": "openai-automated-research-intern-milestone"
+    },
+    "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html": {
+      "date": "2026-09-08",
+      "title": "1文字のトークンで認証をすり抜ける——LiteLLMの脆弱性が実攻撃で悪用、CISAが緊急パッチ命令",
+      "topic_key": "litellm-cve-2026-59822-mcp-auth-bypass-kev"
+    },
+    "https://blockchain.news/news/xai-grok-bot-enterprise-launch": {
+      "date": "2026-09-08",
+      "title": "ベータからわずか3週間、xAIが自律AIエージェント「Grok Bot」を企業向けに本格展開",
+      "topic_key": "xai-grok-bot-enterprise-launch"
+    },
     "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections": {
       "date": "2026-09-07",
       "title": "【続報】GPT-6 Astra、外部検証で幻覚は大幅減も間接プロンプトインジェクションに8.5%屈服",
