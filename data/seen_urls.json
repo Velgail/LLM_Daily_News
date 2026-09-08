@@ -1,6 +1,46 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://openai.com/index/gpt-6-astra": {
+      "date": "2026-09-03",
+      "title": "GPT-6 Astraシステムカード：CoTモニタリング可能性の低下に関する記述（経緯ブロック補助リファレンス）",
+      "topic_key": "openai-pachocki-alien-mind-cot-monitorability-warning"
+    },
+    "https://openai.com/index/an-alien-mind": {
+      "date": "2026-09-09",
+      "title": "「誰も安全性を解けていない」——OpenAIチーフサイエンティストが自社の\"暴走気味の加速\"に異例の警告文",
+      "topic_key": "openai-pachocki-alien-mind-cot-monitorability-warning"
+    },
+    "https://www.ghacks.net/2026/09/07/gpt-6-astra-draws-scrutiny-for-being-harder-to-monitor-even-as-openai-calls-it-more-aligned": {
+      "date": "2026-09-07",
+      "title": "GPT-6 Astraのモニタリング可能性低下に関する報道（経緯ブロック補助リファレンス）",
+      "topic_key": "openai-pachocki-alien-mind-cot-monitorability-warning"
+    },
+    "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier": {
+      "date": "2026-09-09",
+      "title": "創業3年で欧州テック史上最大の調達へ——MistralがサムスンAI主導の3,000億円超を確保",
+      "topic_key": "mistral-3b-series-d-samsung-led-funding"
+    },
+    "https://openai.com/index/navier-stokes-solution": {
+      "date": "2026-09-09",
+      "title": "OpenAIが「ナビエ–ストークス方程式」の大理論を解いたと発表——だがその手法、NYU数学者とAnthropic研究者から「盗用では」と告発",
+      "topic_key": "openai-navier-stokes-euler-proof-priority-dispute"
+    },
+    "https://www.unite.ai/buckmaster-and-alpoge-post-ai-fluid-blowup-proofs-dispute-openai-contact": {
+      "date": "2026-09-08",
+      "title": "Buckmaster氏・Alpöge氏のプレプリント公開と経緯声明（経緯ブロック補助リファレンス）",
+      "topic_key": "openai-navier-stokes-euler-proof-priority-dispute"
+    },
+    "https://www.scientificamerican.com/article/openai-claims-blockbuster-math-breakthrough-amid-swirl-of-controversy": {
+      "date": "2026-09-08",
+      "title": "OpenAIのナビエ–ストークス方程式主張と論争をScientific Americanが報道（経緯ブロック補助リファレンス）",
+      "topic_key": "openai-navier-stokes-euler-proof-priority-dispute"
+    },
+    "https://terrytao.wordpress.com/2026/09/07/finite-time-blowup-with-smooth-forcing-term-for-the-incompressible-porous-medium-boussinesq-and-incompressible-euler-equations": {
+      "date": "2026-09-07",
+      "title": "Terry Taoのブログによるオイラー方程式爆発証明の解説（経緯ブロック補助リファレンス）",
+      "topic_key": "openai-navier-stokes-euler-proof-priority-dispute"
+    },
     "https://sigmalawgroup.com/blog/2026-09-06-andersen-stability-ai-jury-trial": {
       "date": "2026-09-08",
       "title": "「AIが学習したら著作権侵害か」に世界初の陪審評決へ——「Andersen v. Stability AI」裁判が開幕",
