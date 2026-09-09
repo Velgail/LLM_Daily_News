@@ -1,6 +1,36 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent": {
+      "date": "2026-09-10",
+      "title": "メタの「パーソナルAIエージェント」Museが始動——予約もフォーム入力も値引き交渉も“本人不在”で完遂",
+      "topic_key": "meta-muse-ai-agent-consumer-launch"
+    },
+    "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908": {
+      "date": "2026-09-10",
+      "title": "【続報】「クレイ数学研究所はまだ認定せず」——ナビエ–ストークス方程式\"解決\"の裏で、独立検証すら始まっていなかった",
+      "topic_key": "openai-navier-stokes-euler-proof-priority-dispute-clay-institute-response"
+    },
+    "https://www.implicator.ai/clay-institute-navier-stokes-openai-proof-claim": {
+      "date": "2026-09-09",
+      "title": "クレイ数学研究所がナビエ–ストークス方程式の解決を未認定と報道（経緯ブロック補助リファレンス）",
+      "topic_key": "openai-navier-stokes-euler-proof-priority-dispute-clay-institute-response"
+    },
+    "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a": {
+      "date": "2026-09-10",
+      "title": "米政府がDeepSeekなど中国AI6社を名指し——「蒸留」という名の組織的窃取と断定した異例の共同勧告",
+      "topic_key": "nsa-cisa-fbi-china-ai-distillation-advisory-aa26-251a"
+    },
+    "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome": {
+      "date": "2026-09-10",
+      "title": "ヒトゲノム90億通りの変異を全網羅——Google DeepMindが1ペタバイト「AlphaGenome Atlas」を無償公開",
+      "topic_key": "google-deepmind-alphagenome-atlas-release"
+    },
+    "https://www.digitalapplied.com/blog/deepseek-v4-1-flash-pro-routing-prices-early-tests": {
+      "date": "2026-09-10",
+      "title": "「V4 Proはもう要らない」——DeepSeekが2日間限定ベータで「V4.1 Flash」をこっそり投入",
+      "topic_key": "deepseek-v4.1-flash-beta-test"
+    },
     "https://openai.com/index/gpt-6-astra": {
       "date": "2026-09-03",
       "title": "GPT-6 Astraシステムカード：CoTモニタリング可能性の低下に関する記述（経緯ブロック補助リファレンス）",
