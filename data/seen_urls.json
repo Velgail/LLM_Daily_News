@@ -1,6 +1,21 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://sakana.ai/fugu-max-release/": {
+      "date": "2026-09-11",
+      "title": "「Claude Fable 5.1もGPT-6 Astraもプールにいないのに勝つ」——Sakana AIが\"モデルを束ねるモデル\"の新世代を投入",
+      "topic_key": "sakana-fugu-max-ultra-v2-release"
+    },
+    "https://www.anthropic.com/threat-intelligence-report-september-2026": {
+      "date": "2026-09-10",
+      "title": "ロシア国家グループから財政目的の犯罪集団まで——Anthropicの脅威報告書が描く「AIエージェント悪用」の実態",
+      "topic_key": "anthropic-threat-intelligence-report-2026-09"
+    },
+    "https://www.nbcnews.com/tech/tech-news/anthropic-safety-researcher-resigned-warning-rapid-ai-development-gamb-rcna596767": {
+      "date": "2026-09-09",
+      "title": "未行使のストックオプションを捨てて警告——Anthropic研究者が同僚へのSlackメッセージ一つで退職した理由",
+      "topic_key": "anthropic-researcher-jacob-coxon-resignation"
+    },
     "https://finance.yahoo.com/technology/ai/articles/deepseek-taps-citic-securities-shanghai-120650036.html": {
       "date": "2026-09-09",
       "title": "【続報】DeepSeek、上海上場に向けCITIC証券を起用——評価額750億ドルで具体的な一歩",
