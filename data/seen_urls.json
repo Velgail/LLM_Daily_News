@@ -1,6 +1,31 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://business-standard.com/technology/tech-news/another-anthropic-researcher-warns-of-ai-race-risks-after-quitting-126091200407_1.html": {
+      "date": "2026-09-12",
+      "title": "【続報】「もう一人辞めた」——Anthropic研究者Joe Benton氏が退社、OpenAIは\"減速\"検討に転じる",
+      "topic_key": "anthropic-researcher-joe-benton-resignation-metr"
+    },
+    "https://bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff": {
+      "date": "2026-09-11",
+      "title": "OpenAIのAltman CEOが社内会議で最先端AI開発の「減速」検討に言及（経緯ブロック補助リファレンス）",
+      "topic_key": "anthropic-researcher-joe-benton-resignation-metr"
+    },
+    "https://greynoise.io/blog/ai-orchestrated-campaign-against-papercut-ng-mf": {
+      "date": "2026-09-10",
+      "title": "【続報】公開から数日で48カ国395組織——GreyNoiseが解剖した「AIエージェント犯罪」の全容",
+      "topic_key": "greynoise-papercut-ai-agent-attack-campaign-deepdive"
+    },
+    "https://bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/": {
+      "date": "2026-09-10",
+      "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations（経緯ブロック補助リファレンス）",
+      "topic_key": "greynoise-papercut-ai-agent-attack-campaign-deepdive"
+    },
+    "https://openai.com/index/introducing-chatgpt-images-2-5": {
+      "date": "2026-09-08",
+      "title": "OpenAI、画像生成「GPT Image 2.5」を投入——高速版「Flare」と高精細版「Sunburst」の二刀流",
+      "topic_key": "openai-gpt-image-2.5-flare-sunburst-release"
+    },
     "https://sakana.ai/fugu-max-release/": {
       "date": "2026-09-11",
       "title": "「Claude Fable 5.1もGPT-6 Astraもプールにいないのに勝つ」——Sakana AIが\"モデルを束ねるモデル\"の新世代を投入",
