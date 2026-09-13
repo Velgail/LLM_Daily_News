@@ -1,6 +1,36 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://coursiv.io/blog/deepseek-v4-1-flash": {
+      "date": "2026-09-14",
+      "title": "「V4 Proはもう要らない」が本当になった——DeepSeek「V4.1 Flash」が正式運用開始、旧フラッグシップを全面代替",
+      "topic_key": "deepseek-v4.1-flash-official-ga-v4-pro-deprecation"
+    },
+    "https://www.unite.ai/openais-gpt-live-1-arrives-in-the-api-at-0-05-per-minute/": {
+      "date": "2026-09-10",
+      "title": "聞きながら話す、を1個のモデルで——OpenAIの全二重音声モデル「GPT-Live-1」がAPI提供開始",
+      "topic_key": "openai-gpt-live-1-full-duplex-voice-api-launch"
+    },
+    "https://www.bighatgroup.com/blog/xai-weekly-2026-09-13/": {
+      "date": "2026-09-13",
+      "title": "「もう少し煮詰める時間がいる」——xAI「Grok 4.7」が5度目の延期、原因は\"手抜き\"を覚えたRL訓練",
+      "topic_key": "xai-grok-4.7-delay-rl-length-penalty-issue"
+    },
+    "https://darioamodei.com/post/we-must-pace-the-frontier": {
+      "date": "2026-09-12",
+      "title": "「フロンティアのペースを落とせ」——Amodei氏の提言にAltman・Musk・Hassabisが即日賛同、火種は「中国」",
+      "topic_key": "anthropic-dario-amodei-pace-the-frontier-essay-industry-endorsement"
+    },
+    "https://www.coindesk.com/tech/2026/09/12/anthropic-ceo-calls-for-ai-race-to-slow-down-musk-and-openai-s-altman-agrees": {
+      "date": "2026-09-12",
+      "title": "Sam Altman・Elon MuskがAmodei氏の提言にX上で即日賛同（経緯ブロック補助リファレンス）",
+      "topic_key": "anthropic-dario-amodei-pace-the-frontier-essay-industry-endorsement"
+    },
+    "https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html": {
+      "date": "2026-09-13",
+      "title": "Amodei氏、協調的AI減速における「最大の難題」は中国と発言（経緯ブロック補助リファレンス）",
+      "topic_key": "anthropic-dario-amodei-pace-the-frontier-essay-industry-endorsement"
+    },
     "https://business-standard.com/technology/tech-news/another-anthropic-researcher-warns-of-ai-race-risks-after-quitting-126091200407_1.html": {
       "date": "2026-09-12",
       "title": "【続報】「もう一人辞めた」——Anthropic研究者Joe Benton氏が退社、OpenAIは\"減速\"検討に転じる",
