@@ -1,6 +1,31 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://bloomberg.com/news/articles/2026-09-14/trump-rejects-calls-for-ai-guardrails-blasts-anthropic-s-amodei": {
+      "date": "2026-09-16",
+      "title": "【続報】「完璧な天使のふりをしている」——トランプ氏がAmodei氏を名指し攻撃、Microsoftは\"減速派\"に合流",
+      "topic_key": "anthropic-pace-the-frontier-trump-attack-nadella-code-of-conduct"
+    },
+    "https://microsoft.ai/news/mai-code-of-conduct": {
+      "date": "2026-09-14",
+      "title": "MicrosoftがMAIモデル向け「Code of Conduct」を公開、6週間の意見募集開始（経緯ブロック補助リファレンス）",
+      "topic_key": "anthropic-pace-the-frontier-trump-attack-nadella-code-of-conduct"
+    },
+    "https://x.com/elonmusk/status/2099458047408013751": {
+      "date": "2026-09-16",
+      "title": "【続報】「Opus 5.0並みで5.1には届かず」——Grok 4.7、マスク氏自ら\"格下\"と自己採点、公開はなお未定",
+      "topic_key": "xai-grok-4.7-musk-self-grade-opus-5.0-delay-continues"
+    },
+    "https://github.com/atria-asi/Atria-Dawn-Preview": {
+      "date": "2026-09-16",
+      "title": "予告もブログもなく——上海AI研究所、744Bパラメータのフルオープンモデル「Atria Dawn Preview」を\"静かに\"公開",
+      "topic_key": "shanghai-ai-lab-atria-dawn-preview-744b-moe-release"
+    },
+    "https://gov.ca.gov/2026/09/10/governor-newsom-signs-the-strongest-child-safety-chatbot-and-social-media-laws-in-the-nation": {
+      "date": "2026-09-16",
+      "title": "10代少年の死を受け——カリフォルニア州、AIコンパニオンチャットボットに「自殺念慮の検知」を義務化する「Adam法」成立",
+      "topic_key": "california-adams-law-sb1119-ai-companion-chatbot-child-safety"
+    },
     "https://coincentral.com/anthropic-google-and-openai-are-quietly-building-their-own-ai-standards-body": {
       "date": "2026-09-14",
       "title": "【続報】Amodei氏提言から3日——Hugging Faceが「参加させろ」、3社は水面下で標準化団体を画策、中国は冷ややかに拒絶",
