@@ -3255,6 +3255,31 @@
       "date": "2026-08-12",
       "title": "ByteDance、全二重オーディオビジュアルモデル「SeedRealtime」を発表",
       "topic_key": "bytedance-seedrealtime-fullduplex-launch"
+    },
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking": {
+      "date": "2026-09-17",
+      "title": "「会話しながら裏で作業する」——Google、音声対話特化の新モデル「Gemini 3.8 Live」を投入",
+      "topic_key": "gemini-3.8-live-extended-thinking-release"
+    },
+    "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available": {
+      "date": "2026-09-17",
+      "title": "「OK Siri」の中身がGeminiに——iOS 27、待望の新Siriを世界配信開始",
+      "topic_key": "apple-ios27-siri-gemini-launch"
+    },
+    "https://technode.com/2026/09/14/z-ai-completes-around-us5-billion-financing-for-next-generation-glm-models": {
+      "date": "2026-09-17",
+      "title": "2ヶ月で2度目、合計90億ドル超——中国のGLM開発元Z.aiが約50億ドルを追加調達",
+      "topic_key": "zai-5b-financing-glm-foundation-models"
+    },
+    "https://fortune.com/2026/09/16/openai-ipo-sam-altman-vc-funding-valuation-1-2-trillion": {
+      "date": "2026-09-17",
+      "title": "「減速を訴えた数日後に評価額1.2兆ドル」——OpenAI、IPOを避けつつ新規調達を画策",
+      "topic_key": "openai-1.2t-valuation-funding-talks-ipo-delay"
+    },
+    "https://cellcog.ai/blog/grok-bot-galaxy": {
+      "date": "2026-09-17",
+      "title": "「会社名すら決まっていない」——xAI、Grok Botだけで72時間の会社設立をライブ配信",
+      "topic_key": "xai-grok-bot-galaxy-72hr-startup-build"
     }
   }
 }
