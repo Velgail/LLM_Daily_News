@@ -1,6 +1,41 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers": {
+      "date": "2026-09-19",
+      "title": "ChatGPTの生みの親が放った\"文章を書かないLLM\"——「Jev」が開発者を熱狂させる理由",
+      "topic_key": "typesafe-jev-probabilistic-model-launch"
+    },
+    "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai": {
+      "date": "2026-09-19",
+      "title": "72時間でOpenAIの内部コードベースへ——白帽ハッカー3人組、武器はAnthropicの「Claude Opus 5」",
+      "topic_key": "hacktron-claude-openai-hack-security-research"
+    },
+    "https://venturebeat.com/security/openai-hacked-by-small-team-of-white-hat-security-researchers-using-anthropics-claude-opus-5": {
+      "date": "2026-09-19",
+      "title": "72時間でOpenAIの内部コードベースへ——白帽ハッカー3人組、武器はAnthropicの「Claude Opus 5」（経緯ブロック補助リファレンス）",
+      "topic_key": "hacktron-claude-openai-hack-security-research"
+    },
+    "https://www.cnbc.com/2026/09/18/anthropic-quietly-sets-up-biology-lab-as-it-ramps-ai-drug-program-report.html": {
+      "date": "2026-09-19",
+      "title": "Claudeがフラスコを振る日は近い?——Anthropic、ひそかに\"生物学の実験室\"を開設",
+      "topic_key": "anthropic-biology-wet-lab-bay-area"
+    },
+    "https://www.usnews.com/news/business/articles/2026-09-17/anthropic-says-its-model-claude-is-helping-to-build-the-next-version-of-itself": {
+      "date": "2026-09-19",
+      "title": "次世代Claudeを作っているのは、今のClaude自身——Anthropicが明かす研究開発の\"26%\"",
+      "topic_key": "anthropic-claude-rd-leads-26-percent-transparency"
+    },
+    "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate": {
+      "date": "2026-09-19",
+      "title": "Google DeepMind、AGI論争を\"広げる\"ための新シンクタンクを設立",
+      "topic_key": "google-deepmind-institute-agi-debate-launch"
+    },
+    "https://www.theregister.com/ai-and-ml/2026/09/16/openais-new-sponsored-agents-are-happy-to-chat-about-selling-you-things/5296946": {
+      "date": "2026-09-19",
+      "title": "ChatGPTがあなたと会話しながら\"売り込んでくる\"——OpenAI、「Sponsored Agents」を試験導入",
+      "topic_key": "openai-chatgpt-sponsored-agents-pilot"
+    },
     "https://www.npr.org/2026/09/17/nx-s1-5968741/amid-growing-ai-fears-king-charles-meets-with-industry-leaders-in-scotland": {
       "date": "2026-09-18",
       "title": "チャールズ国王がAI大手トップを\"呼び出し\"——スコットランド極秘会合で語られた「実存的危険」",
