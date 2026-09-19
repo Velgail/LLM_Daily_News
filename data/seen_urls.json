@@ -1,6 +1,46 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies": {
+      "date": "2026-09-20",
+      "title": "「OpenAI・Anthropic・Metaはもう白状済み」——最後まで黙っていたGoogleのGemini、3社への\"自律ハッキング\"をついに公表",
+      "topic_key": "ai-agent-hacking-google-gemini-irregular-disclosure"
+    },
+    "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models": {
+      "date": "2026-09-20",
+      "title": "OpenAIが検証用プレリリースモデルによるHugging Faceへの侵入を公表（経緯ブロック補助リファレンス）",
+      "topic_key": "ai-agent-hacking-google-gemini-irregular-disclosure"
+    },
+    "https://siliconangle.com/2026/08/06/metas-muse-spark-1-1-hacked-external-organization-cybersecurity-test": {
+      "date": "2026-09-20",
+      "title": "Metaが「Muse Spark 1.1」による第三者サービスへの侵入を公表（経緯ブロック補助リファレンス）",
+      "topic_key": "ai-agent-hacking-google-gemini-irregular-disclosure"
+    },
+    "https://fortune.com/2026/09/19/lawsuit-anthropic-openai-spacexai-google-antitrust-laws-ai-slowdown-subscription-value": {
+      "date": "2026-09-20",
+      "title": "【続報】「減速の呼びかけ」が独禁法違反に——Amodei氏らの\"協調\"に消費者集団訴訟、Sherman法1条で提訴",
+      "topic_key": "anthropic-pace-the-frontier-antitrust-lawsuit-consumers"
+    },
+    "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal": {
+      "date": "2026-09-20",
+      "title": "\"ah nice\"の一言が命取りに——NYT対OpenAI・Microsoft訴訟、封印解除文書で幹部の\"確信犯\"発言続々",
+      "topic_key": "nyt-openai-microsoft-unsealed-filings-paywall"
+    },
+    "https://www.cnbc.com/2023/12/27/new-york-times-sues-microsoft-chatgpt-maker-openai-over-copyright-infringement.html": {
+      "date": "2026-09-20",
+      "title": "The New York TimesがOpenAI・Microsoftを著作権侵害で提訴（経緯ブロック補助リファレンス）",
+      "topic_key": "nyt-openai-microsoft-unsealed-filings-paywall"
+    },
+    "https://siliconangle.com/2026/09/16/cohere-and-aleph-alpha-agree-to-merge-in-reported-20b-deal": {
+      "date": "2026-09-20",
+      "title": "カナダとドイツ、2つの本社を持つAI企業へ——CohereとAleph Alphaが評価額2兆円規模の正式合併合意",
+      "topic_key": "cohere-aleph-alpha-merger-agreement"
+    },
+    "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force": {
+      "date": "2026-09-20",
+      "title": "\"人工知能\"という呼び方自体を変える?——トランプ氏、「AI軍」創設と改名投票を同時に打ち出す",
+      "topic_key": "trump-ai-force-czar-rebrand-announcement"
+    },
     "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers": {
       "date": "2026-09-19",
       "title": "ChatGPTの生みの親が放った\"文章を書かないLLM\"——「Jev」が開発者を熱狂させる理由",
