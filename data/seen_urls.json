@@ -1,6 +1,26 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://xenospectrum.com/en/xai-grok-4-7-pricing-copilot": {
+      "date": "2026-09-22",
+      "title": "Copilotに即日搭載——xAI「Grok 4.7」正式リリース、2.1兆パラメータでコーディング特化",
+      "topic_key": "xai-grok-4.7-release-github-copilot-launch"
+    },
+    "https://analyticsindiamag.com/ai-news/anthropic-weighs-new-ai-model-as-openais-gpt-6-astra-gains-ground": {
+      "date": "2026-09-22",
+      "title": "「減速を訴えた9日後に」——Anthropic、GPT-6 Astra対抗の新モデル投入を検討",
+      "topic_key": "anthropic-weighs-new-model-counter-gpt6-astra-ipo"
+    },
+    "https://technode.com/2026/09/21/alibabas-qwen-open-sources-qwen-image-2-1-for-unified-image-generation-and-editing": {
+      "date": "2026-09-22",
+      "title": "透過画像も10枚参照編集も1モデルで——Alibaba、7BパラメータのQwen-Image-2.1をオープンソース化",
+      "topic_key": "qwen-image-2.1-open-source-release"
+    },
+    "https://www.unite.ai/xai-releases-grok-voice-transcribe-2-0-speech-to-text-model": {
+      "date": "2026-09-22",
+      "title": "精度2倍で価格据え置き——xAI、音声認識モデル「Grok Voice Transcribe 2.0」を投入",
+      "topic_key": "grok-voice-transcribe-2.0-release"
+    },
     "https://easternherald.com/2026/09/20/plugin4shell-ai-coding-agents-supply-chain-vulnerability": {
       "date": "2026-09-21",
       "title": "ゼロクリックRCE「Plugin4Shell」、Claude Code・Codex・Copilot・Gemini CLIを串刺しに",
