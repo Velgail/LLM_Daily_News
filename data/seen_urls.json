@@ -3425,6 +3425,36 @@
       "date": "2026-09-17",
       "title": "「会社名すら決まっていない」——xAI、Grok Botだけで72時間の会社設立をライブ配信",
       "topic_key": "xai-grok-bot-galaxy-72hr-startup-build"
+    },
+    "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/": {
+      "date": "2026-09-23",
+      "title": "Opus 5.5発表から数時間後にGPT-6 Sol/Lunaで反撃——Anthropic対OpenAI、同日の値下げ合戦",
+      "topic_key": "anthropic-opus-5.5-openai-gpt6-sol-luna-price-war"
+    },
+    "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/": {
+      "date": "2026-09-23",
+      "title": "OpenAI launches GPT-6 Sol and Luna（経緯ブロック補助リファレンス）",
+      "topic_key": "anthropic-opus-5.5-openai-gpt6-sol-luna-price-war"
+    },
+    "https://dev.to/klukyanov/yandex-open-sourced-an-80b-model-trained-from-scratch-whats-inside-and-where-it-wins-3c3g": {
+      "date": "2026-09-23",
+      "title": "QwenもLlamaも使わずゼロから——Yandexが80B/アクティブ3BのMoE基盤モデルをApache 2.0で公開",
+      "topic_key": "yandex-aliceai-foundation-80b-open-source-release"
+    },
+    "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/": {
+      "date": "2026-09-23",
+      "title": "【続報】Anthropicの計算資源契約に「撤退条項」——Nscaleの上場申請書が明かした4.46兆円契約の実態",
+      "topic_key": "anthropic-nscale-45b-compute-deal-ipo-filing-walkaway-clause"
+    },
+    "https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html": {
+      "date": "2026-09-23",
+      "title": "AI cloud provider Nscale files to go public（経緯ブロック補助リファレンス）",
+      "topic_key": "anthropic-nscale-45b-compute-deal-ipo-filing-walkaway-clause"
+    },
+    "https://www.nprillinois.org/illinois/2026-09-22/pritzker-establishes-ai-cabinet-amid-calls-for-greater-regulation": {
+      "date": "2026-09-23",
+      "title": "AIに「内閣」を——イリノイ州が全米で州レベル初のAI安全対策専門委員会を設置",
+      "topic_key": "illinois-ai-cabinet-pritzker-executive-order"
     }
   }
 }
