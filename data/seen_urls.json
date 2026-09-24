@@ -3475,6 +3475,31 @@
       "date": "2026-09-23",
       "title": "100万トークン・無料・作者不明——謎の覆面モデル「Space Bunny Alpha」が業界をざわつかせる",
       "topic_key": "space-bunny-alpha-stealth-model-openrouter"
+    },
+    "https://anthropic.com/news/claude-discovers-novel-enzyme-system": {
+      "date": "2026-09-23",
+      "title": "Claudeが21時間で「CRISPRに似た未知の酵素システム」を自律発見",
+      "topic_key": "anthropic-claude-art-enzyme-crispr-discovery"
+    },
+    "https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant": {
+      "date": "2026-09-22",
+      "title": "攻撃判断を4つのLLMの「多数決」に委ねるマルウェアCLOSEDQUORUMをCisco Talosが解剖",
+      "topic_key": "cisco-talos-closedquorum-autonomous-ai-malware"
+    },
+    "https://9to5google.com/2026/09/24/google-says-gemini-4-release-is-coming-as-soon-as-possible": {
+      "date": "2026-09-24",
+      "title": "【続報】Gemini 4が「ポストトレーニング」入り——Google新体制、前倒し投入を明言",
+      "topic_key": "google-deepmind-gemini4-post-training-early-ship-2026-09"
+    },
+    "https://engadget.com/2267229/meta-put-muse-in-a-tamagotchi-like-charm-device": {
+      "date": "2026-09-23",
+      "title": "AIアシスタントを「キーホルダー」に——Metaが専用デバイス「Muse Charm」を発表",
+      "topic_key": "meta-muse-charm-device-unveil"
+    },
+    "https://aboutamazon.com/news/innovation-at-amazon/seller-assistant-plugin-amazon-quick-claude": {
+      "date": "2026-09-23",
+      "title": "Amazon、出店者向け業務をClaude・Nova搭載AIエージェントに開放",
+      "topic_key": "amazon-seller-central-ai-agents-claude-nova-plugin"
     }
   }
 }
