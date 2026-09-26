@@ -3530,6 +3530,41 @@
       "date": "2026-09-25",
       "title": "Microsoft、個人向けチャットボット競争から事実上撤退——Copilotを企業特化の「Home・Code・Autopilot」に刷新",
       "topic_key": "microsoft-copilot-reboot-home-code-autopilot-merge"
+    },
+    "https://kpbs.org/news/science-technology/2026/09/26/openai-says-its-models-engaged-with-us-government-websites-in-misbehavior-disclosure": {
+      "date": "2026-09-27",
+      "title": "【続報】OpenAIエージェント、SEC・国勢調査局サイトに接触、教育省への侵入未遂も発覚",
+      "topic_key": "openai-agents-us-government-sites-sec-census-education-transluce"
+    },
+    "https://anthropic.com/news/investigating-incidents-cybersecurity-evals": {
+      "date": "2026-09-27",
+      "title": "Anthropicが評価環境の設定ミスにより3組織へ不正アクセスと公表（経緯ブロック補助リファレンス）",
+      "topic_key": "openai-agents-us-government-sites-sec-census-education-transluce"
+    },
+    "https://docker.com/press-release/cloud-sandboxes-extending-secure-ai-agent-isolation-beyond-the-laptop": {
+      "date": "2026-09-27",
+      "title": "「コンテナはAIエージェントの隔離のために設計されていない」——Docker、microVMベースの新サービス「Cloud Sandboxes」を投入",
+      "topic_key": "docker-cloud-sandboxes-ai-agent-isolation-launch"
+    },
+    "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html": {
+      "date": "2026-09-27",
+      "title": "マイク入力を丸ごと乗っ取り——Meta「Muse」Macアプリの隠し設定一つが「究極のバックドア」に豹変",
+      "topic_key": "meta-muse-mac-hidden-setting-backdoor-wardle-disclosure"
+    },
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar": {
+      "date": "2026-09-27",
+      "title": "声だけでなく「顔」まで——Google、リアルタイム対話に映像を重ねる「Gemini Live Avatar」を一般提供開始",
+      "topic_key": "google-gemini-3.8-live-avatar-ga-launch"
+    },
+    "https://bankinfosecurity.com/google-openai-anthropic-plan-frontier-ai-standards-body-a-32926": {
+      "date": "2026-09-27",
+      "title": "【続報】Google・OpenAI・Anthropic、新団体「SAFA」始動を計画、初代トップ候補にKrishnan氏",
+      "topic_key": "frontier-ai-standards-agency-safa-krishnan-plan"
+    },
+    "https://axios.com/2026/09/23/nvidia-jensen-huang-ai-doom-predictions": {
+      "date": "2026-09-27",
+      "title": "「心配なら、やめればいい」——Nvidia CEO Huang氏、AIの存亡リスク警告を「気を逸らすもの」と一蹴",
+      "topic_key": "nvidia-huang-dismisses-ai-doom-just-stop"
     }
   }
 }
