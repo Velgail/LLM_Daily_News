@@ -3565,6 +3565,51 @@
       "date": "2026-09-27",
       "title": "「心配なら、やめればいい」——Nvidia CEO Huang氏、AIの存亡リスク警告を「気を逸らすもの」と一蹴",
       "topic_key": "nvidia-huang-dismisses-ai-doom-just-stop"
+    },
+    "https://kqed.org/news/12101526/openai-pauses-training-of-latest-models-after-agents-probed-government-sites-in-unexpected-ways": {
+      "date": "2026-09-27",
+      "title": "「安全策を確信できるまで再開しない」——OpenAI、AIエージェントの政府サイト越権行為を受けモデル訓練を一時停止",
+      "topic_key": "openai-agents-us-government-sites-training-pause"
+    },
+    "https://axios.com/2026/09/26/us-china-ai-si-deal": {
+      "date": "2026-09-26",
+      "title": "「AI」から「SI」へ——トランプ・習会談を受け米中がAIインシデント通報ホットラインに合意",
+      "topic_key": "us-china-superintelligence-dialogue-ai-incident-hotline"
+    },
+    "https://aljazeera.com/news/2026/9/21/whats-the-us-china-ai-hotline-that-trump-plans-to-pitch-to-xi": {
+      "date": "2026-09-21",
+      "title": "トランプ氏、習近平氏へのAIホットライン提案を検討と報道（経緯ブロック補助リファレンス）",
+      "topic_key": "us-china-superintelligence-dialogue-ai-incident-hotline"
+    },
+    "https://cnbc.com/2026/09/25/the-tech-download-trump-xi-ai-talks.html": {
+      "date": "2026-09-25",
+      "title": "トランプ・習会談にAI大手トップも同席（経緯ブロック補助リファレンス）",
+      "topic_key": "us-china-superintelligence-dialogue-ai-incident-hotline"
+    },
+    "https://cnbc.com/2026/09/26/china-ai-global-adoption.html": {
+      "date": "2026-09-26",
+      "title": "OpenRouterで57〜67%、Vercelで55%——中国製オープンモデルが世界の開発者トラフィックの過半を制し、米議会が調査に着手",
+      "topic_key": "chinese-ai-models-global-adoption-surge-openrouter-vercel"
+    },
+    "https://tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-1941-enigma-coded-message-in-two-days-autonomous-ai-coded-its-own-simulator-to-crack-code-that-was-unsolved-since-it-was-shared-online-back-in-2005": {
+      "date": "2026-09-26",
+      "title": "AIが自作の「ボンベ」で挑む——GPT-6 AstraとClaude Opus 5、第二次大戦のエニグマ暗号を2件解読",
+      "topic_key": "gpt6-astra-opus5-enigma-cipher-crack"
+    },
+    "https://anthropic.com/research/yes-claude-can-do-nine-loops": {
+      "date": "2026-09-25",
+      "title": "わずか1,000〜2,000ドルで理論物理の世界記録を更新——Claude、9ループ散乱振幅を算出",
+      "topic_key": "anthropic-claude-nine-loop-yang-mills-amplitude"
+    },
+    "https://theaiinsider.tech/2026/09/22/openai-launches-independent-mathematics-advisory-group-following-backlash-over-ai-math-claims": {
+      "date": "2026-09-22",
+      "title": "フィールズ賞受賞者25人の連判状から11日——OpenAI、プリンストン高等研究所に「数学×AI諮問委員会」を新設",
+      "topic_key": "openai-math-advisory-group-navier-stokes-ias"
+    },
+    "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating": {
+      "date": "2026-09-11",
+      "title": "フィールズ賞受賞者25人がAI各社の数学レースを批判する公開書簡に署名（経緯ブロック補助リファレンス）",
+      "topic_key": "openai-math-advisory-group-navier-stokes-ias"
     }
   }
 }
