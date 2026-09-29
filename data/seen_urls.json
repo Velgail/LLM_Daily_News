@@ -3630,6 +3630,46 @@
       "date": "2026-09-11",
       "title": "フィールズ賞受賞者25人がAI各社の数学レースを批判する公開書簡に署名（経緯ブロック補助リファレンス）",
       "topic_key": "openai-math-advisory-group-navier-stokes-ias"
+    },
+    "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less": {
+      "date": "2026-09-30",
+      "title": "旗艦の9割の実力を5分の1の価格で——OpenAI、「GPT-6.1 Sol」を投入",
+      "topic_key": "gpt-6.1-sol-release"
+    },
+    "https://thenextweb.com/news/openai-dots-always-on-ai-agents-cloud-computers-devday": {
+      "date": "2026-09-30",
+      "title": "「ChatGPTの中に、24時間働く同僚」——OpenAI、常時稼働エージェント「dots」を発表",
+      "topic_key": "openai-dots-always-on-agents-devday"
+    },
+    "https://www.usnews.com/news/business/articles/2026-09-28/openai-delays-latest-model-over-security-concerns-as-industry-faces-new-safety-pressures": {
+      "date": "2026-09-30",
+      "title": "【続報】DevDayの裏で「GPT-6.1 Astra」は棚上げ——OpenAI、\"スコープ遵守\"が基準未達として出荷見送り",
+      "topic_key": "openai-gpt-6.1-astra-held-back-scope-authorization"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-28/openai-scrapped-latest-model-release-over-safety-fears-wsj-says": {
+      "date": "2026-09-30",
+      "title": "OpenAI Scrapped Latest Model Release Over Safety Fears（経緯ブロック補助リファレンス）",
+      "topic_key": "openai-gpt-6.1-astra-held-back-scope-authorization"
+    },
+    "https://bloomberg.com/news/newsletters/2026-09-29/openai-holds-version-of-ai-model": {
+      "date": "2026-09-30",
+      "title": "OpenAI Holds Version of AI Model（経緯ブロック補助リファレンス）",
+      "topic_key": "openai-gpt-6.1-astra-held-back-scope-authorization"
+    },
+    "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion": {
+      "date": "2026-09-30",
+      "title": "約1.2兆円で「世界モデル」を丸ごと——AMD、Fei-Fei Li氏のWorld Labsを82億ドルで買収",
+      "topic_key": "amd-world-labs-acquisition-8.2b"
+    },
+    "https://openai.com/index/devday-2026-recap": {
+      "date": "2026-09-30",
+      "title": "【続報】DevDayで「GPT-6 Cyber」と防御向けの「Codex Security Cloud」が具体化",
+      "topic_key": "openai-gpt-6-cyber-codex-security-cloud-devday-launch"
+    },
+    "https://oodaloop.com/briefs/technology/openai-unveils-gpt-6-dedicated-cyber-model-and-new-security-platform-at-devday": {
+      "date": "2026-09-30",
+      "title": "OpenAI Unveils GPT-6, Dedicated Cyber Model, and New Security Platform at DevDay（経緯ブロック補助リファレンス）",
+      "topic_key": "openai-gpt-6-cyber-codex-security-cloud-devday-launch"
     }
   }
 }
