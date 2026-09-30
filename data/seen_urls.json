@@ -3670,6 +3670,36 @@
       "date": "2026-09-30",
       "title": "OpenAI Unveils GPT-6, Dedicated Cyber Model, and New Security Platform at DevDay（経緯ブロック補助リファレンス）",
       "topic_key": "openai-gpt-6-cyber-codex-security-cloud-devday-launch"
+    },
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon": {
+      "date": "2026-10-01",
+      "title": "Google、「Gemini 4 Argon」を発表——出力100万トークン、まずは防御側限定",
+      "topic_key": "gemini-4-argon-release-fairwind-limited"
+    },
+    "https://9to5google.com/2026/09/30/gemini-4-argon-announcement": {
+      "date": "2026-10-01",
+      "title": "Gemini 4 Argon発表（補助）",
+      "topic_key": "gemini-4-argon-release-fairwind-limited"
+    },
+    "https://venturebeat.com/technology/google-unveils-gemini-4-argon-retaking-benchmark-lead-over-openai-and-anthropic-but-in-limited-release": {
+      "date": "2026-10-01",
+      "title": "Gemini 4 Argon、ベンチマーク首位奪還も限定リリース（補助）",
+      "topic_key": "gemini-4-argon-release-fairwind-limited"
+    },
+    "https://the-decoder.com/anthropic-says-zhipus-open-weight-glm-5-3-nearly-matches-claude-mythos-preview-at-building-exploits": {
+      "date": "2026-10-01",
+      "title": "【続報】AnthropicがGLM-5.3を検証——Mythosに迫るエクスプロイト能力",
+      "topic_key": "anthropic-glm-5.3-cyber-capabilities-analysis"
+    },
+    "https://anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities": {
+      "date": "2026-10-01",
+      "title": "GLM-5.3 and the spread of advanced cyber capabilities（経緯ブロック補助リファレンス）",
+      "topic_key": "anthropic-glm-5.3-cyber-capabilities-analysis"
+    },
+    "https://bnnbloomberg.ca/business/artificial-intelligence/2026/09/30/ftc-opens-probe-into-ai-giants-including-anthropic-and-openai": {
+      "date": "2026-10-01",
+      "title": "米FTC、OpenAI・Anthropic等への業界横断調査に着手（暴走エージェント）",
+      "topic_key": "ftc-probe-ai-labs-rogue-agents-2026-09"
     }
   }
 }
