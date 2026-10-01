@@ -3700,6 +3700,26 @@
       "date": "2026-10-01",
       "title": "米FTC、OpenAI・Anthropic等への業界横断調査に着手（暴走エージェント）",
       "topic_key": "ftc-probe-ai-labs-rogue-agents-2026-09"
+    },
+    "https://www.marktechpost.com/2026/09/30/perplexity-releases-pplx-embed-v2-context-9b-preview-a-contextual-embedding-model-that-retrieves-answers-and-their-supporting-evidence": {
+      "date": "2026-10-02",
+      "title": "Perplexity、9B文脈付き埋め込みモデル「pplx-embed-v2-context」をMIT公開",
+      "topic_key": "perplexity-pplx-embed-v2-context-9b-release"
+    },
+    "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you": {
+      "date": "2026-10-02",
+      "title": "ChatGPTに仮想試着とFavorites、Images 2.5を活用",
+      "topic_key": "chatgpt-virtual-try-on-favorites-launch"
+    },
+    "https://thenextweb.com/news/abc-sbs-ai-news-anthropic-opt-out": {
+      "date": "2026-10-02",
+      "title": "豪議会でAnthropicのオプトアウト案にABC・SBSが反論",
+      "topic_key": "anthropic-australia-copyright-optout-abc-sbs"
+    },
+    "https://cryptobriefing.com/softbank-closes-final-openai-tranche": {
+      "date": "2026-10-02",
+      "title": "SoftBank、OpenAIへの最終100億ドル出資を完了",
+      "topic_key": "softbank-openai-final-tranche-64.6b"
     }
   }
 }
