@@ -3720,6 +3720,31 @@
       "date": "2026-10-02",
       "title": "SoftBank、OpenAIへの最終100億ドル出資を完了",
       "topic_key": "softbank-openai-final-tranche-64.6b"
+    },
+    "https://thenewstack.io/anthropic-claude-code-mods-plugins": {
+      "date": "2026-10-03",
+      "title": "Claude Codeに「Mods」——プラグインがUIもtool callも書き換え可能に",
+      "topic_key": "claude-code-2.1.287-mods"
+    },
+    "https://marktechpost.com/2026/10/01/aws-strands-labs-releases-strands-decider-2b": {
+      "date": "2026-10-03",
+      "title": "AWS「Strands Decider 2B」——選択専用の2B決定モデルをApache 2.0で公開",
+      "topic_key": "aws-strands-decider-2b-release"
+    },
+    "https://freepressjournal.in/tech/pewdiepie-says-openai-banned-him-twice-while-he-built-ajax-a-local-ai-model": {
+      "date": "2026-10-03",
+      "title": "PewDiePieが9Bローカルエージェント「Ajax」を公開へ、OpenAIに2度BAN",
+      "topic_key": "pewdiepie-ajax-9b-openai-ban"
+    },
+    "https://cryptobriefing.com/tavus-griffin-video-turing-test": {
+      "date": "2026-10-03",
+      "title": "Tavus「Griffin」、動画版チューリングテストで48%が人間と判断",
+      "topic_key": "tavus-griffin-video-turing-test"
+    },
+    "https://www.yahoo.com/news/us/articles/openai-parts-ways-3-researchers-171300560.html": {
+      "date": "2026-10-03",
+      "title": "OpenAI、安全チーム研究者3人を解雇",
+      "topic_key": "openai-fires-three-safety-researchers"
     }
   }
 }
