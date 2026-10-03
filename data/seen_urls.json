@@ -3745,6 +3745,31 @@
       "date": "2026-10-03",
       "title": "OpenAI、安全チーム研究者3人を解雇",
       "topic_key": "openai-fires-three-safety-researchers"
+    },
+    "https://siliconangle.com/2026/10/01/microsoft-targets-ultra-realistic-voice-agents-with-its-first-streaming-transcription-model": {
+      "date": "2026-10-04",
+      "title": "「聞く・考える・話す」が1本でそろう——MicrosoftがMAI-Transcribe-2-Streamingと音声合成2種を公開",
+      "topic_key": "mai-transcribe-2-streaming-voice-2.1-release"
+    },
+    "https://allenai.org/blog/astabrief": {
+      "date": "2026-10-04",
+      "title": "論文要約を「3分→51秒」に——Ai2が8B「AstaBrief」を公開",
+      "topic_key": "ai2-astabrief-8b-release"
+    },
+    "https://the-decoder.com/ai-beats-licensed-accountants-on-speed-and-accuracy-but-still-cant-close-the-books-without-supervision": {
+      "date": "2026-10-04",
+      "title": "AIは新人会計士を超えたのか——Mercor人間ベースライン調査",
+      "topic_key": "mercor-human-baseline-accounting-close-study"
+    },
+    "https://mercor.com/blog/human-baselines-for-benchmarks-ai-now-outperforms-junior-accountants": {
+      "date": "2026-10-04",
+      "title": "AIは新人会計士を超えたのか——Mercor人間ベースライン調査",
+      "topic_key": "mercor-human-baseline-accounting-close-study"
+    },
+    "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget": {
+      "date": "2026-10-04",
+      "title": "自作ガジェットにMuseを——Meta Muse Gadgets",
+      "topic_key": "meta-muse-gadgets-open-source-sdk"
     }
   }
 }
