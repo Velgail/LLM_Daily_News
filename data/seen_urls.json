@@ -3770,6 +3770,46 @@
       "date": "2026-10-04",
       "title": "自作ガジェットにMuseを——Meta Muse Gadgets",
       "topic_key": "meta-muse-gadgets-open-source-sdk"
+    },
+    "https://horizon3.ai/attack-research/disclosures/anthropic-mythos-rejetto-hfs-rce": {
+      "date": "2026-10-05",
+      "title": "Mythosが「Math.random()の罠」を見抜いた——HFSの認証バイパスからRCEまで",
+      "topic_key": "mythos-rejetto-hfs-cve-2026-61500"
+    },
+    "https://theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933": {
+      "date": "2026-10-05",
+      "title": "Mythosが「Math.random()の罠」を見抜いた——HFSの認証バイパスからRCEまで",
+      "topic_key": "mythos-rejetto-hfs-cve-2026-61500"
+    },
+    "https://marktechpost.com/2026/10/01/cloudflare-releases-clef-and-clef-flash": {
+      "date": "2026-10-05",
+      "title": "Cloudflare、意思決定モデル「Clef」をApache 2.0で公開",
+      "topic_key": "cloudflare-clef-decision-models-release"
+    },
+    "https://datanorth.ai/news/cloudflare-releases-clef-and-clef-flash": {
+      "date": "2026-10-05",
+      "title": "Cloudflare、意思決定モデル「Clef」をApache 2.0で公開",
+      "topic_key": "cloudflare-clef-decision-models-release"
+    },
+    "https://huggingface.co/indexteam/index-translate-35b-a3b-preview": {
+      "date": "2026-10-05",
+      "title": "Bilibili、MoE翻訳モデル「Index-Translate-35B-A3B」プレビュー公開",
+      "topic_key": "bilibili-index-translate-35b-a3b-preview"
+    },
+    "https://github.com/bilibili/index-translate": {
+      "date": "2026-10-05",
+      "title": "Bilibili、MoE翻訳モデル「Index-Translate-35B-A3B」プレビュー公開",
+      "topic_key": "bilibili-index-translate-35b-a3b-preview"
+    },
+    "https://pandaily.com/bilibili-index-translate-open-source-qwen3-5-150-languages": {
+      "date": "2026-10-05",
+      "title": "Bilibili、MoE翻訳モデル「Index-Translate-35B-A3B」プレビュー公開",
+      "topic_key": "bilibili-index-translate-35b-a3b-preview"
+    },
+    "https://research.meta.ai/blog/solving-open-research-problems-together": {
+      "date": "2026-10-05",
+      "title": "数学者×Muse Spark——Meta、未解決問題に挑んだ論文6本を公開",
+      "topic_key": "meta-muse-spark-math-open-problems-papers"
     }
   }
 }
