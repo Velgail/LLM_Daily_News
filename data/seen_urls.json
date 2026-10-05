@@ -3810,6 +3810,41 @@
       "date": "2026-10-05",
       "title": "数学者×Muse Spark——Meta、未解決問題に挑んだ論文6本を公開",
       "topic_key": "meta-muse-spark-math-open-problems-papers"
+    },
+    "https://reflection.ai/blog/introducing-beam": {
+      "date": "2026-10-06",
+      "title": "Reflection AI、501BのMoE「Beam」を発表",
+      "topic_key": "reflection-beam-501b-open-weight-announcement"
+    },
+    "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost": {
+      "date": "2026-10-06",
+      "title": "Reflection Beam（補助）",
+      "topic_key": "reflection-beam-501b-open-weight-announcement"
+    },
+    "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu": {
+      "date": "2026-10-06",
+      "title": "OpenAI、EUのChatGPT／Codex出力へ「textGrain」透かしを導入",
+      "topic_key": "openai-textgrain-eu-text-watermark"
+    },
+    "https://openai.com/index/eu-text-provenance": {
+      "date": "2026-10-06",
+      "title": "OpenAI EU text provenance（補助）",
+      "topic_key": "openai-textgrain-eu-text-watermark"
+    },
+    "https://runtimewire.com/article/openai-synopsys-gpt-synopsys-chip-design": {
+      "date": "2026-10-06",
+      "title": "OpenAIとSynopsys、「GPT-Synopsys」を共同開発へ",
+      "topic_key": "openai-synopsys-gpt-synopsys-announcement"
+    },
+    "https://runtimewire.com/article/pentagon-stops-anthropic-claude-use-maven-phaseout": {
+      "date": "2026-10-06",
+      "title": "【続報】国防総省、Claudeの6か月フェーズアウト完了をBBCに回答",
+      "topic_key": "pentagon-anthropic-claude-phaseout-complete-bbc"
+    },
+    "https://prod.cm.bloomberg.com/news/articles/2026-02-27/trump-orders-us-government-to-drop-anthropic-after-pentagon-feud": {
+      "date": "2026-10-06",
+      "title": "US Bars Anthropic Products From Agencies（経緯ブロック補助リファレンス）",
+      "topic_key": "pentagon-anthropic-claude-phaseout-complete-bbc"
     }
   }
 }
