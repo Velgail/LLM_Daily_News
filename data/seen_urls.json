@@ -3845,6 +3845,26 @@
       "date": "2026-10-06",
       "title": "US Bars Anthropic Products From Agencies（経緯ブロック補助リファレンス）",
       "topic_key": "pentagon-anthropic-claude-phaseout-complete-bbc"
+    },
+    "https://mistral.ai/news/mistral-large-4": {
+      "date": "2026-10-07",
+      "title": "Mistral Large 4 プレビュー公開",
+      "topic_key": "mistral-large-4-preview-release"
+    },
+    "https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money": {
+      "date": "2026-10-07",
+      "title": "Google Nano Banana 2.1 GA",
+      "topic_key": "nano-banana-2.1-release"
+    },
+    "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2": {
+      "date": "2026-10-07",
+      "title": "EmbeddingGemma 2 公開",
+      "topic_key": "embeddinggemma-2-release"
+    },
+    "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation": {
+      "date": "2026-10-07",
+      "title": "Musubi PolicyLM-1.7B 公開",
+      "topic_key": "musubi-policylm-1.7b-release"
     }
   }
 }
