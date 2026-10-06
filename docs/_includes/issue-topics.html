@@ -1,0 +1,29 @@
+{%- comment -%}
+  ニュース節内の、Kramdown が出力した H3 と実際の id を使う。
+  考察に番号付き小見出しがあっても掲載ニュースには含めない。
+  Markdown から別の id を推測しないため、日本語・記号・同名見出しにも対応する。
+  strip_html 後も HTML エンティティは残るので、表示テキストを二重に escape しない。
+{%- endcomment -%}
+{%- assign sections = include.post.content | split: '<h2' -%}
+{%- for section in sections offset: 1 -%}
+  {%- assign section_html = section | split: '</h2>' | first | prepend: '<h2' -%}
+  {%- assign section_title = section_html | strip_html | normalize_whitespace | strip -%}
+  {%- if section_title contains '📰' and section_title contains 'ニュース' -%}
+    {%- assign headings = section | split: '<h3' -%}
+    {%- for heading in headings offset: 1 -%}
+      {%- assign opening_tag = heading | split: '>' | first -%}
+      {%- assign heading_html = heading | split: '</h3>' | first | prepend: '<h3' -%}
+      {%- assign heading_text = heading_html | strip_html | normalize_whitespace | strip -%}
+      {%- assign heading_parts = heading_text | split: '. ' -%}
+      {%- assign number_text = heading_parts | first -%}
+      {%- assign number = number_text | plus: 0 -%}
+      {%- assign normalized_number = number | append: '' -%}
+      {%- if opening_tag contains 'id="' and heading_parts.size > 1 and number > 0 and number_text == normalized_number -%}
+        {%- assign anchor = opening_tag | split: 'id="' | last | split: '"' | first -%}
+        {%- assign prefix = number_text | append: '. ' -%}
+        {%- assign topic_title = heading_text | remove_first: prefix -%}
+        <li value="{{ number }}"><a href="{{ include.post.url | relative_url }}#{{ anchor | escape }}">{{ topic_title }}</a></li>
+      {%- endif -%}
+    {%- endfor -%}
+  {%- endif -%}
+{%- endfor -%}
