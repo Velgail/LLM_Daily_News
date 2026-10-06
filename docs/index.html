@@ -3,7 +3,7 @@ layout: default
 title: トップ
 ---
 <section class="home-hero">
-  <h1>本日の見出し</h1>
+  <h1>最新号の見出し</h1>
   <p class="lead">
     LLM・SLM・音声LLM・大規模深層学習モデルの動向を、毎日こたつから速報します。
     本紙はネタとして LLM が自動生成しており、人間による校閲はありません。
@@ -21,11 +21,15 @@ title: トップ
     <div class="issue-date">
       <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y年%-m月%-d日 (%a)" }}</time>
     </div>
-    {% comment %}
-      post.excerpt はデフォルトでは本文先頭の「## 📰 今日のニュース」見出しになってしまい、
-      どの号のカードにも同じ「今日のニュース」が並んで見えるため、
-      本文全体から見出し類を除去した上で先頭付近を抜粋する。
-    {% endcomment %}
+    {% capture issue_topics %}{% include issue-topics.html post=post %}{% endcapture %}
+    {% assign issue_topics = issue_topics | strip %}
+    {% if issue_topics != "" %}
+    <p class="issue-topics-label">掲載ニュース</p>
+    <ol class="issue-topics">
+      {{ issue_topics }}
+    </ol>
+    {% else %}
+    {% comment %}番号付きの見出しがない号では、従来の本文抜粋を表示する。{% endcomment %}
     {% assign excerpt_source = post.content
       | strip_html
       | replace: "📰 今日のニュース", ""
@@ -35,6 +39,8 @@ title: トップ
       | normalize_whitespace
       | strip %}
     <p class="issue-excerpt">{{ excerpt_source | truncate: 180 }}</p>
+    {% endif %}
+    <a class="issue-read" href="{{ post.url | relative_url }}">この号を読む →</a>
   </li>
   {% endfor %}
 </ul>

@@ -214,7 +214,7 @@ a:hover { color: var(--accent-strong); text-decoration: underline; text-underlin
   padding: 0;
   margin: 0;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(420px, 1fr));
   gap: 20px;
 }
 .issue-card {
@@ -272,6 +272,43 @@ a:hover { color: var(--accent-strong); text-decoration: underline; text-underlin
   -webkit-line-clamp: 4;
   -webkit-box-orient: vertical;
   overflow: hidden;
+}
+.issue-topics-label {
+  margin: 0 0 6px;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text-muted);
+}
+.issue-topics {
+  margin: 0 0 18px;
+  padding-left: 1.5em;
+  font-size: 14px;
+  line-height: 1.65;
+}
+.issue-topics li { padding: 4px 0; }
+.issue-topics li::marker {
+  color: var(--accent);
+  font-family: var(--font-mono);
+  font-size: 12px;
+}
+.issue-topics a {
+  display: block;
+  color: var(--text);
+  overflow-wrap: anywhere;
+}
+.issue-topics a:hover { color: var(--accent); }
+.issue-card .issue-read {
+  margin-top: auto;
+  padding-top: 14px;
+  border-top: 1px solid var(--border);
+  font-size: 13px;
+  font-weight: 600;
+}
+.issue-card .issue-excerpt + .issue-read { margin-top: 18px; }
+.issue-card a:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+  border-radius: 2px;
 }
 
 .home-more {
