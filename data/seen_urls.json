@@ -1,6 +1,26 @@
 {
   "_comment": "記事化済みURL台帳。key=正規化済みURL（utm_*等のトラッキング除去・末尾スラッシュ除去・小文字host・https統一）。value はオブジェクト {date, title, topic_key} 形式を推奨（topic_key で意味的重複を検知）。古いエントリは値が日付文字列のみの後方互換形式。詳細は CLAUDE.md 参照。",
   "urls": {
+    "https://thenextweb.com/news/zuckerberg-muse-launch-safety-concerns-nyt": {
+      "date": "2026-10-10",
+      "title": "【続報】NYTが報じるMuse出荷の舞台裏、Metaは反論",
+      "topic_key": "meta-muse-launch-nyt-safety-objections"
+    },
+    "https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier": {
+      "date": "2026-10-10",
+      "title": "中国勢857リリースのうち安全性評価を公開したのは31件——SemiAnalysis",
+      "topic_key": "semianalysis-chinese-labs-safety-disclosure-census"
+    },
+    "https://venturebeat.com/orchestration/google-cloud-unveils-persistent-gemini-agents-for-long-running-tasks-and-they-get-their-own-gmail-calendar-and-drive-storage": {
+      "date": "2026-10-10",
+      "title": "Google Cloud、常駐型Geminiエージェントを発表",
+      "topic_key": "google-gemini-enterprise-persistent-agent-preview"
+    },
+    "https://unite.ai/usa-today-sues-openai-over-copyrighted-news-content-in-ai-training": {
+      "date": "2026-10-10",
+      "title": "USA TODAY社がOpenAIを提訴",
+      "topic_key": "usa-today-co-v-openai-copyright-suit"
+    },
     "https://www.anthropic.com/claude-sonnet-5-5": {
       "date": "2026-09-29",
       "title": "値下げではなく\"速さ\"で殴る——Anthropic、Sonnet系列最新版「Claude Sonnet 5.5」を投入",
