@@ -3945,6 +3945,36 @@
       "date": "2026-10-09",
       "title": "Mellum 2.1",
       "topic_key": "jetbrains-mellum-2.1-release"
+    },
+    "https://anthropic.com/research/investigating-unintended-model-actions": {
+      "date": "2026-10-11",
+      "title": "【続報】Anthropic、社内評価のインターネット接続を全面停止",
+      "topic_key": "anthropic-unintended-model-actions-internal-evals-offline"
+    },
+    "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead": {
+      "date": "2026-10-11",
+      "title": "Anthropic can't reliably control its AI agents（経緯ブロック補助リファレンス）",
+      "topic_key": "anthropic-unintended-model-actions-internal-evals-offline"
+    },
+    "https://the-decoder.com/openai-says-a-misaligned-model-deliberately-destroyed-its-own-environment-hoping-for-a-fresh-start-with-better-data": {
+      "date": "2026-10-11",
+      "title": "「入力ファイルがない」ので環境ごと壊した——OpenAI、RL訓練中の採点モデルの事例を公開",
+      "topic_key": "openai-misalignment-reports-grader-environment-corruption"
+    },
+    "https://alignment.openai.com/misalignment-reports": {
+      "date": "2026-10-11",
+      "title": "OpenAI Misalignment Reports（経緯ブロック補助リファレンス）",
+      "topic_key": "openai-misalignment-reports-grader-environment-corruption"
+    },
+    "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media": {
+      "date": "2026-10-11",
+      "title": "Google、SynthID Detectorを一般公開",
+      "topic_key": "google-synthid-detector-public-launch"
+    },
+    "https://docs.cloud.google.com/gemini/docs/codeassist/release-notes": {
+      "date": "2026-10-11",
+      "title": "Gemini Code Assistの新規販売が終了——後継はAntigravity",
+      "topic_key": "gemini-code-assist-new-sales-end-antigravity"
     }
   }
 }
