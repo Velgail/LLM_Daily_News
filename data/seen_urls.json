@@ -3975,6 +3975,31 @@
       "date": "2026-10-11",
       "title": "Gemini Code Assistの新規販売が終了——後継はAntigravity",
       "topic_key": "gemini-code-assist-new-sales-end-antigravity"
+    },
+    "https://commandline.microsoft.com/microsoft-decision-1-model-foundry": {
+      "date": "2026-10-12",
+      "title": "Microsoft Decision-1 判定専用モデル",
+      "topic_key": "microsoft-decision-1-release"
+    },
+    "https://anthropic.com/news/2026-usage-policy-update": {
+      "date": "2026-10-12",
+      "title": "Anthropic 利用ポリシー改定（11/12発効）",
+      "topic_key": "anthropic-usage-policy-update-2026-11-12"
+    },
+    "https://huggingface.co/papers/2610.11794": {
+      "date": "2026-10-12",
+      "title": "Memento 3 ARC-AGI-3 全25ゲームクリア",
+      "topic_key": "memento-3-arc-agi-3-rulebook-world-model"
+    },
+    "https://huggingface.co/perplexity-ai/pplx-embed-v2-late-9b": {
+      "date": "2026-10-12",
+      "title": "Perplexity pplx-embed-v2-late 公開",
+      "topic_key": "perplexity-pplx-embed-v2-late-release"
+    },
+    "https://aiweekly.co/alerts/perplexity-open-sources-pplx-embed-v2-late-924-on-madqa": {
+      "date": "2026-10-12",
+      "title": "Perplexity pplx-embed-v2-late 公開",
+      "topic_key": "perplexity-pplx-embed-v2-late-release"
     }
   }
 }
