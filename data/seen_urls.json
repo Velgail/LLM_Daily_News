@@ -4000,6 +4000,46 @@
       "date": "2026-10-12",
       "title": "Perplexity pplx-embed-v2-late 公開",
       "topic_key": "perplexity-pplx-embed-v2-late-release"
+    },
+    "https://research.meta.ai/blog/muse-wonder": {
+      "date": "2026-10-13",
+      "title": "Meta Muse Wonder / Wonder Full 公開",
+      "topic_key": "meta-muse-wonder-release"
+    },
+    "https://the-decoder.com/metas-new-frontier-model-muse-wonder-full-breaks-into-the-ai-top-tier": {
+      "date": "2026-10-13",
+      "title": "Meta Muse Wonder Full 独立指標",
+      "topic_key": "meta-muse-wonder-release"
+    },
+    "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed": {
+      "date": "2026-10-13",
+      "title": "AlphaProof Nexus Science掲載",
+      "topic_key": "alphaproof-nexus-science-publication"
+    },
+    "https://arxiv.org/abs/2605.22763": {
+      "date": "2026-10-13",
+      "title": "AlphaProof Nexus プレプリント",
+      "topic_key": "alphaproof-nexus-science-publication"
+    },
+    "https://vals.ai/blogs/multi-agent-vibe-code-bench": {
+      "date": "2026-10-13",
+      "title": "Vals AI: Do Agent Teams Pay Off?",
+      "topic_key": "vals-agent-teams-vibe-code-bench"
+    },
+    "https://the-decoder.com/ai-agent-teams-waste-massive-tokens-for-barely-measurable-quality-gains-research-finds": {
+      "date": "2026-10-13",
+      "title": "エージェントチームのコスト研究",
+      "topic_key": "vals-agent-teams-vibe-code-bench"
+    },
+    "https://pub.sakana.ai/mass": {
+      "date": "2026-10-13",
+      "title": "Sakana AI MASS",
+      "topic_key": "sakana-mass-multi-agent-self-supervision"
+    },
+    "https://the-decoder.com/sakana-ais-self-improving-model-gets-better-at-solving-and-judging-but-cant-catch-its-own-blind-spots": {
+      "date": "2026-10-13",
+      "title": "Sakana AI MASS 解説",
+      "topic_key": "sakana-mass-multi-agent-self-supervision"
     }
   }
 }
