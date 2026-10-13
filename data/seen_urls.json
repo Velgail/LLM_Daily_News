@@ -4040,6 +4040,31 @@
       "date": "2026-10-13",
       "title": "Sakana AI MASS 解説",
       "topic_key": "sakana-mass-multi-agent-self-supervision"
+    },
+    "https://anthropic.com/research/distillation-defenses": {
+      "date": "2026-10-14",
+      "title": "Anthropic、蒸留対策「preserved thinking」と分類器で抜き取り量が10〜100分の1に",
+      "topic_key": "anthropic-distillation-defenses-preserved-thinking"
+    },
+    "https://anthropic.com/research/self-replicating-ai": {
+      "date": "2026-10-14",
+      "title": "Anthropicレッドチーム、小型モデルの自己複製能力を検証",
+      "topic_key": "anthropic-small-model-self-replication-red-team"
+    },
+    "https://thenextweb.com/news/anthropic-openai-ai-evaluators-publication-control": {
+      "date": "2026-10-14",
+      "title": "AnthropicとOpenAI、外部評価者の公表管理を求めたとReuters",
+      "topic_key": "anthropic-openai-evaluator-publication-control-reuters"
+    },
+    "https://blog.cloudflare.com/clef-faster-cheaper-multimodal": {
+      "date": "2026-10-14",
+      "title": "【続報】Cloudflare、音声・動画対応の判定モデル「Clef-omni」",
+      "topic_key": "cloudflare-clef-omni-release"
+    },
+    "https://globenewswire.com/news-release/2026/10/07/3376813/0/en/shengshu-technology-launches-vidu-q4-preview-a-next-generation-ai-video-model-built-for-lifelike-performances.html": {
+      "date": "2026-10-14",
+      "title": "ShengShu、Vidu Q4 Previewを公開",
+      "topic_key": "shengshu-vidu-q4-preview-release"
     }
   }
 }
