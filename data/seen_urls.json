@@ -4065,6 +4065,36 @@
       "date": "2026-10-14",
       "title": "ShengShu、Vidu Q4 Previewを公開",
       "topic_key": "shengshu-vidu-q4-preview-release"
+    },
+    "https://x.ai/news/grok-voice-3": {
+      "date": "2026-10-15",
+      "title": "音声エージェント指標で首位、ただしτ-Voiceでは2位——xAI「Grok Voice 3.0」",
+      "topic_key": "xai-grok-voice-3.0-release"
+    },
+    "https://unite.ai/xai-introduces-grok-voice-3-0-speech-to-speech-model-for-voice-agents": {
+      "date": "2026-10-15",
+      "title": "音声エージェント指標で首位、ただしτ-Voiceでは2位——xAI「Grok Voice 3.0」",
+      "topic_key": "xai-grok-voice-3.0-release"
+    },
+    "https://unite.ai/google-deepmind-and-govtech-unveil-on-device-scam-detection-model": {
+      "date": "2026-10-15",
+      "title": "暗号化チャットの詐欺を端末内で検知——Google DeepMindとシンガポール政府",
+      "topic_key": "google-deepmind-govtech-gemma-ondevice-scam-detection"
+    },
+    "https://deepmind.google/blog/on-device-ai-scam-detection-mddi": {
+      "date": "2026-10-15",
+      "title": "暗号化チャットの詐欺を端末内で検知——Google DeepMindとシンガポール政府",
+      "topic_key": "google-deepmind-govtech-gemma-ondevice-scam-detection"
+    },
+    "https://huggingface.co/blog/liquidai/lfm25-24b-a2b": {
+      "date": "2026-10-15",
+      "title": "Liquid AI「LFM2.5-24B-A2B」",
+      "topic_key": "liquid-lfm2.5-24b-a2b-release"
+    },
+    "https://llmreference.com/model/qwen-image-2.1-turbo": {
+      "date": "2026-10-15",
+      "title": "8ステップで2K画像、ただし商用は別契約——Qwen-Image-2.1-Turbo",
+      "topic_key": "qwen-image-2.1-turbo-release"
     }
   }
 }
