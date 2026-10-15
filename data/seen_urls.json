@@ -4095,6 +4095,41 @@
       "date": "2026-10-15",
       "title": "8ステップで2K画像、ただし商用は別契約——Qwen-Image-2.1-Turbo",
       "topic_key": "qwen-image-2.1-turbo-release"
+    },
+    "https://research.meta.ai/blog/muse-spark-open": {
+      "date": "2026-10-16",
+      "title": "Meta、Muse Spark Openを公開",
+      "topic_key": "meta-muse-spark-open-816b-release"
+    },
+    "https://huggingface.co/blog/meta-muse-spark-open": {
+      "date": "2026-10-16",
+      "title": "Meta、Muse Spark Openを公開",
+      "topic_key": "meta-muse-spark-open-816b-release"
+    },
+    "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs": {
+      "date": "2026-10-16",
+      "title": "Meta、Muse Spark Openを公開",
+      "topic_key": "meta-muse-spark-open-816b-release"
+    },
+    "https://blog.google/intl/en-mena/product-updates/explore-get-answers/gemini-4-argon-built-to-solve-your-hardest-problems": {
+      "date": "2026-10-16",
+      "title": "【続報】Gemini 4 Argon一般提供",
+      "topic_key": "gemini-4-argon-general-availability-intro-pricing"
+    },
+    "https://americanbazaaronline.com/2026/10/14/google-releases-gemini-4-argon-ai-model-490048": {
+      "date": "2026-10-16",
+      "title": "【続報】Gemini 4 Argon一般提供",
+      "topic_key": "gemini-4-argon-general-availability-intro-pricing"
+    },
+    "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl": {
+      "date": "2026-10-16",
+      "title": "NVIDIA、Nemotron 3.5 Bolt公開",
+      "topic_key": "nvidia-nemotron-3.5-bolt-74b-a9b-release"
+    },
+    "https://huggingface.co/nvidia/nvidia-nemotron-3.5-bolt-74b-a9b-24gb-gguf": {
+      "date": "2026-10-16",
+      "title": "NVIDIA、Nemotron 3.5 Bolt公開",
+      "topic_key": "nvidia-nemotron-3.5-bolt-74b-a9b-release"
     }
   }
 }
