@@ -4130,6 +4130,26 @@
       "date": "2026-10-16",
       "title": "NVIDIA、Nemotron 3.5 Bolt公開",
       "topic_key": "nvidia-nemotron-3.5-bolt-74b-a9b-release"
+    },
+    "https://mistral.ai/news/timestral": {
+      "date": "2026-10-17",
+      "title": "Mistral Timestral（時系列基盤モデル）公開",
+      "topic_key": "mistral-timestral-release"
+    },
+    "https://the-decoder.com/black-forest-labs-open-weights-image-model-flux-3-image-klein-runs-on-consumer-gpus-with-just-8-gb-of-vram": {
+      "date": "2026-10-17",
+      "title": "FLUX 3 Image Klein 公開",
+      "topic_key": "flux-3-image-klein-release"
+    },
+    "https://cryptobriefing.com/china-proposes-ai-export-controls": {
+      "date": "2026-10-17",
+      "title": "中国、LLMの重み・ソースコードを輸出管理対象とする草案",
+      "topic_key": "china-ai-model-export-control-draft"
+    },
+    "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access": {
+      "date": "2026-10-17",
+      "title": "【続報】Anthropic、METRに社員並みアクセス",
+      "topic_key": "anthropic-metr-employee-level-access-publication-terms"
     }
   }
 }
