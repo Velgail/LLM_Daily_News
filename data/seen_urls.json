@@ -4150,6 +4150,61 @@
       "date": "2026-10-17",
       "title": "【続報】Anthropic、METRに社員並みアクセス",
       "topic_key": "anthropic-metr-employee-level-access-publication-terms"
+    },
+    "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs": {
+      "date": "2026-10-18",
+      "title": "1タスク約0.2ドルで「Opus 5超え」を主張——DeepSeek「V4.1-Flash-1017」、重みも公開",
+      "topic_key": "deepseek-v4.1-flash-1017-release"
+    },
+    "https://x.com/deepseek_ai/status/2111375640717033777": {
+      "date": "2026-10-18",
+      "title": "1タスク約0.2ドルで「Opus 5超え」を主張——DeepSeek「V4.1-Flash-1017」、重みも公開",
+      "topic_key": "deepseek-v4.1-flash-1017-release"
+    },
+    "https://api-docs.deepseek.com/news/news1017": {
+      "date": "2026-10-18",
+      "title": "1タスク約0.2ドルで「Opus 5超え」を主張——DeepSeek「V4.1-Flash-1017」、重みも公開",
+      "topic_key": "deepseek-v4.1-flash-1017-release"
+    },
+    "https://the-decoder.com/anthropics-claude-cracks-a-25-year-old-nsa-cryptography-mystery-in-under-30-minutes": {
+      "date": "2026-10-18",
+      "title": "25年来の「NIST楕円曲線のseedは何か」にAnthropicが答え",
+      "topic_key": "anthropic-nist-curve-seeds-lrand48-discovery"
+    },
+    "https://www.anthropic.com/research/ecdsa-curve-origins": {
+      "date": "2026-10-18",
+      "title": "25年来の「NIST楕円曲線のseedは何か」にAnthropicが答え",
+      "topic_key": "anthropic-nist-curve-seeds-lrand48-discovery"
+    },
+    "https://words.filippo.io/seeds-bounty": {
+      "date": "2026-10-18",
+      "title": "25年来の「NIST楕円曲線のseedは何か」にAnthropicが答え",
+      "topic_key": "anthropic-nist-curve-seeds-lrand48-discovery"
+    },
+    "https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet": {
+      "date": "2026-10-18",
+      "title": "【続報】政府統計サイトの認証を偽造、テスト用ウォレットも無断使用——OpenAIが自社モデルの越境4件を追加公開",
+      "topic_key": "openai-misalignment-reports-four-added-gov-site-wallet-oct15"
+    },
+    "https://alignment.openai.com/misalignment-reports/retrieving-server-secrets-and-bypassing-authorization-on-a-government-statistics-website": {
+      "date": "2026-10-18",
+      "title": "【続報】政府統計サイトの認証を偽造、テスト用ウォレットも無断使用——OpenAIが自社モデルの越境4件を追加公開",
+      "topic_key": "openai-misalignment-reports-four-added-gov-site-wallet-oct15"
+    },
+    "https://alignment.openai.com/misalignment-reports/using-a-funded-test-cryptocurrency-wallet-without-authorization": {
+      "date": "2026-10-18",
+      "title": "【続報】政府統計サイトの認証を偽造、テスト用ウォレットも無断使用——OpenAIが自社モデルの越境4件を追加公開",
+      "topic_key": "openai-misalignment-reports-four-added-gov-site-wallet-oct15"
+    },
+    "https://alignment.openai.com/misalignment-reports/accessing-and-changing-internal-systems-during-dashboard-research": {
+      "date": "2026-10-18",
+      "title": "【続報】政府統計サイトの認証を偽造、テスト用ウォレットも無断使用——OpenAIが自社モデルの越境4件を追加公開",
+      "topic_key": "openai-misalignment-reports-four-added-gov-site-wallet-oct15"
+    },
+    "https://alignment.openai.com/misalignment-reports/circumventing-internet-restrictions-through-an-external-browser": {
+      "date": "2026-10-18",
+      "title": "【続報】政府統計サイトの認証を偽造、テスト用ウォレットも無断使用——OpenAIが自社モデルの越境4件を追加公開",
+      "topic_key": "openai-misalignment-reports-four-added-gov-site-wallet-oct15"
     }
   }
 }
