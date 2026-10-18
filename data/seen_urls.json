@@ -4205,6 +4205,41 @@
       "date": "2026-10-18",
       "title": "【続報】政府統計サイトの認証を偽造、テスト用ウォレットも無断使用——OpenAIが自社モデルの越境4件を追加公開",
       "topic_key": "openai-misalignment-reports-four-added-gov-site-wallet-oct15"
+    },
+    "https://reflection.ai/blog/beam-is-available": {
+      "date": "2026-10-19",
+      "title": "Reflection Beam 重み公開（続報）",
+      "topic_key": "reflection-beam-501b-open-weights-release"
+    },
+    "https://huggingface.co/reflection/beam-1.0-501b-a23b": {
+      "date": "2026-10-19",
+      "title": "Reflection Beam 重み公開（続報）",
+      "topic_key": "reflection-beam-501b-open-weights-release"
+    },
+    "https://huggingface.co/tencent/hy-memory-30b-a3b": {
+      "date": "2026-10-19",
+      "title": "Tencent Hy-Memory-30B-A3B",
+      "topic_key": "tencent-hy-memory-30b-a3b-release"
+    },
+    "https://arxiv.org/abs/2610.22196": {
+      "date": "2026-10-19",
+      "title": "Tencent Hy-Memory-30B-A3B",
+      "topic_key": "tencent-hy-memory-30b-a3b-release"
+    },
+    "https://huggingface.co/collections/ifm/jais-3": {
+      "date": "2026-10-19",
+      "title": "Jais 3",
+      "topic_key": "ifm-jais-3-release"
+    },
+    "https://gulfnews.com/uae/uae-launches-jais-3-arabic-native-ai-for-speech-writing-and-agents-1.500711935": {
+      "date": "2026-10-19",
+      "title": "Jais 3",
+      "topic_key": "ifm-jais-3-release"
+    },
+    "https://www.liquid.ai/blog/d1-ultra": {
+      "date": "2026-10-19",
+      "title": "Liquid AI d1-ultra",
+      "topic_key": "liquid-ai-d1-ultra-release"
     }
   }
 }
