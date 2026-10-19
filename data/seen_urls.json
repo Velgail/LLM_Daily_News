@@ -4240,6 +4240,31 @@
       "date": "2026-10-19",
       "title": "Liquid AI d1-ultra",
       "topic_key": "liquid-ai-d1-ultra-release"
+    },
+    "https://www.inceptionlabs.ai/blog/introducing-mercury-3": {
+      "date": "2026-10-20",
+      "title": "Inception、拡散方式LLM「Mercury 3」を公開",
+      "topic_key": "inception-mercury-3-release"
+    },
+    "https://www.minimax.io/blog/minimax-m31f": {
+      "date": "2026-10-20",
+      "title": "MiniMax「M3.1 Flash」API開始、重みは後日",
+      "topic_key": "minimax-m3.1-flash-api-launch"
+    },
+    "https://huggingface.co/stepfun-ai/Step-5-Preview": {
+      "date": "2026-10-20",
+      "title": "StepFun「Step 5 Preview」600B MoEの重みを公開",
+      "topic_key": "stepfun-step-5-preview-open-weights"
+    },
+    "https://artificialanalysis.ai/models/step-5": {
+      "date": "2026-10-20",
+      "title": "StepFun「Step 5 Preview」600B MoEの重みを公開（Artificial Analysis評価）",
+      "topic_key": "stepfun-step-5-preview-open-weights"
+    },
+    "https://startupfortune.com/opencode-breach-exposes-stored-openai-and-anthropic-keys-prompts-urgent-key-rotation": {
+      "date": "2026-10-20",
+      "title": "OpenCode旧コンソールからAPIキー流出か",
+      "topic_key": "opencode-console-api-key-breach"
     }
   }
 }
