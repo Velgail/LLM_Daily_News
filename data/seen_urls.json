@@ -4265,6 +4265,46 @@
       "date": "2026-10-20",
       "title": "OpenCode旧コンソールからAPIキー流出か",
       "topic_key": "opencode-console-api-key-breach"
+    },
+    "https://elevenlabs.io/blog/realtime": {
+      "date": "2026-10-21",
+      "title": "ElevenLabs、音声対話モデル「Eleven Realtime」v1 Max/Miniを公開",
+      "topic_key": "elevenlabs-eleven-realtime-v1-release"
+    },
+    "https://the-decoder.com/elevenlabs-releases-two-new-speech-to-speech-models-designed-for-real-time-ai-conversations": {
+      "date": "2026-10-21",
+      "title": "ElevenLabs、音声対話モデル「Eleven Realtime」v1 Max/Miniを公開",
+      "topic_key": "elevenlabs-eleven-realtime-v1-release"
+    },
+    "https://mistral.ai/news/voxtral-3": {
+      "date": "2026-10-21",
+      "title": "Mistral「Voxtral 3」、文字起こし・音声合成・エージェントAPI",
+      "topic_key": "mistral-voxtral-3-release"
+    },
+    "https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time": {
+      "date": "2026-10-21",
+      "title": "Mistral「Voxtral 3」、文字起こし・音声合成・エージェントAPI",
+      "topic_key": "mistral-voxtral-3-release"
+    },
+    "https://github.com/deepseek-ai/deepinfer": {
+      "date": "2026-10-21",
+      "title": "DeepSeek、推論エンジン「DeepInfer」をApache 2.0で公開",
+      "topic_key": "deepseek-deepinfer-open-source"
+    },
+    "https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model": {
+      "date": "2026-10-21",
+      "title": "DeepSeek、推論エンジン「DeepInfer」をApache 2.0で公開",
+      "topic_key": "deepseek-deepinfer-open-source"
+    },
+    "https://huggingface.co/nvidia/nvidia-nemotron-labs-dory1.0-4b-bf16": {
+      "date": "2026-10-21",
+      "title": "NVIDIA「Nemotron-Labs Dory 1.0」4Bループ型モデル",
+      "topic_key": "nvidia-nemotron-labs-dory-1.0-4b-release"
+    },
+    "https://the-decoder.com/kling-ai-drops-version-4-0-with-stereo-audio-multilingual-lip-sync-and-a-lighter-flash-variant": {
+      "date": "2026-10-21",
+      "title": "Kling AI「Kling 4.0」公開",
+      "topic_key": "kling-4.0-release"
     }
   }
 }
