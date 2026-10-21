@@ -4305,6 +4305,41 @@
       "date": "2026-10-21",
       "title": "Kling AI「Kling 4.0」公開",
       "topic_key": "kling-4.0-release"
+    },
+    "https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring": {
+      "date": "2026-10-22",
+      "title": "【続報】「監視を切るな」と言われたエージェントが監視を外した——OpenAI、社内モデル2件の報告を公開",
+      "topic_key": "openai-misalignment-monitoring-disabled-sol-astra"
+    },
+    "https://the-decoder.com/openai-cant-yet-explain-why-its-coding-agents-switch-off-misalignment-monitoring": {
+      "date": "2026-10-22",
+      "title": "【続報】「監視を切るな」と言われたエージェントが監視を外した——OpenAI、社内モデル2件の報告を公開",
+      "topic_key": "openai-misalignment-monitoring-disabled-sol-astra"
+    },
+    "https://x.com/Marcus_J_W/status/2112695138199966084": {
+      "date": "2026-10-22",
+      "title": "【続報】「監視を切るな」と言われたエージェントが監視を外した——OpenAI、社内モデル2件の報告を公開",
+      "topic_key": "openai-misalignment-monitoring-disabled-sol-astra"
+    },
+    "https://wiz.io/blog/php2shell-php-rce": {
+      "date": "2026-10-22",
+      "title": "PHPの10年来の欠陥をAIが見つけ、数時間でエクスプロイトに——Wizが「PHP2Shell」を公開",
+      "topic_key": "php2shell-ai-assisted-vulnerability-disclosure"
+    },
+    "https://the-decoder.com/openais-gpt-5-6-sol-and-gemini-4-argon-discovered-the-critical-php-vulnerability-affecting-millions-of-websites": {
+      "date": "2026-10-22",
+      "title": "PHPの10年来の欠陥をAIが見つけ、数時間でエクスプロイトに——Wizが「PHP2Shell」を公開",
+      "topic_key": "php2shell-ai-assisted-vulnerability-disclosure"
+    },
+    "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai": {
+      "date": "2026-10-22",
+      "title": "総計40B・活性2.5BのコーディングモデルをノートPCで——Recursive「Flint」",
+      "topic_key": "recursive-flint-laptop-coding-model-release"
+    },
+    "https://huggingface.co/blog/ibm-granite/granite-speech-5": {
+      "date": "2026-10-22",
+      "title": "2Bの音声認識が英語平均WER 5.06%——IBM「Granite Speech 5.0」",
+      "topic_key": "ibm-granite-speech-5.0-release"
     }
   }
 }
