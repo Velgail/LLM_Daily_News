@@ -4340,6 +4340,26 @@
       "date": "2026-10-22",
       "title": "2Bの音声認識が英語平均WER 5.06%——IBM「Granite Speech 5.0」",
       "topic_key": "ibm-granite-speech-5.0-release"
+    },
+    "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent": {
+      "date": "2026-10-23",
+      "title": "【続報】OpenAI社内エージェント監視を外部2人が3週間レッドチーム",
+      "topic_key": "openai-internal-monitor-redwood-metr-red-team"
+    },
+    "https://helpnetsecurity.com/2026/10/22/openai-vulnerability-disclosure-plan": {
+      "date": "2026-10-23",
+      "title": "【続報】OpenAIが重大脆弱性の5段階開示手順を提案（PHP2Shell対応が下敷き）",
+      "topic_key": "php2shell-openai-five-stage-disclosure-plan"
+    },
+    "https://claude.com/resources/articles/claude-duet": {
+      "date": "2026-10-23",
+      "title": "Anthropic「Claude Duet」研究プレビュー",
+      "topic_key": "claude-duet-research-preview"
+    },
+    "https://anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation": {
+      "date": "2026-10-23",
+      "title": "AnthropicがAgent SkillsをAAIFに寄贈",
+      "topic_key": "agent-skills-donation-to-aaif"
     }
   }
 }
