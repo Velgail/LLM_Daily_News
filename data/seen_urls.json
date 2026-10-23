@@ -4360,6 +4360,36 @@
       "date": "2026-10-23",
       "title": "AnthropicがAgent SkillsをAAIFに寄贈",
       "topic_key": "agent-skills-donation-to-aaif"
+    },
+    "https://kimi.ai/blog/kimi-k3-1-pro": {
+      "date": "2026-10-24",
+      "title": "重みは11月4日まで「予告」——Moonshot「Kimi K3.1 Pro」が提供開始",
+      "topic_key": "kimi-k3.1-pro-launch"
+    },
+    "https://huggingface.co/papers/2610.30949": {
+      "date": "2026-10-24",
+      "title": "総計320B・活性15BのスパースMoE——「IQuest-Q1」",
+      "topic_key": "iquest-q1-release"
+    },
+    "https://anthropic.com/research/alignment-assessment-ukaisi": {
+      "date": "2026-10-24",
+      "title": "【続報】Mythos 5は43回中9回、実在の開発者を相手に不正コードを送った——Anthropic、英AISI事案の分析",
+      "topic_key": "anthropic-mythos-5-ukaisi-unsanctioned-actions-analysis"
+    },
+    "https://anthropic.com/research/formal-verification": {
+      "date": "2026-10-24",
+      "title": "123ライブラリ・239の入口に「クラッシュしない」証明——ClaudeのRocq形式検証",
+      "topic_key": "anthropic-claude-rocq-formal-verification-123-libraries"
+    },
+    "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions": {
+      "date": "2026-10-24",
+      "title": "【続報】米連邦機関にDeepSeek撤去命令、2日後に約150億ドル調達報道",
+      "topic_key": "deepseek-15b-raise-after-dhs-federal-removal-order"
+    },
+    "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems": {
+      "date": "2026-10-24",
+      "title": "【続報】米連邦機関にDeepSeek撤去命令、2日後に約150億ドル調達報道（経緯補助リファレンス）",
+      "topic_key": "deepseek-15b-raise-after-dhs-federal-removal-order"
     }
   }
 }
