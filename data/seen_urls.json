@@ -4390,6 +4390,31 @@
       "date": "2026-10-24",
       "title": "【続報】米連邦機関にDeepSeek撤去命令、2日後に約150億ドル調達報道（経緯補助リファレンス）",
       "topic_key": "deepseek-15b-raise-after-dhs-federal-removal-order"
+    },
+    "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers": {
+      "date": "2026-10-25",
+      "title": "OpenAIのGPT-6がGoogle CloudのModel Gardenに（限定プレビュー）",
+      "topic_key": "openai-models-google-cloud-model-garden-preview"
+    },
+    "https://openai.com/index/openai-models-google-cloud": {
+      "date": "2026-10-25",
+      "title": "OpenAIのGPT-6がGoogle CloudのModel Gardenに（限定プレビュー）",
+      "topic_key": "openai-models-google-cloud-model-garden-preview"
+    },
+    "https://thenextweb.com/news/openai-models-codex-google-cloud": {
+      "date": "2026-10-25",
+      "title": "OpenAIのGPT-6がGoogle CloudのModel Gardenに（限定プレビュー）",
+      "topic_key": "openai-models-google-cloud-model-garden-preview"
+    },
+    "https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed": {
+      "date": "2026-10-25",
+      "title": "Anthropic運営のClaude PlatformがGoogle Cloudで一般提供",
+      "topic_key": "anthropic-managed-claude-platform-google-cloud-ga"
+    },
+    "https://claude.com/resources/articles/claude-security-now-scans-continuously-and-tracks-fixes": {
+      "date": "2026-10-25",
+      "title": "Claude Security、継続スキャンと修正追跡（公開ベータ）",
+      "topic_key": "claude-security-continuous-scanning-fix-tracking-beta"
     }
   }
 }
