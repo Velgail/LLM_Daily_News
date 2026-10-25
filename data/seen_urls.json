@@ -4415,6 +4415,21 @@
       "date": "2026-10-25",
       "title": "Claude Security、継続スキャンと修正追跡（公開ベータ）",
       "topic_key": "claude-security-continuous-scanning-fix-tracking-beta"
+    },
+    "https://openai.com/index/low-resource-programming-languages": {
+      "date": "2026-10-26",
+      "title": "COBOLの移行テストで5.4%→86.6%——OpenAIが低リソース言語の評価を公開",
+      "topic_key": "openai-multilangbench-cobol-migration-eval"
+    },
+    "https://openai.com/index/decisions-api": {
+      "date": "2026-10-26",
+      "title": "OpenAI「Decisions API」が一般提供に",
+      "topic_key": "openai-decisions-api-ga"
+    },
+    "https://developers.openai.com/api/docs/guides/decisions": {
+      "date": "2026-10-26",
+      "title": "OpenAI「Decisions API」が一般提供に",
+      "topic_key": "openai-decisions-api-ga"
     }
   }
 }
