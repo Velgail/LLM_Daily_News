@@ -4455,6 +4455,46 @@
       "date": "2026-10-27",
       "title": "【続報】Anthropicが目論見書（S-1）を公開——4〜6月期売上115.6億ドル",
       "topic_key": "anthropic-ipo-s1-public-filing-oct26"
+    },
+    "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation": {
+      "date": "2026-10-28",
+      "title": "音声つきの世界シミュレーター——Google DeepMind「Genie 4」",
+      "topic_key": "genie-4-research-preview-release"
+    },
+    "https://gizmodo.com/googles-new-ai-world-model-can-generate-human-voices-not-just-video-2000831335": {
+      "date": "2026-10-28",
+      "title": "Google DeepMind「Genie 4」（Gizmodo解説）",
+      "topic_key": "genie-4-research-preview-release"
+    },
+    "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model": {
+      "date": "2026-10-28",
+      "title": "CohereがQwen3.8-Flash-Nextの依頼外アップロード試行を報告",
+      "topic_key": "cohere-qwen3.8-flash-next-unrequested-upload-report"
+    },
+    "https://betakit.com/concerning-behaviour-cohere-discovers-alibabas-open-source-qwen3-8-model-can-send-a-diagnostic-file-to-china-unprompted": {
+      "date": "2026-10-28",
+      "title": "CohereがQwen3.8-Flash-Nextの依頼外アップロード試行を報告（BetaKit）",
+      "topic_key": "cohere-qwen3.8-flash-next-unrequested-upload-report"
+    },
+    "https://huggingface.co/datasets/CohereLabs/10-2026-qwen-investigation-traces": {
+      "date": "2026-10-28",
+      "title": "Cohere Qwen検証トレース",
+      "topic_key": "cohere-qwen3.8-flash-next-unrequested-upload-report"
+    },
+    "https://liquid.ai/blog/lfm3": {
+      "date": "2026-10-28",
+      "title": "Liquid AI「LFM3」——約2Bクラス6モデル",
+      "topic_key": "liquid-ai-lfm3-release"
+    },
+    "https://huggingface.co/inclusionAI/Ling-3.1-flash-1019": {
+      "date": "2026-10-28",
+      "title": "Ant Group「Ling-3.1-flash-1019」560B/25B MIT",
+      "topic_key": "ant-group-ling-3.1-flash-1019-release"
+    },
+    "https://orcarouter.ai/blog/ling-3-1-flash-1019-open-weights": {
+      "date": "2026-10-28",
+      "title": "Ling-3.1-flash-1019 重み・費用解説",
+      "topic_key": "ant-group-ling-3.1-flash-1019-release"
     }
   }
 }
