@@ -4495,6 +4495,26 @@
       "date": "2026-10-28",
       "title": "Ling-3.1-flash-1019 重み・費用解説",
       "topic_key": "ant-group-ling-3.1-flash-1019-release"
+    },
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon": {
+      "date": "2026-10-29",
+      "title": "Gemini 4 Carbon 発表",
+      "topic_key": "gemini-4-carbon-release-fairwind-limited"
+    },
+    "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains": {
+      "date": "2026-10-29",
+      "title": "未公開のClaudeが5つの環境で攻撃チェーンを組んだ——主張と公開記録で確かめられた部分",
+      "topic_key": "anthropic-unreleased-model-exploit-chains-five-platforms"
+    },
+    "https://siliconangle.com/2026/10/28/nvidia-releases-all-in-one-adaptable-nemotron-3-5-audio-transcription-and-translation-model": {
+      "date": "2026-10-29",
+      "title": "NVIDIA「Nemotron 3.5 Transcribe」",
+      "topic_key": "nvidia-nemotron-3.5-transcribe-release"
+    },
+    "https://startupfortune.com/nanbeiges-new-33b-open-model-takes-aim-at-qwen-and-gemma-on-coding": {
+      "date": "2026-10-29",
+      "title": "Nanbeige「Nanbeige4.3-33B」",
+      "topic_key": "nanbeige4.3-33b-release"
     }
   }
 }
