@@ -4515,6 +4515,36 @@
       "date": "2026-10-29",
       "title": "Nanbeige「Nanbeige4.3-33B」",
       "topic_key": "nanbeige4.3-33b-release"
+    },
+    "https://mistral.ai/news/mistral-large-4-oss": {
+      "date": "2026-10-30",
+      "title": "Mistral Large 4 open weights released",
+      "topic_key": "mistral-large-4-open-weights-release"
+    },
+    "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B": {
+      "date": "2026-10-30",
+      "title": "Mistral Large 4 open weights released",
+      "topic_key": "mistral-large-4-open-weights-release"
+    },
+    "https://thenextweb.com/news/openai-model-spec-five-values-update": {
+      "date": "2026-10-30",
+      "title": "OpenAI Model Spec rewritten around five values",
+      "topic_key": "openai-model-spec-five-values-update"
+    },
+    "https://helpnetsecurity.com/2026/10/29/research-ai-assistant-browser-vulnerabilities": {
+      "date": "2026-10-30",
+      "title": "EMBRACE: AI coding tool embedded browser flaws",
+      "topic_key": "embrace-ai-coding-tools-embedded-browser-flaws"
+    },
+    "https://whbl.com/2026/10/28/analysis-chinas-new-export-curbs-draw-a-line-around-its-ai-crown-jewels": {
+      "date": "2026-10-30",
+      "title": "China AI export curbs thresholds (Reuters analysis)",
+      "topic_key": "china-ai-export-curbs-thresholds-reuters-analysis"
+    },
+    "https://radioink.com/2026/10/29/google-must-answer-former-npr-hosts-ai-voice-claims-in-court": {
+      "date": "2026-10-30",
+      "title": "Google must answer ex-NPR host's NotebookLM voice claims",
+      "topic_key": "notebooklm-greene-voice-demurrer-overruled"
     }
   }
 }
