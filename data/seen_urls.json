@@ -4545,6 +4545,51 @@
       "date": "2026-10-30",
       "title": "Google must answer ex-NPR host's NotebookLM voice claims",
       "topic_key": "notebooklm-greene-voice-demurrer-overruled"
+    },
+    "https://huggingnews.com/ai/alibaba-cloud-to-release-new-qwen4-ai-models-next-week-b906e052": {
+      "date": "2026-10-31",
+      "title": "【続報】「Qwen4は来週」——Apsara AmsterdamでMax・Plus・Flash・27Bの4本が提示",
+      "topic_key": "qwen4-lineup-apsara-amsterdam-next-week-report"
+    },
+    "https://cellcog.ai/blog/qwen-4-release-date": {
+      "date": "2026-10-31",
+      "title": "【続報】「Qwen4は来週」——Apsara AmsterdamでMax・Plus・Flash・27Bの4本が提示",
+      "topic_key": "qwen4-lineup-apsara-amsterdam-next-week-report"
+    },
+    "https://x.com/koltregaskes/status/2115782200855761196": {
+      "date": "2026-10-31",
+      "title": "【続報】「Qwen4は来週」——Apsara AmsterdamでMax・Plus・Flash・27Bの4本が提示",
+      "topic_key": "qwen4-lineup-apsara-amsterdam-next-week-report"
+    },
+    "https://x.com/ruima/status/2115889095306367049": {
+      "date": "2026-10-31",
+      "title": "【続報】「Qwen4は来週」——Apsara AmsterdamでMax・Plus・Flash・27Bの4本が提示",
+      "topic_key": "qwen4-lineup-apsara-amsterdam-next-week-report"
+    },
+    "https://github.com/QwenLM/Qwen3.8-Flash-Next": {
+      "date": "2026-10-31",
+      "title": "【続報】「Qwen4は来週」——Apsara AmsterdamでMax・Plus・Flash・27Bの4本が提示",
+      "topic_key": "qwen4-lineup-apsara-amsterdam-next-week-report"
+    },
+    "https://inference.net/models/deepseek-v4.1-flash-1017-cyber": {
+      "date": "2026-10-31",
+      "title": "Inference.net「DeepSeek V4.1 Flash 1017 Cyber」——拒否を外した派生版が審査制APIで提供",
+      "topic_key": "inference-net-deepseek-v4.1-flash-1017-cyber-gated"
+    },
+    "https://llmgateway.io/models/deepseek-v4.1-flash-cyber": {
+      "date": "2026-10-31",
+      "title": "Inference.net「DeepSeek V4.1 Flash 1017 Cyber」——拒否を外した派生版が審査制APIで提供",
+      "topic_key": "inference-net-deepseek-v4.1-flash-1017-cyber-gated"
+    },
+    "https://x.com/ArtificialAnlys/status/2113682654709313811": {
+      "date": "2026-10-31",
+      "title": "Inference.net「DeepSeek V4.1 Flash 1017 Cyber」——拒否を外した派生版が審査制APIで提供",
+      "topic_key": "inference-net-deepseek-v4.1-flash-1017-cyber-gated"
+    },
+    "https://api-docs.deepseek.com/news/news261017": {
+      "date": "2026-10-31",
+      "title": "Inference.net「DeepSeek V4.1 Flash 1017 Cyber」——拒否を外した派生版が審査制APIで提供",
+      "topic_key": "inference-net-deepseek-v4.1-flash-1017-cyber-gated"
     }
   }
 }
