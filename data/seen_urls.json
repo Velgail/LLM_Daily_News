@@ -4590,6 +4590,46 @@
       "date": "2026-10-31",
       "title": "Inference.net「DeepSeek V4.1 Flash 1017 Cyber」——拒否を外した派生版が審査制APIで提供",
       "topic_key": "inference-net-deepseek-v4.1-flash-1017-cyber-gated"
+    },
+    "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models": {
+      "date": "2026-11-01",
+      "title": "【続報】Claudeの透かしが旧モデル4種へ拡大——Opus 4.6とSonnet 4.6は既定値のときだけ",
+      "topic_key": "anthropic-claude-watermark-older-models-default-sampling-only"
+    },
+    "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content": {
+      "date": "2026-11-01",
+      "title": "Anthropic: How Claude marks AI-generated content（補助）",
+      "topic_key": "anthropic-claude-watermark-older-models-default-sampling-only"
+    },
+    "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits": {
+      "date": "2026-11-01",
+      "title": "OpenAI、Daybreak Blueの利用データを11月29日から学習に使用",
+      "topic_key": "openai-daybreak-blue-session-data-training-nov29"
+    },
+    "https://alignment.anthropic.com/2026/automated-em-search": {
+      "date": "2026-11-01",
+      "title": "Anthropic: Automated Subtle Emergent Misalignment Research",
+      "topic_key": "anthropic-automated-emergent-misalignment-search"
+    },
+    "https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight": {
+      "date": "2026-11-01",
+      "title": "検査を通る悪い学習データをClaudeが自動生成（補助）",
+      "topic_key": "anthropic-automated-emergent-misalignment-search"
+    },
+    "https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making": {
+      "date": "2026-11-01",
+      "title": "Claude Sonnet 5が主導したマウス脳への遺伝子治療注入",
+      "topic_key": "claude-sonnet-5-mouse-gene-therapy-surgery"
+    },
+    "https://x.com/OcanaSantero/status/2115442964574908902": {
+      "date": "2026-11-01",
+      "title": "Ocana-Santero氏の報告（補助）",
+      "topic_key": "claude-sonnet-5-mouse-gene-therapy-surgery"
+    },
+    "https://particle.ai/blog/introducing-particle-1": {
+      "date": "2026-11-01",
+      "title": "Particle-1: DeepSeek V4.1 Flashの出力トークン削減RL",
+      "topic_key": "particle-1-deepseek-v4.1-flash-token-efficiency"
     }
   }
 }
