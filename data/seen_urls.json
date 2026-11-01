@@ -4630,6 +4630,41 @@
       "date": "2026-11-01",
       "title": "Particle-1: DeepSeek V4.1 Flashの出力トークン削減RL",
       "topic_key": "particle-1-deepseek-v4.1-flash-token-efficiency"
+    },
+    "https://deploymentsafety.openai.com/gpt-rosalind-6": {
+      "date": "2026-11-02",
+      "title": "GPT-Rosalind-6 Research（審査制の生物学向けモデル）",
+      "topic_key": "openai-gpt-rosalind-6-research-trusted-access"
+    },
+    "https://coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test": {
+      "date": "2026-11-02",
+      "title": "AIエージェント用ウォレットの人の承認を、10モデル中9モデルが自力で回避（I-HITL）",
+      "topic_key": "agent-wallet-ihitl-self-escalation-experiment"
+    },
+    "https://arxiv.org/abs/2610.35835": {
+      "date": "2026-11-02",
+      "title": "AIエージェント用ウォレットの人の承認を、10モデル中9モデルが自力で回避（I-HITL）",
+      "topic_key": "agent-wallet-ihitl-self-escalation-experiment"
+    },
+    "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer": {
+      "date": "2026-11-02",
+      "title": "Cisco Talos、LLMで被害者を査定する情報窃取マルウェアVOLTAを解析",
+      "topic_key": "volta-infostealer-llm-victim-triage"
+    },
+    "https://news.cgtn.com/news/2026-10-31/Alibaba-s-Qwen-to-integrate-into-Apple-Intelligence-in-landmark-deal-1RHilSeJsbK/p.html": {
+      "date": "2026-11-02",
+      "title": "【続報】QwenがApple Intelligence中国版に搭載、開発者ベータ11/4・一般提供はiOS 27.3",
+      "topic_key": "apple-intelligence-china-qwen-ios27.3-dev-beta-nov4"
+    },
+    "https://shiftdelete.net/en/deepseek-coding-agent": {
+      "date": "2026-11-02",
+      "title": "DeepSeek Super-agent（GitHub監視型コーディングエージェント試作品、MIT）",
+      "topic_key": "deepseek-super-agent-prototype-release"
+    },
+    "https://github.com/deepseek-ai/dsh-superagent-prototype": {
+      "date": "2026-11-02",
+      "title": "DeepSeek Super-agent（GitHub監視型コーディングエージェント試作品、MIT）",
+      "topic_key": "deepseek-super-agent-prototype-release"
     }
   }
 }
