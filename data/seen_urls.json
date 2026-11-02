@@ -4665,6 +4665,31 @@
       "date": "2026-11-02",
       "title": "DeepSeek Super-agent（GitHub監視型コーディングエージェント試作品、MIT）",
       "topic_key": "deepseek-super-agent-prototype-release"
+    },
+    "https://technode.com/2026/11/02/meituan-launches-longcat-2-5-multimodal-ai-model-for-extended-coding-tasks": {
+      "date": "2026-11-03",
+      "title": "LongCat-2.5（1.6T、重み公開は予定）",
+      "topic_key": "longcat-2.5-meituan-launch"
+    },
+    "https://rikiyat.github.io/blog/weight-space-programming": {
+      "date": "2026-11-03",
+      "title": "Weight-Space Programming（GPT-6 Astraによる重み編集）",
+      "topic_key": "weight-space-programming-gpt6-astra"
+    },
+    "https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities": {
+      "date": "2026-11-03",
+      "title": "SemiAnalysis GDPx ベンチマーク",
+      "topic_key": "semianalysis-gdpx-benchmark-launch"
+    },
+    "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run": {
+      "date": "2026-11-03",
+      "title": "ChatGPT共有リンク連鎖脆弱性（修正済み）",
+      "topic_key": "chatgpt-share-link-mathlive-xss-parameter"
+    },
+    "https://restofworld.org/2026/western-startups-realigning-chinese-ai-models": {
+      "date": "2026-11-03",
+      "title": "Qwenの検閲を外す欧米スタートアップ",
+      "topic_key": "western-startups-realigned-qwen-hirundo-lazarus"
     }
   }
 }
