@@ -4690,6 +4690,36 @@
       "date": "2026-11-03",
       "title": "Qwenの検閲を外す欧米スタートアップ",
       "topic_key": "western-startups-realigned-qwen-hirundo-lazarus"
+    },
+    "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai": {
+      "date": "2026-11-04",
+      "title": "【続報】Anthropic修正S-1「RSI基準に間もなく該当し得る」",
+      "topic_key": "anthropic-s1a-rsi-imminent-risk-factor-q3-revenue"
+    },
+    "https://cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html": {
+      "date": "2026-11-04",
+      "title": "Anthropic修正S-1の四半期財務（経緯ブロック補助リファレンス）",
+      "topic_key": "anthropic-s1a-rsi-imminent-risk-factor-q3-revenue"
+    },
+    "https://honnibal.dev/blog/astra-read-write-misleading": {
+      "date": "2026-11-04",
+      "title": "【続報】Weight-Space Programming批判",
+      "topic_key": "weight-space-programming-gpt6-astra-critique-qwen-replication"
+    },
+    "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights": {
+      "date": "2026-11-04",
+      "title": "Qwen 3.8 27Bで重み解釈を再現",
+      "topic_key": "weight-space-programming-gpt6-astra-critique-qwen-replication"
+    },
+    "https://claude.com/resources/articles/message-threads": {
+      "date": "2026-11-04",
+      "title": "Claude API Message Threads ベータ",
+      "topic_key": "claude-api-message-threads-beta"
+    },
+    "https://cryptobriefing.com/deepseek-v5-huawei-ascend-950-training": {
+      "date": "2026-11-04",
+      "title": "DeepSeek V5 Ascend 950DT 16万個で学習計画（未確認報道）",
+      "topic_key": "deepseek-v5-huawei-ascend-950dt-training-report"
     }
   }
 }
