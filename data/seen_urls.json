@@ -4720,6 +4720,36 @@
       "date": "2026-11-04",
       "title": "DeepSeek V5 Ascend 950DT 16万個で学習計画（未確認報道）",
       "topic_key": "deepseek-v5-huawei-ascend-950dt-training-report"
+    },
+    "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious": {
+      "date": "2026-11-05",
+      "title": "Xen XSA-523: Claude-discovered grant copy flaws",
+      "topic_key": "xen-xsa-523-claude-discovered-grant-copy-flaws"
+    },
+    "https://xenbits.xen.org/xsa/advisory-523.html": {
+      "date": "2026-11-05",
+      "title": "Xen XSA-523: Claude-discovered grant copy flaws",
+      "topic_key": "xen-xsa-523-claude-discovered-grant-copy-flaws"
+    },
+    "https://research.checkpoint.com/2026/free-the-model-sell-the-gateway-prompt-adware-hidden-in-jailbreak-bundles": {
+      "date": "2026-11-05",
+      "title": "Codex脱獄パックに仕込まれたプロンプトアドウェア",
+      "topic_key": "codex-jailbreak-bundle-prompt-adware-checkpoint"
+    },
+    "https://ppc.land/googles-gemini-can-infringe-press-rights-in-2-ways-eu-court-adviser-says": {
+      "date": "2026-11-05",
+      "title": "EU法務官、Geminiの回答が報道出版者の権利を侵害し得る2場面を提示",
+      "topic_key": "eu-ag-opinion-gemini-press-publishers-right-c-250-25"
+    },
+    "https://chaincatcher.com/en/article/2301641": {
+      "date": "2026-11-05",
+      "title": "【続報】Tencent Hy4 正式版",
+      "topic_key": "tencent-hy4-official-release-vision-computer-use"
+    },
+    "https://huggingface.co/papers/2611.05306": {
+      "date": "2026-11-05",
+      "title": "You don't need long context（短い圧縮文脈で長期課題）",
+      "topic_key": "you-dont-need-long-context-compaction-paper"
     }
   }
 }
