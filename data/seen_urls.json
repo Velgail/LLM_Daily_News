@@ -4750,6 +4750,31 @@
       "date": "2026-11-05",
       "title": "You don't need long context（短い圧縮文脈で長期課題）",
       "topic_key": "you-dont-need-long-context-compaction-paper"
+    },
+    "https://theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855": {
+      "date": "2026-11-06",
+      "title": "【続報】OpenAI「GPT-6 Cyber」提供開始——自己評価は「Critical」、Daybreak Red顧客限定",
+      "topic_key": "openai-gpt-6-cyber-release-daybreak-red"
+    },
+    "https://huggingface.co/moonshotai/Kimi-K3.1-Pro": {
+      "date": "2026-11-06",
+      "title": "【続報】Kimi K3.1 Pro、2.8T・活性104Bの重みを公開（独自ライセンス）",
+      "topic_key": "kimi-k3.1-pro-open-weights-release"
+    },
+    "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment": {
+      "date": "2026-11-06",
+      "title": "【続報】METRがAnthropic内部評価を公開——加速は約1.9倍、有力な証拠の大半は黒塗り",
+      "topic_key": "metr-anthropic-ai-rd-acceleration-assessment"
+    },
+    "https://metr.org/blog/2026-11-05-rd-section-anthropic-risk-report-august-2026-review": {
+      "date": "2026-11-06",
+      "title": "METR: Anthropic Risk Report 自動化R&D節の評価（経緯ブロック補助リファレンス）",
+      "topic_key": "metr-anthropic-ai-rd-acceleration-assessment"
+    },
+    "https://news4jax.com/business/2026/11/05/anthropic-is-rapidly-accelerating-ai-development-amid-slowdown-calls-outside-research-group-says": {
+      "date": "2026-11-06",
+      "title": "Anthropic is rapidly accelerating AI development amid slowdown calls（AP配信・経緯ブロック補助リファレンス）",
+      "topic_key": "metr-anthropic-ai-rd-acceleration-assessment"
     }
   }
 }
