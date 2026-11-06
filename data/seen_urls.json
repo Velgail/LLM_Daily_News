@@ -4775,6 +4775,26 @@
       "date": "2026-11-06",
       "title": "Anthropic is rapidly accelerating AI development amid slowdown calls（AP配信・経緯ブロック補助リファレンス）",
       "topic_key": "metr-anthropic-ai-rd-acceleration-assessment"
+    },
+    "https://docs.apiyi.com/en/news/gpt-image-2-6-launch.md": {
+      "date": "2026-11-07",
+      "title": "OpenAI画像生成「GPT Image 2.6」（Flare／Sunburst）",
+      "topic_key": "openai-gpt-image-2.6-flare-sunburst-release"
+    },
+    "https://openai.com/index/introducing-images-2-6": {
+      "date": "2026-11-07",
+      "title": "OpenAI画像生成「GPT Image 2.6」（Flare／Sunburst）",
+      "topic_key": "openai-gpt-image-2.6-flare-sunburst-release"
+    },
+    "https://mistral.ai/news/build-with-studio": {
+      "date": "2026-11-07",
+      "title": "Mistral Studioにマネージドエージェント・ワークフロー",
+      "topic_key": "mistral-studio-managed-agents-workflows-launch"
+    },
+    "https://aiweekly.co/alerts/mistral-opens-studio-managed-agents-in-public-preview-adds-workflow-builder-and": {
+      "date": "2026-11-07",
+      "title": "Mistral Studioにマネージドエージェント・ワークフロー",
+      "topic_key": "mistral-studio-managed-agents-workflows-launch"
     }
   }
 }
