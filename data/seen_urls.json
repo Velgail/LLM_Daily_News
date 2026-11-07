@@ -4795,6 +4795,41 @@
       "date": "2026-11-07",
       "title": "Mistral Studioにマネージドエージェント・ワークフロー",
       "topic_key": "mistral-studio-managed-agents-workflows-launch"
+    },
+    "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash": {
+      "date": "2026-11-08",
+      "title": "Google「Gemini Omni 1.2 Flash」GA——15秒・720pで1秒0.07ドル",
+      "topic_key": "gemini-omni-1.2-flash-ga"
+    },
+    "https://huggingface.co/baidu/ERNIE-5.5-Flash-Base": {
+      "date": "2026-11-08",
+      "title": "Baidu「ERNIE-5.5-Flash-Base」の重み公開——EU・英国・韓国を除外するライセンス",
+      "topic_key": "baidu-ernie-5.5-flash-base-weights-territory-license"
+    },
+    "https://huggingface.co/baidu/ERNIE-5.5-Flash-Base/blob/main/LICENSE": {
+      "date": "2026-11-08",
+      "title": "ERNIE-5.5-Flash-Base ライセンス本文（補助）",
+      "topic_key": "baidu-ernie-5.5-flash-base-weights-territory-license"
+    },
+    "https://blog.pebblous.ai/blog/baidu-ernie-5-5-license-korea-excluded/en": {
+      "date": "2026-11-08",
+      "title": "Baidu's ERNIE 5.5, the Open Model Korea Is Not Licensed to Use（補助）",
+      "topic_key": "baidu-ernie-5.5-flash-base-weights-territory-license"
+    },
+    "https://claude.com/blog/introducing-personal-finance-in-claude": {
+      "date": "2026-11-08",
+      "title": "Claudeに「Personal Finance」ベータ——銀行・カードを読み取り専用で連携",
+      "topic_key": "claude-personal-finance-beta-launch"
+    },
+    "https://9to5mac.com/2026/11/05/anthropic-upgrades-claude-with-new-personal-finance-feature": {
+      "date": "2026-11-08",
+      "title": "Anthropic upgrades Claude with new Personal Finance feature（補助）",
+      "topic_key": "claude-personal-finance-beta-launch"
+    },
+    "https://support.claude.com/en/articles/12138966-release-notes": {
+      "date": "2026-11-08",
+      "title": "Claude release notes（Personal Finance・補助）",
+      "topic_key": "claude-personal-finance-beta-launch"
     }
   }
 }
