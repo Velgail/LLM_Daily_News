@@ -4830,6 +4830,21 @@
       "date": "2026-11-08",
       "title": "Claude release notes（Personal Finance・補助）",
       "topic_key": "claude-personal-finance-beta-launch"
+    },
+    "https://thinkingmachines.ai/news/inkling-2-small": {
+      "date": "2026-11-09",
+      "title": "Thinking Machines「Inkling 2 Small」登場——総594B・活性17B、重みは「来週」予告",
+      "topic_key": "thinking-machines-inkling-2-small-release"
+    },
+    "https://docs.x.ai/developers/advanced-api-usage/watermarking": {
+      "date": "2026-11-09",
+      "title": "xAI Grok API、11/7から主要7モデルのテキスト出力に透かしを既定付与",
+      "topic_key": "xai-grok-api-default-text-watermark-eu-ai-act"
+    },
+    "https://research.meta.ai/blog/specialized-models-for-muse-and-metaai": {
+      "date": "2026-11-09",
+      "title": "Meta、Muse Wonderで学習した特化版モデルをMuse／Meta AIへ展開",
+      "topic_key": "meta-muse-specialized-models-rollout"
     }
   }
 }
