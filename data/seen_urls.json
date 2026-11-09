@@ -4845,6 +4845,41 @@
       "date": "2026-11-09",
       "title": "Meta、Muse Wonderで学習した特化版モデルをMuse／Meta AIへ展開",
       "topic_key": "meta-muse-specialized-models-rollout"
+    },
+    "https://anthropic.com/claude-fable-and-mythos-5-2": {
+      "date": "2026-11-10",
+      "title": "Anthropic releases Claude Fable 5.2 and Mythos 5.2",
+      "topic_key": "claude-fable-5.2-mythos-5.2-release"
+    },
+    "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns": {
+      "date": "2026-11-10",
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "topic_key": "claude-fable-5.2-mythos-5.2-release"
+    },
+    "https://venturebeat.com/technology/anthropic-releases-claude-fable-5-2-and-mythos-5-2-pairing-new-record-high-benchmarks-with-20-api-cost-reduction": {
+      "date": "2026-11-10",
+      "title": "Anthropic releases Claude Fable 5.2 and Mythos 5.2 with 20% API cost reduction",
+      "topic_key": "claude-fable-5.2-mythos-5.2-release"
+    },
+    "https://research.meta.ai/blog/muse-ember": {
+      "date": "2026-11-10",
+      "title": "Meta launches Muse Ember",
+      "topic_key": "meta-muse-ember-release"
+    },
+    "https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do": {
+      "date": "2026-11-10",
+      "title": "Meta launches Muse Ember, a small AI model for agents",
+      "topic_key": "meta-muse-ember-release"
+    },
+    "https://thenextweb.com/news/meta-muse-ember-small-ai-model-haiku-luna": {
+      "date": "2026-11-10",
+      "title": "Meta's Muse Ember matches Claude Haiku at a third of the cost per task",
+      "topic_key": "meta-muse-ember-release"
+    },
+    "https://malbearlabs.com/posts/operation-snowball-inside-an-autonomous-ai-intrusion-campaign": {
+      "date": "2026-11-10",
+      "title": "Operation Snowball: Inside an Autonomous AI Intrusion Campaign",
+      "topic_key": "operation-snowball-deepseek-flash-autonomous-intrusion"
     }
   }
 }
