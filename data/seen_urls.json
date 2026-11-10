@@ -4880,6 +4880,26 @@
       "date": "2026-11-10",
       "title": "Operation Snowball: Inside an Autonomous AI Intrusion Campaign",
       "topic_key": "operation-snowball-deepseek-flash-autonomous-intrusion"
+    },
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available": {
+      "date": "2026-11-11",
+      "title": "【続報】Gemini 4 Carbon、発表の13日後に一般提供へ",
+      "topic_key": "gemini-4-carbon-general-availability-paid-api-ultra"
+    },
+    "https://deepmind.google/blog/introducing-alphaproof-code": {
+      "date": "2026-11-11",
+      "title": "DeepMind「AlphaProof Code」——Signalのプロトコル実装を約4週間で形式検証",
+      "topic_key": "alphaproof-code-signal-formal-verification"
+    },
+    "https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago": {
+      "date": "2026-11-11",
+      "title": "Fable 5.2がRemote Labor Indexで41.3%",
+      "topic_key": "remote-labor-index-fable-5.2-41pct"
+    },
+    "https://interestingengineering.com/ai-robotics/openai-control-room-35-second-model-shutdown": {
+      "date": "2026-11-11",
+      "title": "OpenAI、研究用ジョブの出力を止める「Control Room」を公表",
+      "topic_key": "openai-control-room-inference-authorization"
     }
   }
 }
