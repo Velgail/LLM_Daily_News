@@ -4900,6 +4900,36 @@
       "date": "2026-11-11",
       "title": "OpenAI、研究用ジョブの出力を止める「Control Room」を公表",
       "topic_key": "openai-control-room-inference-authorization"
+    },
+    "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api": {
+      "date": "2026-11-12",
+      "title": "Google「Gemini Decisions API」——文章を生成せず確率だけを返すGemini Decision 1",
+      "topic_key": "gemini-decisions-api-decision-1-release"
+    },
+    "https://aistudio.google.com/docs/decisions-api": {
+      "date": "2026-11-12",
+      "title": "Gemini Decisions API ドキュメント",
+      "topic_key": "gemini-decisions-api-decision-1-release"
+    },
+    "https://huggingface.co/meituan-longcat/LongCat-2.5": {
+      "date": "2026-11-12",
+      "title": "Meituan「LongCat-2.5」の重みがMITライセンスで公開",
+      "topic_key": "meituan-longcat-2.5-open-weights"
+    },
+    "https://longcat.ai/blog/longcat-2.5": {
+      "date": "2026-11-12",
+      "title": "LongCat-2.5 技術ブログ",
+      "topic_key": "meituan-longcat-2.5-open-weights"
+    },
+    "https://docs.qwencloud.com/developer-guides/getting-started/latest-model": {
+      "date": "2026-11-12",
+      "title": "Alibaba「Qwen4-Max-Preview」——2週間限定のプレビュー",
+      "topic_key": "qwen4-max-preview-token-plan"
+    },
+    "https://qwencloud.com/pricing/token-plan": {
+      "date": "2026-11-12",
+      "title": "Qwen Cloud Token Plan 価格ページ",
+      "topic_key": "qwen4-max-preview-token-plan"
     }
   }
 }
