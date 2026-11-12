@@ -4930,6 +4930,31 @@
       "date": "2026-11-12",
       "title": "Qwen Cloud Token Plan 価格ページ",
       "topic_key": "qwen4-max-preview-token-plan"
+    },
+    "https://runway.com/news/company-news/praxis-1-is-now-available": {
+      "date": "2026-11-13",
+      "title": "Runway「Praxis-1」の重みがApache 2.0で公開",
+      "topic_key": "runway-praxis-1-open-weights-release"
+    },
+    "https://therobotreport.com/runway-introduces-praxis-1-world-action-model-robotics": {
+      "date": "2026-11-13",
+      "title": "Runway Praxis-1 発表（補助）",
+      "topic_key": "runway-praxis-1-open-weights-release"
+    },
+    "https://ernie.baidu.com/release/ernie-5-5-flash-preview": {
+      "date": "2026-11-13",
+      "title": "Baidu「ERNIE 5.5 Flash Preview」Apache 2.0予告",
+      "topic_key": "baidu-ernie-5.5-flash-preview-apache-promise"
+    },
+    "https://elevenlabs.io/blog/scribe-v3": {
+      "date": "2026-11-13",
+      "title": "ElevenLabs「Scribe v3」「Scribe v3 Live」",
+      "topic_key": "elevenlabs-scribe-v3-release"
+    },
+    "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence": {
+      "date": "2026-11-13",
+      "title": "Google DeepMind「Gemini Robotics 2.5」",
+      "topic_key": "gemini-robotics-2.5-release"
     }
   }
 }
