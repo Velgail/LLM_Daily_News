@@ -4955,6 +4955,31 @@
       "date": "2026-11-13",
       "title": "Google DeepMind「Gemini Robotics 2.5」",
       "topic_key": "gemini-robotics-2.5-release"
+    },
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen": {
+      "date": "2026-11-14",
+      "title": "Google「Gemini 4 Hydrogen」",
+      "topic_key": "gemini-4-hydrogen-release"
+    },
+    "https://simonwillison.net/2026/nov/12/llm-gemini": {
+      "date": "2026-11-14",
+      "title": "Simon Willison: llm-gemini 0.37 (Hydrogen pricing)",
+      "topic_key": "gemini-4-hydrogen-release"
+    },
+    "https://perplexity.ai/hub/blog/perplexity-decider": {
+      "date": "2026-11-14",
+      "title": "Perplexity「Decider v1.3」",
+      "topic_key": "perplexity-decider-v1.3-release"
+    },
+    "https://huggingface.co/perplexity-ai/pplx-decider-v1.3": {
+      "date": "2026-11-14",
+      "title": "Perplexity Decider v1.3 (HF)",
+      "topic_key": "perplexity-decider-v1.3-release"
+    },
+    "https://huggingface.co/salesforce-sovereign-intelligence/sov-transcribe-1": {
+      "date": "2026-11-14",
+      "title": "Salesforce「SOV-Transcribe-1」",
+      "topic_key": "salesforce-sov-transcribe-1-release"
     }
   }
 }
