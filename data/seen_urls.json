@@ -4980,6 +4980,51 @@
       "date": "2026-11-14",
       "title": "Salesforce「SOV-Transcribe-1」",
       "topic_key": "salesforce-sov-transcribe-1-release"
+    },
+    "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots": {
+      "date": "2026-11-15",
+      "title": "OpenAI、ロボティクス専任チームを研究部門と応用部門に再編",
+      "topic_key": "openai-robotics-reorg-astranomy"
+    },
+    "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary": {
+      "date": "2026-11-15",
+      "title": "OpenAI、ロボティクス専任チームを研究部門と応用部門に再編",
+      "topic_key": "openai-robotics-reorg-astranomy"
+    },
+    "https://research.nvidia.com/labs/srl/projects/astranomy": {
+      "date": "2026-11-15",
+      "title": "OpenAI、ロボティクス専任チームを研究部門と応用部門に再編",
+      "topic_key": "openai-robotics-reorg-astranomy"
+    },
+    "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol": {
+      "date": "2026-11-15",
+      "title": "【続報】Gemini 4 Carbon、MathArenaで首位——費用はGPT-6.1 Solの約15倍",
+      "topic_key": "gemini-4-carbon-matharena-cost"
+    },
+    "https://x.com/j_dekoninck/status/2121263753006374997": {
+      "date": "2026-11-15",
+      "title": "【続報】Gemini 4 Carbon、MathArenaで首位——費用はGPT-6.1 Solの約15倍",
+      "topic_key": "gemini-4-carbon-matharena-cost"
+    },
+    "https://claude.com/resources/articles/using-claude-opus-5-5-as-your-daily-driver-for-knowledge-work": {
+      "date": "2026-11-15",
+      "title": "Anthropic、Opus 5.5向けの使い方ガイド",
+      "topic_key": "claude-opus-5.5-daily-driver-prompting-guide"
+    },
+    "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5": {
+      "date": "2026-11-15",
+      "title": "Anthropic、Opus 5.5向けの使い方ガイド",
+      "topic_key": "claude-opus-5.5-daily-driver-prompting-guide"
+    },
+    "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you": {
+      "date": "2026-11-15",
+      "title": "OpenAI「ChatGPT Wallet」限定提供",
+      "topic_key": "openai-chatgpt-wallet-launch"
+    },
+    "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet": {
+      "date": "2026-11-15",
+      "title": "OpenAI「ChatGPT Wallet」限定提供",
+      "topic_key": "openai-chatgpt-wallet-launch"
     }
   }
 }
