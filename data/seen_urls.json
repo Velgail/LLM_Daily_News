@@ -5025,6 +5025,41 @@
       "date": "2026-11-15",
       "title": "OpenAI「ChatGPT Wallet」限定提供",
       "topic_key": "openai-chatgpt-wallet-launch"
+    },
+    "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image": {
+      "date": "2026-11-16",
+      "title": "MiniMax「H3-Image」の重みが公開——許諾地域は米国・EU・英国・韓国を除く",
+      "topic_key": "minimax-h3-image-open-weights-territory-license"
+    },
+    "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image/blob/main/LICENSE": {
+      "date": "2026-11-16",
+      "title": "MiniMax「H3-Image」の重みが公開——許諾地域は米国・EU・英国・韓国を除く",
+      "topic_key": "minimax-h3-image-open-weights-territory-license"
+    },
+    "https://minimax.io/blog/minimax-h3-image": {
+      "date": "2026-11-16",
+      "title": "MiniMax「H3-Image」の重みが公開——許諾地域は米国・EU・英国・韓国を除く",
+      "topic_key": "minimax-h3-image-open-weights-territory-license"
+    },
+    "https://huggingface.co/MiniMaxAI/MiniMax-H3/blob/main/docs/QA-about-License.md": {
+      "date": "2026-11-16",
+      "title": "MiniMax「H3-Image」の重みが公開——許諾地域は米国・EU・英国・韓国を除く",
+      "topic_key": "minimax-h3-image-open-weights-territory-license"
+    },
+    "https://huggingface.co/NousResearch/Arete-27B": {
+      "date": "2026-11-16",
+      "title": "Nous Research「Arete-27B」——Qwen3.8-27Bを価値観調整",
+      "topic_key": "nous-arete-27b-release"
+    },
+    "https://huggingface.co/blog/Zyphra/zonos3-mini": {
+      "date": "2026-11-16",
+      "title": "Zyphra「ZONOS3-Mini」——43言語の音声合成MoEをApache 2.0で公開",
+      "topic_key": "zyphra-zonos3-mini-release"
+    },
+    "https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors": {
+      "date": "2026-11-16",
+      "title": "Claude に Sheets・Whiteboards 追加、Dashboards は Claude Data へ",
+      "topic_key": "claude-sheets-whiteboards-claude-data-launch"
     }
   }
 }
