@@ -5060,6 +5060,56 @@
       "date": "2026-11-16",
       "title": "Claude に Sheets・Whiteboards 追加、Dashboards は Claude Data へ",
       "topic_key": "claude-sheets-whiteboards-claude-data-launch"
+    },
+    "https://bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension": {
+      "date": "2026-11-17",
+      "title": "【続報】Cursorの偽Claude Code拡張事件、起点はFireworks AIの鍵",
+      "topic_key": "cursor-fireworks-key-claude-code-extension-postmortem"
+    },
+    "https://bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors": {
+      "date": "2026-11-17",
+      "title": "【続報】Cursorの偽Claude Code拡張事件、起点はFireworks AIの鍵",
+      "topic_key": "cursor-fireworks-key-claude-code-extension-postmortem"
+    },
+    "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html": {
+      "date": "2026-11-17",
+      "title": "【続報】Cursorの偽Claude Code拡張事件、起点はFireworks AIの鍵",
+      "topic_key": "cursor-fireworks-key-claude-code-extension-postmortem"
+    },
+    "https://anthropic.com/research/coordinated-vulnerability-disclosure-timelines": {
+      "date": "2026-11-17",
+      "title": "Anthropic、脆弱性の公開猶予を90日から30日へ",
+      "topic_key": "anthropic-cvd-30-day-window"
+    },
+    "https://helpnetsecurity.com/2026/11/16/google-project-zero-disclosure-policy": {
+      "date": "2026-11-17",
+      "title": "Anthropic、脆弱性の公開猶予を90日から30日へ",
+      "topic_key": "anthropic-cvd-30-day-window"
+    },
+    "https://projectzero.google/2026/11/disclosure-policy.html": {
+      "date": "2026-11-17",
+      "title": "Anthropic、脆弱性の公開猶予を90日から30日へ",
+      "topic_key": "anthropic-cvd-30-day-window"
+    },
+    "https://llm-stats.com/blog/research/qwen4-max-launch": {
+      "date": "2026-11-17",
+      "title": "Alibaba Qwen4-Max 正式公開",
+      "topic_key": "qwen4-max-release"
+    },
+    "https://qwen.ai/blog?id=qwen4-max": {
+      "date": "2026-11-17",
+      "title": "Alibaba Qwen4-Max 正式公開",
+      "topic_key": "qwen4-max-release"
+    },
+    "https://llm-stats.com/blog/research/hy4-flash-launch": {
+      "date": "2026-11-17",
+      "title": "Tencent Hy4 flash",
+      "topic_key": "tencent-hy4-flash-release"
+    },
+    "https://hy.tencent.ai/research/hy4-flash": {
+      "date": "2026-11-17",
+      "title": "Tencent Hy4 flash",
+      "topic_key": "tencent-hy4-flash-release"
     }
   }
 }
