@@ -5110,6 +5110,21 @@
       "date": "2026-11-17",
       "title": "Tencent Hy4 flash",
       "topic_key": "tencent-hy4-flash-release"
+    },
+    "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains": {
+      "date": "2026-11-18",
+      "title": "OpenAI「GPT-6.2 Astra / Sol」——Astraは前世代より2割安い入力8ドル、独立評価ではClaude Fable 5.2に次ぐ2位",
+      "topic_key": "openai-gpt-6.2-astra-sol-release"
+    },
+    "https://community.openai.com/t/gpt-6-2-astra-and-sol-are-now-available/1417531": {
+      "date": "2026-11-18",
+      "title": "OpenAI「GPT-6.2 Astra / Sol」——Astraは前世代より2割安い入力8ドル、独立評価ではClaude Fable 5.2に次ぐ2位",
+      "topic_key": "openai-gpt-6.2-astra-sol-release"
+    },
+    "https://datacentrenews.uk/story/ovhcloud-launches-first-open-source-ai-model-family": {
+      "date": "2026-11-18",
+      "title": "OVHcloud、初の自社オープンLLM「Olala mini 7A1B」——総7B・活性1Bで、8GB GPUやCPUでも動くと主張",
+      "topic_key": "ovhcloud-olala-mini-7a1b-release"
     }
   }
 }
