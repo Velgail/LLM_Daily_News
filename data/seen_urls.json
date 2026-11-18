@@ -5125,6 +5125,31 @@
       "date": "2026-11-18",
       "title": "OVHcloud、初の自社オープンLLM「Olala mini 7A1B」——総7B・活性1Bで、8GB GPUやCPUでも動くと主張",
       "topic_key": "ovhcloud-olala-mini-7a1b-release"
+    },
+    "https://microsoft.ai/news/microsoft-ignite-2026": {
+      "date": "2026-11-19",
+      "title": "Microsoft、Ignite で自社「MAI」モデル7本——MAI Code 2はGPT-6.1 Solの98%を約40%の価格で（自社主張）",
+      "topic_key": "microsoft-ignite-2026-mai-models-launch"
+    },
+    "https://testingcatalog.com/microsoft-launches-seven-mai-models-at-ignite-2026": {
+      "date": "2026-11-19",
+      "title": "Microsoft、Ignite で自社「MAI」モデル7本——MAI Code 2はGPT-6.1 Solの98%を約40%の価格で（自社主張）",
+      "topic_key": "microsoft-ignite-2026-mai-models-launch"
+    },
+    "https://research.nvidia.com/labs/gear/gr00t-2": {
+      "date": "2026-11-19",
+      "title": "NVIDIA「GR00T 2」——人の動画から学ぶロボット基盤モデル",
+      "topic_key": "nvidia-gr00t-2-release"
+    },
+    "https://gigazine.net/news/20261117-nvidia-robot-gr00t-2": {
+      "date": "2026-11-19",
+      "title": "NVIDIA「GR00T 2」——人の動画から学ぶロボット基盤モデル",
+      "topic_key": "nvidia-gr00t-2-release"
+    },
+    "https://elevenlabs.io/blog/kotoba": {
+      "date": "2026-11-19",
+      "title": "ElevenLabs、日本の音声AI研究所Kotobaを買収へ",
+      "topic_key": "elevenlabs-kotoba-acquisition"
     }
   }
 }
