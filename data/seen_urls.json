@@ -5150,6 +5150,41 @@
       "date": "2026-11-19",
       "title": "ElevenLabs、日本の音声AI研究所Kotobaを買収へ",
       "topic_key": "elevenlabs-kotoba-acquisition"
+    },
+    "https://9to5google.com/2026/11/18/gemini-4-neon-announcement": {
+      "date": "2026-11-20",
+      "title": "Google Gemini 4 Neon",
+      "topic_key": "gemini-4-neon-release"
+    },
+    "https://therundown.ai/news/google-gemini-4-neon-release": {
+      "date": "2026-11-20",
+      "title": "Google Gemini 4 Neon",
+      "topic_key": "gemini-4-neon-release"
+    },
+    "https://datacamp.com/blog/gemini-4-neon": {
+      "date": "2026-11-20",
+      "title": "Google Gemini 4 Neon",
+      "topic_key": "gemini-4-neon-release"
+    },
+    "https://venturebeat.com/technology/google-launches-gemini-4-neon-with-opus-5-5-level-coding-performance-at-25-lower-api-token-prices": {
+      "date": "2026-11-20",
+      "title": "Google Gemini 4 Neon",
+      "topic_key": "gemini-4-neon-release"
+    },
+    "https://cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html": {
+      "date": "2026-11-20",
+      "title": "【続報】Anthropic、Nasdaqに上場",
+      "topic_key": "anthropic-ipo-priced-ant-nasdaq-debut"
+    },
+    "https://cnn.com/2026/11/19/business/live-news/anthropic-ipo": {
+      "date": "2026-11-20",
+      "title": "【続報】Anthropic、Nasdaqに上場",
+      "topic_key": "anthropic-ipo-priced-ant-nasdaq-debut"
+    },
+    "https://marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model": {
+      "date": "2026-11-20",
+      "title": "Bland Tofu-1",
+      "topic_key": "bland-tofu-1-full-duplex-preview"
     }
   }
 }
