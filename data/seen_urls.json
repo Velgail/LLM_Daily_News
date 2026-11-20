@@ -5185,6 +5185,31 @@
       "date": "2026-11-20",
       "title": "Bland Tofu-1",
       "topic_key": "bland-tofu-1-full-duplex-preview"
+    },
+    "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin": {
+      "date": "2026-11-21",
+      "title": "RadixArk「DaisyRose-27B」",
+      "topic_key": "radixark-daisyrose-27b-release"
+    },
+    "https://huggingface.co/RadixArk/DaisyRose-27B": {
+      "date": "2026-11-21",
+      "title": "RadixArk DaisyRose-27B モデルカード（補助）",
+      "topic_key": "radixark-daisyrose-27b-release"
+    },
+    "https://technode.com/2026/11/19/tencent-releases-hy4-flash-model-weights-for-local-deployment/": {
+      "date": "2026-11-21",
+      "title": "【続報】Tencent Hy4 flash、重みを公開",
+      "topic_key": "tencent-hy4-flash-weights-release"
+    },
+    "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/": {
+      "date": "2026-11-21",
+      "title": "【続報】Genie 4がGemini APIに",
+      "topic_key": "genie-4-gemini-api-availability"
+    },
+    "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says": {
+      "date": "2026-11-21",
+      "title": "Meta Muse、会話混線と個人情報露出の報道",
+      "topic_key": "meta-muse-cross-account-data-mixup-report"
     }
   }
 }
