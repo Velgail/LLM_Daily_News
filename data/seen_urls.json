@@ -5210,6 +5210,26 @@
       "date": "2026-11-21",
       "title": "Meta Muse、会話混線と個人情報露出の報道",
       "topic_key": "meta-muse-cross-account-data-mixup-report"
+    },
+    "https://thinkingmachines.ai/news/inkling-2-mini": {
+      "date": "2026-11-22",
+      "title": "Thinking Machines「Inkling 2 Mini」",
+      "topic_key": "thinking-machines-inkling-2-mini-release"
+    },
+    "https://openai.com/index/combatting-adversarial-distillation": {
+      "date": "2026-11-22",
+      "title": "OpenAI、GPT-6.2の蒸留対策を公開",
+      "topic_key": "openai-gpt-6.2-adversarial-distillation-defenses"
+    },
+    "https://cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html": {
+      "date": "2026-11-22",
+      "title": "Cursor、中国製開放重みモデルの廃止を検討",
+      "topic_key": "cursor-prc-open-weight-models-phase-out-review"
+    },
+    "https://cryptobriefing.com/hd-moore-ai-supply-chain-data-leaks": {
+      "date": "2026-11-22",
+      "title": "HD Moore、AI推論サービス3社以上の侵害を報告",
+      "topic_key": "hd-moore-ai-hosting-canary-breach-report"
     }
   }
 }
