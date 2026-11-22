@@ -5230,6 +5230,31 @@
       "date": "2026-11-22",
       "title": "HD Moore、AI推論サービス3社以上の侵害を報告",
       "topic_key": "hd-moore-ai-hosting-canary-breach-report"
+    },
+    "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too": {
+      "date": "2026-11-23",
+      "title": "Anthropic所属の数学者、Claudeとリーマン予想のLean証明を発表",
+      "topic_key": "alpoge-claude-riemann-hypothesis-lean-proof-claim"
+    },
+    "https://officechai.com/ai/how-mathematicians-have-reacted-to-claimed-riemann-hypothesis-proof-by-anthropics-levent-alpoge": {
+      "date": "2026-11-23",
+      "title": "リーマン予想証明主張への数学者の反応（経緯ブロック補助リファレンス）",
+      "topic_key": "alpoge-claude-riemann-hypothesis-lean-proof-claim"
+    },
+    "https://ibm.com/think/news/anthropic-claude-riemann-hypothesis-math-proof": {
+      "date": "2026-11-23",
+      "title": "リーマン予想証明主張の報道（経緯ブロック補助リファレンス）",
+      "topic_key": "alpoge-claude-riemann-hypothesis-lean-proof-claim"
+    },
+    "https://anthropic.com/research/riemann-zeta": {
+      "date": "2026-11-23",
+      "title": "Anthropic、零点の臨界線上の割合の下限を67.2%へ（経緯ブロック補助リファレンス）",
+      "topic_key": "alpoge-claude-riemann-hypothesis-lean-proof-claim"
+    },
+    "https://metr.org/blog/2026-11-20-q4-2026-capability-update": {
+      "date": "2026-11-23",
+      "title": "METR、AI研究開発能力の急伸と測定困難を報告",
+      "topic_key": "metr-q4-2026-ai-rd-capability-update"
     }
   }
 }
