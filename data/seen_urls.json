@@ -5255,6 +5255,36 @@
       "date": "2026-11-23",
       "title": "METR、AI研究開発能力の急伸と測定困難を報告",
       "topic_key": "metr-q4-2026-ai-rd-capability-update"
+    },
+    "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification": {
+      "date": "2026-11-24",
+      "title": "DeepMind、Gemini 4のエージェントチームで量子アルゴリズムを探索",
+      "topic_key": "deepmind-gemini4-lean-verified-quantum-algorithms"
+    },
+    "https://arxiv.org/abs/2611.09822": {
+      "date": "2026-11-24",
+      "title": "DeepMind、Gemini 4のエージェントチームで量子アルゴリズムを探索",
+      "topic_key": "deepmind-gemini4-lean-verified-quantum-algorithms"
+    },
+    "https://github.com/google-deepmind/formal-quantum-computation": {
+      "date": "2026-11-24",
+      "title": "DeepMind、Gemini 4のエージェントチームで量子アルゴリズムを探索",
+      "topic_key": "deepmind-gemini4-lean-verified-quantum-algorithms"
+    },
+    "https://quantumcomputingreport.com/google-deepmind-and-google-quantum-ai-use-lean-4-to-discover-formally-verified-quantum-algorithms": {
+      "date": "2026-11-24",
+      "title": "DeepMind、Gemini 4のエージェントチームで量子アルゴリズムを探索",
+      "topic_key": "deepmind-gemini4-lean-verified-quantum-algorithms"
+    },
+    "https://sarvam.ai/blogs/sarvam-105b-1711": {
+      "date": "2026-11-24",
+      "title": "Sarvam-105B-1711",
+      "topic_key": "sarvam-105b-1711-release"
+    },
+    "https://baseten.co/blog/meet-bison-1-and-groundhog-1": {
+      "date": "2026-11-24",
+      "title": "Baseten bison-1 / groundhog-1",
+      "topic_key": "baseten-bison-1-groundhog-1-decision-models"
     }
   }
 }
