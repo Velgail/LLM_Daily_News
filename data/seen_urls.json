@@ -5285,6 +5285,36 @@
       "date": "2026-11-24",
       "title": "Baseten bison-1 / groundhog-1",
       "topic_key": "baseten-bison-1-groundhog-1-decision-models"
+    },
+    "https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model": {
+      "date": "2026-11-25",
+      "title": "Z.ai GLM-5.4（750Bループ型）",
+      "topic_key": "glm-5.4-loop-transformer-release"
+    },
+    "https://z.ai/blog/glm-5.4": {
+      "date": "2026-11-25",
+      "title": "Z.ai GLM-5.4（750Bループ型）",
+      "topic_key": "glm-5.4-loop-transformer-release"
+    },
+    "https://technode.com/2026/11/23/zhipu-rolls-out-glm-5-4-with-vision-and-million-token-context": {
+      "date": "2026-11-25",
+      "title": "Z.ai GLM-5.4（750Bループ型）",
+      "topic_key": "glm-5.4-loop-transformer-release"
+    },
+    "https://macrumors.com/2026/11/23/openai-gpt-6-2-sol-chatgpt": {
+      "date": "2026-11-25",
+      "title": "【続報】ChatGPT Chatタブ向け GPT-6.2 Sol",
+      "topic_key": "gpt-6.2-sol-chat-tab-rollout"
+    },
+    "https://alibabacloud.com/help/en/model-studio/qwen-audio-3-1-live": {
+      "date": "2026-11-25",
+      "title": "Alibaba Qwen-Audio-3.1-Live",
+      "topic_key": "qwen-audio-3.1-live-release"
+    },
+    "https://alibabacloud.com/help/en/model-studio/newly-released-models": {
+      "date": "2026-11-25",
+      "title": "Alibaba Qwen-Audio-3.1-Live",
+      "topic_key": "qwen-audio-3.1-live-release"
     }
   }
 }
