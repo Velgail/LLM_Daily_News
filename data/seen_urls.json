@@ -5315,6 +5315,26 @@
       "date": "2026-11-25",
       "title": "Alibaba Qwen-Audio-3.1-Live",
       "topic_key": "qwen-audio-3.1-live-release"
+    },
+    "https://invenglobal.com/articles/29095/krafton-officially-launches-in-house-llm-raon-1-mini": {
+      "date": "2026-11-26",
+      "title": "KRAFTON「Raon-1 mini」正式版",
+      "topic_key": "krafton-raon-1-mini-release"
+    },
+    "https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb": {
+      "date": "2026-11-26",
+      "title": "PrismML「Ternary Bonsai 2.5 27B」",
+      "topic_key": "prismml-ternary-bonsai-2.5-27b-release"
+    },
+    "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data": {
+      "date": "2026-11-26",
+      "title": "OpenAI「Private Inference」企業向け試験提供",
+      "topic_key": "openai-private-inference-pilot"
+    },
+    "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant": {
+      "date": "2026-11-26",
+      "title": "DeepMind Kavukcuoglu氏、エージェントが実験の計算資源を一部制御",
+      "topic_key": "deepmind-agents-control-compute-gemini-experiments"
     }
   }
 }
