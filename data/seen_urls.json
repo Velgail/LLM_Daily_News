@@ -5335,6 +5335,36 @@
       "date": "2026-11-26",
       "title": "DeepMind Kavukcuoglu氏、エージェントが実験の計算資源を一部制御",
       "topic_key": "deepmind-agents-control-compute-gemini-experiments"
+    },
+    "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview": {
+      "date": "2026-11-27",
+      "title": "【続報】Baidu「ERNIE 5.5 Flash Preview」重みをApache 2.0で公開",
+      "topic_key": "baidu-ernie-5.5-flash-preview-apache-weights-released"
+    },
+    "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview/blob/main/LICENSE": {
+      "date": "2026-11-27",
+      "title": "【続報】Baidu「ERNIE 5.5 Flash Preview」重みをApache 2.0で公開（補助）",
+      "topic_key": "baidu-ernie-5.5-flash-preview-apache-weights-released"
+    },
+    "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie": {
+      "date": "2026-11-27",
+      "title": "【続報】Baidu「ERNIE 5.5 Flash Preview」重みをApache 2.0で公開（補助）",
+      "topic_key": "baidu-ernie-5.5-flash-preview-apache-weights-released"
+    },
+    "https://cognition.com/blog/swe-2-1": {
+      "date": "2026-11-27",
+      "title": "Cognition「SWE-2.1」Kimi K3を強化学習で鍛えたコーディングモデル",
+      "topic_key": "cognition-swe-2.1-release"
+    },
+    "https://workspaceupdates.googleblog.com/2026/11/mcp-servers-cli-standardized-usage-tiers-now-available": {
+      "date": "2026-11-27",
+      "title": "Google Workspace MCPサーバー／CLI一般提供とREST直叩き禁止",
+      "topic_key": "google-workspace-mcp-cli-ga-usage-tiers"
+    },
+    "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more": {
+      "date": "2026-11-27",
+      "title": "Anthropic「Skills over MCP」公開ベータ",
+      "topic_key": "anthropic-skills-over-mcp-public-beta"
     }
   }
 }
