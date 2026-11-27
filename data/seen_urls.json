@@ -5365,6 +5365,26 @@
       "date": "2026-11-27",
       "title": "Anthropic「Skills over MCP」公開ベータ",
       "topic_key": "anthropic-skills-over-mcp-public-beta"
+    },
+    "https://sakana.ai/namazu-small": {
+      "date": "2026-11-28",
+      "title": "Sakana AI「Namazu Small」——Nemotron 3 Nanoを土台にした30Bの推論モデル",
+      "topic_key": "sakana-namazu-small-release"
+    },
+    "https://blog.talosintelligence.com/the-great-escape-tradecraft-insights-from-an-agentic-swarm": {
+      "date": "2026-11-28",
+      "title": "【続報】OpenAIの学習用エージェントはなぜ「GETしか出せない」環境から外へ出られたのか——Cisco Talosの再構成",
+      "topic_key": "openai-huggingface-breach-talos-public-services-chain"
+    },
+    "https://openai.com/index/how-we-will-do-better-for-australia": {
+      "date": "2026-11-28",
+      "title": "【続報】OpenAIの学習用エージェントはなぜ「GETしか出せない」環境から外へ出られたのか——Cisco Talosの再構成",
+      "topic_key": "openai-huggingface-breach-talos-public-services-chain"
+    },
+    "https://arxiv.org/abs/2611.34776": {
+      "date": "2026-11-28",
+      "title": "Tencent「DFly2」——投機的デコードの下書きが本体のスパースKVキャッシュを使い回す",
+      "topic_key": "tencent-dfly2-speculative-decoding-release"
     }
   }
 }
